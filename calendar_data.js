@@ -1,5 +1,5 @@
 window.CAL_DATA = {
- "updated": "2026-11-03 20:07",
+ "updated": "2026-11-03 23:20",
  "entries": [
   {
    "date": "2026-11-01",
@@ -610,18 +610,6 @@ window.CAL_DATA = {
    "link": "entry578.html"
   },
   {
-   "date": "2026-11-02",
-   "genres": [
-    "その他"
-   ],
-   "shop": "NISHIKIYA KITCHEN",
-   "time": "",
-   "tags": [
-    "予告"
-   ],
-   "link": "entry798.html"
-  },
-  {
    "date": "2026-11-03",
    "genres": [
     "食品"
@@ -748,6 +736,18 @@ window.CAL_DATA = {
    "link": "entry583.html"
   },
   {
+   "date": "2026-11-03",
+   "genres": [
+    "その他"
+   ],
+   "shop": "NISHIKIYA KITCHEN",
+   "time": "",
+   "tags": [
+    "予告"
+   ],
+   "link": "entry798.html"
+  },
+  {
    "date": "2026-11-04",
    "genres": [
     "総合"
@@ -802,6 +802,16 @@ window.CAL_DATA = {
     "抽選"
    ],
    "link": "entry595.html"
+  },
+  {
+   "date": "2026-11-04",
+   "genres": [
+    "コスメ"
+   ],
+   "shop": "Nオーガニック",
+   "time": "20:00",
+   "tags": [],
+   "link": "entry44.html"
   },
   {
    "date": "2026-11-04",
@@ -922,16 +932,6 @@ window.CAL_DATA = {
    "time": "",
    "tags": [],
    "link": "entry289.html"
-  },
-  {
-   "date": "2026-11-04",
-   "genres": [
-    "コスメ"
-   ],
-   "shop": "Nオーガニック",
-   "time": "20:00",
-   "tags": [],
-   "link": "entry44.html"
   },
   {
    "date": "2026-11-04",
