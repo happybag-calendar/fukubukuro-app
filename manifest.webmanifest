@@ -1,0 +1,15 @@
+{
+  "name": "福袋カレンダー",
+  "short_name": "福袋",
+  "description": "福袋の予約開始日・発売日を、月のカレンダーと本日の日程で確認できます。",
+  "start_url": "./",
+  "scope": "./",
+  "display": "standalone",
+  "lang": "ja",
+  "background_color": "#fbf8f6",
+  "theme_color": "#b3261e",
+  "icons": [
+    {"src": "icons/icon-192.png", "sizes": "192x192", "type": "image/png", "purpose": "any maskable"},
+    {"src": "icons/icon-512.png", "sizes": "512x512", "type": "image/png", "purpose": "any maskable"}
+  ]
+}

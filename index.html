@@ -1,0 +1,183 @@
+<!doctype html>
+<html lang="ja">
+<head>
+<meta charset="utf-8">
+<meta name="viewport" content="width=device-width, initial-scale=1, viewport-fit=cover">
+<title>福袋カレンダー</title>
+<link rel="manifest" href="manifest.webmanifest">
+<meta name="theme-color" content="#b3261e">
+<link rel="icon" href="icons/icon-192.png">
+<link rel="apple-touch-icon" href="icons/icon-192.png">
+<meta name="apple-mobile-web-app-capable" content="yes">
+<meta name="mobile-web-app-capable" content="yes">
+<meta name="apple-mobile-web-app-title" content="福袋">
+<link rel="stylesheet" href="https://fonts.googleapis.com/css2?family=Noto+Sans+JP:wght@400;500;700&display=swap">
+<style>
+/* 配置: 上に「本日の日程」、下に「月のカレンダー」。日付を押すと、その日の福袋が上に出る。 */
+:root{--bg:#fbf8f6;--fg:#241a18;--mute:#6c5f5b;--card:#ffffff;--line:#e6dcd8;--red:#b3261e;--red-fg:#ffffff;--gold:#b9831c;--today:#fde9e6;
+--g1:#1f6fb2;--g2:#2e7d4f;--g3:#7a4fb0;--g4:#c2410c;--g5:#0f766e;--g6:#a1357a;--g-other:#6c5f5b;
+--font:"Noto Sans JP","Hiragino Kaku Gothic ProN","Yu Gothic",Meiryo,sans-serif}
+@media (prefers-color-scheme:dark){:root:not([data-theme="light"]){--bg:#1a1413;--fg:#f3eae7;--mute:#b3a29d;--card:#251c1a;--line:#3d302d;--red:#ff8a80;--red-fg:#2a0f0c;--gold:#e0ac4a;--today:#3a1f1c;
+--g1:#6fb4ee;--g2:#6fcf94;--g3:#bf9cf0;--g4:#ff9a62;--g5:#5fd0c4;--g6:#f08bc8;--g-other:#b3a29d;color-scheme:dark}}
+:root[data-theme="dark"]{--bg:#1a1413;--fg:#f3eae7;--mute:#b3a29d;--card:#251c1a;--line:#3d302d;--red:#ff8a80;--red-fg:#2a0f0c;--gold:#e0ac4a;--today:#3a1f1c;
+--g1:#6fb4ee;--g2:#6fcf94;--g3:#bf9cf0;--g4:#ff9a62;--g5:#5fd0c4;--g6:#f08bc8;--g-other:#b3a29d;color-scheme:dark}
+[hidden]{display:none!important}
+html,body{margin:0}
+body{background:var(--bg);color:var(--fg);font-family:var(--font);font-size:17px;line-height:1.55;
+padding-block:16px 40px;padding-left:max(16px,env(safe-area-inset-left,0px));padding-right:max(16px,env(safe-area-inset-right,0px))}
+main{max-width:640px;margin:0 auto;display:flex;flex-direction:column;gap:20px}
+header{display:flex;justify-content:space-between;align-items:baseline;gap:12px;flex-wrap:wrap}
+h1{font-size:24px;margin:0;letter-spacing:.02em}
+.upd{font-size:13px;color:var(--mute)}
+.demo{font-size:13px;color:var(--gold);border:1px solid var(--gold);border-radius:999px;padding:2px 10px}
+h2{font-size:20px;margin:0}
+.panel{background:var(--card);border:1px solid var(--line);border-radius:12px;padding:16px;display:flex;flex-direction:column;gap:12px}
+.dayhead{display:flex;align-items:baseline;gap:10px;flex-wrap:wrap}
+.dayhead .sub{color:var(--mute);font-size:15px}
+.filters{display:flex;gap:8px;flex-wrap:wrap}
+.chip{font:inherit;font-size:15px;padding:7px 14px;border-radius:999px;border:1px solid var(--line);background:var(--bg);color:var(--fg);cursor:pointer;min-height:40px}
+.chip[aria-pressed="true"]{background:var(--red);color:var(--red-fg);border-color:var(--red);font-weight:700}
+ul.list{list-style:none;margin:0;padding:0;display:flex;flex-direction:column;gap:8px}
+.item{display:flex;gap:12px;align-items:center;border:1px solid var(--line);border-radius:10px;padding:10px 12px;text-decoration:none;color:inherit;min-height:56px}
+.item:hover{border-color:var(--red)}
+.time{flex:none;width:3.6em;font-weight:700;font-variant-numeric:tabular-nums;color:var(--red)}
+.body{min-width:0;display:flex;flex-direction:column;gap:2px}
+.shop{font-weight:700;overflow-wrap:anywhere}
+.tags{display:flex;gap:6px;flex-wrap:wrap;font-size:13px}
+.tag{border-radius:4px;padding:0 7px;border:1px solid currentColor;font-weight:500}
+.empty{color:var(--mute);padding:8px 0}
+.cal{display:flex;flex-direction:column;gap:10px}
+.calhead{display:flex;align-items:center;justify-content:space-between;gap:8px}
+.nav{font:inherit;font-size:20px;width:48px;height:44px;border-radius:10px;border:1px solid var(--line);background:var(--card);color:var(--fg);cursor:pointer}
+.grid{display:grid;grid-template-columns:repeat(7,minmax(0,1fr));gap:4px}
+.dow{text-align:center;font-size:13px;color:var(--mute);padding:2px 0}
+.dow:first-child{color:var(--red)}
+.cell{font:inherit;display:flex;flex-direction:column;align-items:center;gap:3px;padding:6px 0 7px;min-height:58px;border-radius:8px;border:1px solid transparent;background:var(--card);color:var(--fg);cursor:pointer}
+.cell.blank{background:transparent;cursor:default}
+.cell.today{background:var(--today);border-color:var(--red)}
+.cell[aria-pressed="true"]{outline:3px solid var(--red);outline-offset:-1px}
+.num{font-size:16px;font-weight:500;font-variant-numeric:tabular-nums}
+.dots{display:flex;gap:2px;flex-wrap:wrap;justify-content:center;min-height:8px}
+.dot{width:7px;height:7px;border-radius:50%}
+.count{font-size:11px;color:var(--mute)}
+.chip:focus-visible,.nav:focus-visible,.cell:focus-visible,.item:focus-visible{outline:3px solid var(--fg);outline-offset:2px}
+.note{font-size:13px;color:var(--mute)}
+.news{border:1px solid var(--gold);border-radius:12px;padding:14px 16px;display:flex;flex-direction:column;gap:8px;background:var(--card)}
+.news h2{font-size:17px;color:var(--gold)}
+.news ul{list-style:none;margin:0;padding:0;display:flex;flex-direction:column;gap:6px}
+.news li{display:flex;gap:10px;align-items:baseline}
+.news .nd{flex:none;font-size:13px;color:var(--mute);font-variant-numeric:tabular-nums}
+.news a{color:var(--fg);text-underline-offset:3px;font-weight:500}
+.news a:focus-visible{outline:3px solid var(--fg);outline-offset:2px}
+</style></head>
+<body>
+<main>
+<header><h1>福袋カレンダー</h1><span class="upd" id="upd"></span></header>
+
+<section class="news" id="newsBox" aria-label="お知らせ" hidden>
+  <h2>お知らせ</h2>
+  <ul id="news"></ul>
+</section>
+
+<section class="panel" aria-live="polite">
+  <div class="dayhead"><h2 id="dayTitle">本日の日程</h2><span class="sub" id="daySub"></span></div>
+  <div class="filters" id="filters" role="group" aria-label="ジャンルで絞る"></div>
+  <ul class="list" id="list"></ul>
+</section>
+
+<section class="cal">
+  <div class="calhead">
+    <button class="nav" id="prev" type="button" aria-label="前の月">‹</button>
+    <h2 id="monthTitle"></h2>
+    <button class="nav" id="next" type="button" aria-label="次の月">›</button>
+  </div>
+  <div class="grid" id="grid"></div>
+  <div class="note">日付を押すと、その日の福袋が上に出ます。点の色はジャンルです。</div>
+</section>
+<p class="note">福袋カレンダー(happy-bag.biz)の日程表をもとにしています。日程は変わることがあります。</p>
+</main>
+<script src="calendar_data.js"></script>
+<script src="news.js"></script>
+<script>
+var BASE="https://happy-bag.biz/";
+var PAL=["--g1","--g2","--g3","--g4","--g5","--g6"];
+var ENTRIES=(window.CAL_DATA&&window.CAL_DATA.entries)||[];
+var NEWS=window.NEWS||[];
+var $=function(id){return document.getElementById(id)};
+// ジャンル: 件数の多い順に6つまで色を付け、それ以外は「その他」にまとめる
+var counts={}; ENTRIES.forEach(function(r){r.genres.forEach(function(g){counts[g]=(counts[g]||0)+1;});});
+var TOP=Object.keys(counts).sort(function(a,b){return counts[b]-counts[a]}).slice(0,6);
+function mainGenre(r){for(var i=0;i<r.genres.length;i++){if(TOP.indexOf(r.genres[i])>=0)return r.genres[i];}return "その他";}
+function color(g){var i=TOP.indexOf(g);return "var("+(i>=0?PAL[i]:"--g-other")+")"}
+var GENRES=TOP.concat(["その他"]).filter(function(g){return g!=="その他"||ENTRIES.some(function(r){return mainGenre(r)==="その他"})});
+var today=new Date(), pad=function(n){return(n<10?"0":"")+n};
+var key=function(y,m,d){return y+"-"+pad(m)+"-"+pad(d)};
+var todayKey=key(today.getFullYear(),today.getMonth()+1,today.getDate());
+var view={y:today.getFullYear(),m:today.getMonth()+1}, sel=todayKey, genre="すべて";
+var DOW=["日","月","火","水","木","金","土"];
+function byDay(k){return ENTRIES.filter(function(r){return r.date===k})}
+function ok(r){return genre==="すべて"||mainGenre(r)===genre}
+function renderFilters(){
+  var f=$("filters"); f.innerHTML="";
+  ["すべて"].concat(GENRES).forEach(function(g){
+    var b=document.createElement("button"); b.type="button"; b.className="chip"; b.textContent=g;
+    b.setAttribute("aria-pressed",String(g===genre));
+    b.onclick=function(){genre=g;renderFilters();renderDay();renderGrid();};
+    f.appendChild(b);
+  });
+}
+function renderDay(){
+  var p=sel.split("-").map(Number), dt=new Date(p[0],p[1]-1,p[2]);
+  $("dayTitle").textContent=sel===todayKey?"本日の日程":p[1]+"月"+p[2]+"日の日程";
+  $("daySub").textContent=p[1]+"月"+p[2]+"日("+DOW[dt.getDay()]+")";
+  var rows=byDay(sel).filter(ok).sort(function(a,b){return (a.time||"99:99").localeCompare(b.time||"99:99",undefined,{numeric:true})});
+  var ul=$("list"); ul.innerHTML="";
+  if(!rows.length){var li=document.createElement("li");li.className="empty";li.textContent="この日の福袋の予定は、まだありません。";ul.appendChild(li);return;}
+  rows.forEach(function(r){
+    var li=document.createElement("li"), a=document.createElement("a");
+    a.className="item"; a.href=BASE+r.link; a.target="_blank"; a.rel="noopener";
+    var t=document.createElement("span"); t.className="time"; t.textContent=r.time||"終日";
+    var b=document.createElement("span"); b.className="body";
+    var s=document.createElement("span"); s.className="shop"; s.textContent=r.shop;
+    var tg=document.createElement("span"); tg.className="tags";
+    r.genres.concat(r.tags).forEach(function(x){var e=document.createElement("span");e.className="tag";e.textContent=x;e.style.color=r.genres.indexOf(x)>=0?color(x):"var(--red)";tg.appendChild(e);});
+    b.appendChild(s); b.appendChild(tg); a.appendChild(t); a.appendChild(b); li.appendChild(a); ul.appendChild(li);
+  });
+}
+function renderGrid(){
+  $("monthTitle").textContent=view.y+"年"+view.m+"月";
+  var g=$("grid"); g.innerHTML="";
+  DOW.forEach(function(d){var e=document.createElement("div");e.className="dow";e.textContent=d;g.appendChild(e);});
+  var first=new Date(view.y,view.m-1,1).getDay(), days=new Date(view.y,view.m,0).getDate();
+  for(var i=0;i<first;i++){var bl=document.createElement("div");bl.className="cell blank";g.appendChild(bl);}
+  for(var d=1;d<=days;d++){(function(d){
+    var k=key(view.y,view.m,d), rows=byDay(k).filter(ok);
+    var c=document.createElement("button"); c.type="button"; c.className="cell"+(k===todayKey?" today":"");
+    c.setAttribute("aria-pressed",String(k===sel)); c.setAttribute("aria-label",view.m+"月"+d+"日 "+rows.length+"件");
+    var n=document.createElement("span"); n.className="num"; n.textContent=d; c.appendChild(n);
+    var dots=document.createElement("span"); dots.className="dots";
+    var seen={}; rows.forEach(function(r){var mg=mainGenre(r); if(!seen[mg]&&Object.keys(seen).length<4){seen[mg]=1;var o=document.createElement("i");o.className="dot";o.style.background=color(mg);dots.appendChild(o);}});
+    c.appendChild(dots);
+    if(rows.length){var ct=document.createElement("span");ct.className="count";ct.textContent=rows.length+"件";c.appendChild(ct);}
+    c.onclick=function(){sel=k;renderDay();renderGrid();window.scrollTo({top:0,behavior:"smooth"});};
+    g.appendChild(c);
+  })(d);}
+}
+function shift(n){view.m+=n;if(view.m<1){view.m=12;view.y--;}if(view.m>12){view.m=1;view.y++;}renderGrid();}
+function renderNews(){
+  var ul=$("news"); ul.innerHTML="";
+  if(!NEWS.length){$("newsBox").hidden=true;return;}
+  $("newsBox").hidden=false;
+  NEWS.forEach(function(n){
+    var li=document.createElement("li"), d=document.createElement("span"), a=document.createElement("a");
+    d.className="nd"; d.textContent=n[0]; a.textContent=n[1]; a.href=BASE+n[2]; a.target="_blank"; a.rel="noopener";
+    li.appendChild(d); li.appendChild(a); ul.appendChild(li);
+  });
+}
+$("prev").onclick=function(){shift(-1)}; $("next").onclick=function(){shift(1)};
+if(window.CAL_DATA&&window.CAL_DATA.updated){$("upd").textContent="更新 "+window.CAL_DATA.updated;}
+renderNews(); renderFilters(); renderDay(); renderGrid();
+if("serviceWorker" in navigator){window.addEventListener("load",function(){navigator.serviceWorker.register("sw.js").catch(function(){});});}
+</script>
+</body>
+</html>
