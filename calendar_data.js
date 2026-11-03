@@ -1,5 +1,5 @@
 window.CAL_DATA = {
- "updated": "2026-11-03 23:20",
+ "updated": "2026-11-04 06:50",
  "entries": [
   {
    "date": "2026-11-01",
@@ -872,6 +872,16 @@ window.CAL_DATA = {
    "time": "",
    "tags": [],
    "link": "entry40.html"
+  },
+  {
+   "date": "2026-11-04",
+   "genres": [
+    "子供服"
+   ],
+   "shop": "ナルミヤ公式オンライン",
+   "time": "10:00",
+   "tags": [],
+   "link": "entry55.html"
   },
   {
    "date": "2026-11-04",
