@@ -1,5 +1,5 @@
 window.CAL_DATA = {
- "updated": "2026-11-04 06:50",
+ "updated": "2026-11-04 07:19",
  "entries": [
   {
    "date": "2026-11-01",
@@ -760,6 +760,18 @@ window.CAL_DATA = {
   {
    "date": "2026-11-04",
    "genres": [
+    "日用品"
+   ],
+   "shop": "眼鏡の福袋一覧",
+   "time": "",
+   "tags": [
+    "人気"
+   ],
+   "link": "entry289.html"
+  },
+  {
+   "date": "2026-11-04",
+   "genres": [
     "その他"
    ],
    "shop": "カフェチェーンの福袋一覧",
@@ -922,26 +934,6 @@ window.CAL_DATA = {
    "time": "0:00",
    "tags": [],
    "link": "entry701.html"
-  },
-  {
-   "date": "2026-11-04",
-   "genres": [
-    "子供服"
-   ],
-   "shop": "NARUMIYA公式",
-   "time": "",
-   "tags": [],
-   "link": "entry55.html"
-  },
-  {
-   "date": "2026-11-04",
-   "genres": [
-    "日用品"
-   ],
-   "shop": "眼鏡の福袋一覧",
-   "time": "",
-   "tags": [],
-   "link": "entry289.html"
   },
   {
    "date": "2026-11-04",
