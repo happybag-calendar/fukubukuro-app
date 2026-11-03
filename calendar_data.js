@@ -1,5 +1,5 @@
 window.CAL_DATA = {
- "updated": "2026-11-03 17:45",
+ "updated": "2026-11-03 20:07",
  "entries": [
   {
    "date": "2026-11-01",
@@ -620,6 +620,18 @@ window.CAL_DATA = {
     "予告"
    ],
    "link": "entry798.html"
+  },
+  {
+   "date": "2026-11-03",
+   "genres": [
+    "食品"
+   ],
+   "shop": "大浜スイーツアカデミー",
+   "time": "20:00",
+   "tags": [
+    "速報"
+   ],
+   "link": "entry1018.html"
   },
   {
    "date": "2026-11-03",
