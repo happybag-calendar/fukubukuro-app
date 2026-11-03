@@ -1,5 +1,5 @@
 window.CAL_DATA = {
- "updated": "2026-11-03 16:48",
+ "updated": "2026-11-03 17:45",
  "entries": [
   {
    "date": "2026-11-01",
@@ -20,7 +20,9 @@ window.CAL_DATA = {
    ],
    "shop": "ヒマラヤスポーツ公式",
    "time": "0:00",
-   "tags": [],
+   "tags": [
+    "人気"
+   ],
    "link": "entry783.html"
   },
   {
@@ -210,7 +212,9 @@ window.CAL_DATA = {
    ],
    "shop": "岐阜・中津川 ちこり村",
    "time": "",
-   "tags": [],
+   "tags": [
+    "人気"
+   ],
    "link": "entry849.html"
   },
   {
@@ -416,6 +420,7 @@ window.CAL_DATA = {
    "shop": "USAGI ONLINE",
    "time": "",
    "tags": [
+    "人気",
     "抽選"
    ],
    "link": "entry27.html"
@@ -653,7 +658,9 @@ window.CAL_DATA = {
    ],
    "shop": "成城石井公式通販",
    "time": "10:00",
-   "tags": [],
+   "tags": [
+    "人気"
+   ],
    "link": "entry377.html"
   },
   {
@@ -951,7 +958,9 @@ window.CAL_DATA = {
    ],
    "shop": "澤井コーヒー公式",
    "time": "20:00",
-   "tags": [],
+   "tags": [
+    "人気"
+   ],
    "link": "entry984.html"
   },
   {
@@ -1226,7 +1235,9 @@ window.CAL_DATA = {
    ],
    "shop": "うなぎ屋かわすい",
    "time": "20:00",
-   "tags": [],
+   "tags": [
+    "人気"
+   ],
    "link": "entry1004.html"
   },
   {
