@@ -1,5 +1,5 @@
 window.CAL_DATA = {
- "updated": "2026-11-04 07:19",
+ "updated": "2026-11-04 07:22",
  "entries": [
   {
    "date": "2026-11-01",
@@ -762,7 +762,7 @@ window.CAL_DATA = {
    "genres": [
     "日用品"
    ],
-   "shop": "眼鏡の福袋一覧",
+   "shop": "JIN'sメガネ",
    "time": "",
    "tags": [
     "人気"
