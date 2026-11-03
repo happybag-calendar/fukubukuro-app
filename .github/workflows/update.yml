@@ -15,11 +15,13 @@ jobs:
           python-version: "3.12"
       - run: pip install requests beautifulsoup4
       - run: python build_data.py
+      - name: ジャンル一覧も更新する(失敗しても、日程の更新は続ける)
+        run: python build_genres.py || true
       - name: 変わっていたら保存する
         run: |
           git config user.name "github-actions"
           git config user.email "actions@users.noreply.github.com"
-          git add calendar_data.js
+          git add calendar_data.js genres_data.js
           if ! git diff --cached --quiet; then
             git commit -m "福袋カレンダーのデータを更新"
             git push
