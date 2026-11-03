@@ -69,10 +69,19 @@ ul.list{list-style:none;margin:0;padding:0;display:flex;flex-direction:column;ga
 .news .nd{flex:none;font-size:13px;color:var(--mute);font-variant-numeric:tabular-nums}
 .news a{color:var(--fg);text-underline-offset:3px;font-weight:500}
 .news a:focus-visible{outline:3px solid var(--fg);outline-offset:2px}
+.genres{background:var(--card);border:1px solid var(--line);border-radius:12px;padding:16px;display:flex;flex-direction:column;gap:14px}
+.genres h2{font-size:20px}
+.gg{margin-bottom:16px}.gg:last-child{margin-bottom:0}
+.gg h3{font-size:15px;margin:0 0 8px;color:var(--mute);font-weight:700}
+.gl{display:flex;gap:8px;flex-wrap:wrap}
+.gl a{font-size:15px;padding:8px 14px;border-radius:999px;border:1px solid var(--line);background:var(--bg);color:var(--fg);text-decoration:none;min-height:40px;display:inline-flex;align-items:center;word-break:keep-all}
+.gl a:hover{border-color:var(--red)}
+.gl a:focus-visible{outline:3px solid var(--fg);outline-offset:2px}
+.toplink{font-size:14px;color:var(--red);text-underline-offset:3px}
 </style></head>
 <body>
 <main>
-<header><h1>福袋カレンダー</h1><span class="upd" id="upd"></span></header>
+<header><h1>福袋カレンダー</h1><a class="toplink" href="#genres">ジャンルから探す ↓</a><span class="upd" id="upd"></span></header>
 
 <section class="news" id="newsBox" aria-label="お知らせ" hidden>
   <h2>お知らせ</h2>
@@ -94,10 +103,16 @@ ul.list{list-style:none;margin:0;padding:0;display:flex;flex-direction:column;ga
   <div class="grid" id="grid"></div>
   <div class="note">日付を押すと、その日の福袋が上に出ます。点の色はジャンルです。</div>
 </section>
+<section class="genres" id="genres" aria-labelledby="gtitle">
+  <h2 id="gtitle">ジャンルから探す</h2>
+  <div id="glist"></div>
+  <div class="note">押すと、福袋カレンダーのサイトで、そのジャンルの福袋の一覧が開きます。楽天・Yahoo!・Amazonの探すリンクも、そこにあります。</div>
+</section>
 <p class="note">福袋カレンダー(happy-bag.biz)の日程表をもとにしています。日程は変わることがあります。</p>
 </main>
 <script src="calendar_data.js"></script>
 <script src="news.js"></script>
+<script src="genres_data.js"></script>
 <script>
 var BASE="https://happy-bag.biz/";
 var PAL=["--g1","--g2","--g3","--g4","--g5","--g6"];
@@ -196,6 +211,40 @@ function renderNews(){
     li.appendChild(d); li.appendChild(a); ul.appendChild(li);
   });
 }
+var GROUPS=[
+["ファッション",["メンズ","レディース","キッズ・ベビー","バッグ・小物","靴・シューズ","時計・腕時計","インナー・靴下"]],
+["食品・飲み物",["食品","スイーツ・お菓子","水・お茶・紅茶","ワイン・ビール・洋酒","日本酒・焼酎"]],
+["家電・パソコン",["パソコン・インク","スマホ関連","オーディオ","家電"]],
+["暮らし・趣味",["スポーツ・アウトドア","寝具・インテリア","日用品雑貨・文具","キッチン用品・食器","ペット関連","美容・コスメ","おもちゃ関連"]]];
+// ジャンル一覧は genres_data.js(あなたのサイトのジャンル表から自動で作られます)を使う。読めないときは、組み込みの一覧で動く。
+var FALLBACK={"メンズ":25,"レディース":2,"キッズ・ベビー":1,"バッグ・小物":3,"靴・シューズ":26,"時計・腕時計":27,"インナー・靴下":5,"食品":8,"スイーツ・お菓子":9,"水・お茶・紅茶":10,"ワイン・ビール・洋酒":12,"日本酒・焼酎":13,"パソコン・インク":15,"スマホ関連":16,"オーディオ":111,"家電":14,"スポーツ・アウトドア":17,"寝具・インテリア":19,"日用品雑貨・文具":20,"キッチン用品・食器":21,"ペット関連":23,"美容・コスメ":6,"おもちゃ関連":22};
+function genreList(){
+  var d=window.GENRE_DATA&&window.GENRE_DATA.genres;
+  if(d&&d.length>=15)return d;
+  return Object.keys(FALLBACK).map(function(n){return{name:n,id:FALLBACK[n]}});
+}
+function renderGenres(){
+  var box=$("glist"),list=genreList(),used={};
+  box.innerHTML="";
+  function group(title,items){
+    if(!items.length)return;
+    var wrap=document.createElement("div");wrap.className="gg";
+    var h=document.createElement("h3");h.textContent=title;wrap.appendChild(h);
+    var l=document.createElement("div");l.className="gl";
+    items.forEach(function(x){
+      var a=document.createElement("a");a.textContent=x.name;
+      a.href=BASE+"entry625.html#"+x.id;a.target="_blank";a.rel="noopener";l.appendChild(a);
+    });
+    wrap.appendChild(l);box.appendChild(wrap);
+  }
+  GROUPS.forEach(function(g){
+    var items=[];
+    g[1].forEach(function(n){list.forEach(function(x){if(x.name===n){items.push(x);used[x.id]=1}})});
+    group(g[0],items);
+  });
+  group("ほかのジャンル",list.filter(function(x){return!used[x.id]}));   // サイトで増やしたジャンルは、ここに出る
+}
+renderGenres();
 $("prev").onclick=function(){shift(-1)}; $("next").onclick=function(){shift(1)};
 if(window.CAL_DATA&&window.CAL_DATA.updated){$("upd").textContent="更新 "+window.CAL_DATA.updated;}
 renderNews(); renderFilters(); renderDay(); renderGrid();
