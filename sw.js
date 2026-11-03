@@ -1,5 +1,5 @@
 /* 画面の部品は保存して素早く開き、データ(calendar_data.js, news.js)は、つながるときは常に最新を取る */
-var CACHE = "fukubukuro-v3";
+var CACHE = "fukubukuro-v4";
 var SHELL = ["./", "index.html", "manifest.webmanifest", "icons/icon-192.png", "icons/icon-512.png"];
 self.addEventListener("install", function (e) {
   e.waitUntil(caches.open(CACHE).then(function (c) { return c.addAll(SHELL); }));
