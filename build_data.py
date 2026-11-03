@@ -11,7 +11,7 @@ from bs4 import BeautifulSoup
 BASE = Path(__file__).resolve().parent
 URL = "https://happy-bag.biz/"
 OUT = BASE / "calendar_data.js"
-STATUS_WORDS = ["速報", "予告", "更新", "変更", "延期", "中止", "終了", "完売", "抽選", "先着"]
+STATUS_WORDS = ["速報", "予告", "更新", "変更", "延期", "中止", "終了", "完売", "抽選", "先着", "人気"]
 
 
 def load_html():
@@ -73,6 +73,8 @@ def parse(html, today):
         tm = re.search(r"(\d{1,2})時(?:(\d{1,2})分)?", after)
         time = f"{int(tm.group(1))}:{int(tm.group(2) or 0):02d}" if tm else ""
         tags = [w for w in STATUS_WORDS if w in after]
+        if "人気" in el.get_text() and "人気" not in tags:   # 「人気」は、お店の欄のどこかに書いてあれば印にする
+            tags.append("人気")
         for w in list(genres):          # 【予告】のように、ジャンルではなく印として使われているものは印へ
             if w in STATUS_WORDS:
                 genres.remove(w)

@@ -164,13 +164,35 @@ function renderGrid(){
   })(d);}
 }
 function shift(n){view.m+=n;if(view.m<1){view.m=12;view.y--;}if(view.m>12){view.m=1;view.y++;}renderGrid();}
+function autoNews(){
+  // 次の印がある、今日と明日の福袋を、自動でお知らせにする(ジャンルの「元金担保型」も印として見る)
+  var MARK=["速報","抽選","元金担保型","人気","更新"];
+  var tomorrow=new Date(today.getFullYear(),today.getMonth(),today.getDate()+1);
+  var tk=key(tomorrow.getFullYear(),tomorrow.getMonth()+1,tomorrow.getDate());
+  var out=[];
+  ENTRIES.forEach(function(r){
+    if(r.date!==todayKey&&r.date!==tk)return;
+    var all=r.tags.concat(r.genres);
+    var m=MARK.filter(function(t){return all.indexOf(t)>=0});
+    if(!m.length)return;
+    var p=r.date.split("-");
+    out.push({rank:MARK.indexOf(m[0]),row:[r.date===todayKey?"本日":"明日",m.join("・")+"! "+r.shop+(r.time?"("+r.time+")":""),r.link]});
+  });
+  out.sort(function(a,b){return a.rank-b.rank});
+  var rows=out.slice(0,8).map(function(o){return o.row});
+  var n=byDay(todayKey).length;
+  if(n)rows.push(["本日","福袋は"+n+"件です。下の「本日の日程」で見られます","#"]);
+  return rows;
+}
 function renderNews(){
   var ul=$("news"); ul.innerHTML="";
-  if(!NEWS.length){$("newsBox").hidden=true;return;}
+  var list=NEWS.concat(autoNews());
+  if(!list.length){$("newsBox").hidden=true;return;}
   $("newsBox").hidden=false;
-  NEWS.forEach(function(n){
+  list.forEach(function(n){
     var li=document.createElement("li"), d=document.createElement("span"), a=document.createElement("a");
-    d.className="nd"; d.textContent=n[0]; a.textContent=n[1]; a.href=BASE+n[2]; a.target="_blank"; a.rel="noopener";
+    d.className="nd"; d.textContent=n[0]; a.textContent=n[1];
+    if(n[2]==="#"){a.href="#dayTitle";}else{a.href=BASE+n[2]; a.target="_blank"; a.rel="noopener";}
     li.appendChild(d); li.appendChild(a); ul.appendChild(li);
   });
 }
