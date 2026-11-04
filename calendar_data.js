@@ -1,5 +1,5 @@
 window.CAL_DATA = {
- "updated": "2026-11-04 16:14",
+ "updated": "2026-11-04 16:48",
  "entries": [
   {
    "date": "2026-11-01",
@@ -746,6 +746,16 @@ window.CAL_DATA = {
     "予告"
    ],
    "link": "entry798.html"
+  },
+  {
+   "date": "2026-11-04",
+   "genres": [
+    "総合"
+   ],
+   "shop": "三越伊勢丹百貨店",
+   "time": "",
+   "tags": [],
+   "link": "entry619.html"
   },
   {
    "date": "2026-11-04",
