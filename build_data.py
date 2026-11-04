@@ -80,8 +80,8 @@ def parse(html, today):
                 genres.remove(w)
                 if w not in tags:
                     tags.append(w)
-        if not genres:
-            genres = ["その他"]
+        if not genres:   # ジャンルが無く【予告】だけのものは、まだ販売前なので「予告」に分ける
+            genres = ["予告"] if "予告" in tags else ["その他"]
         href = link["href"].replace("./", "")
         y = guess_year(month, today)
         item = {"date": f"{y}-{month:02d}-{day:02d}", "genres": genres, "shop": link.get_text(strip=True),
