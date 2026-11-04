@@ -126,11 +126,12 @@ var ENTRIES=(window.CAL_DATA&&window.CAL_DATA.entries)||[];
 var NEWS=window.NEWS||[];
 var $=function(id){return document.getElementById(id)};
 // ジャンル: 件数の多い順に6つまで色を付け、それ以外は「その他」にまとめる
-var counts={}; ENTRIES.forEach(function(r){r.genres.forEach(function(g){counts[g]=(counts[g]||0)+1;});});
+var counts={}; ENTRIES.forEach(function(r){r.genres.forEach(function(g){if(g!=="予告")counts[g]=(counts[g]||0)+1;});});
 var TOP=Object.keys(counts).sort(function(a,b){return counts[b]-counts[a]}).slice(0,6);
-function mainGenre(r){for(var i=0;i<r.genres.length;i++){if(TOP.indexOf(r.genres[i])>=0)return r.genres[i];}return "その他";}
-function color(g){var i=TOP.indexOf(g);return "var("+(i>=0?PAL[i]:"--g-other")+")"}
-var GENRES=TOP.concat(["その他"]).filter(function(g){return g!=="その他"||ENTRIES.some(function(r){return mainGenre(r)==="その他"})});
+function mainGenre(r){if(r.genres.indexOf("予告")>=0)return "予告";for(var i=0;i<r.genres.length;i++){if(TOP.indexOf(r.genres[i])>=0)return r.genres[i];}return "その他";}
+function color(g){if(g==="予告")return "var(--gold)";var i=TOP.indexOf(g);return "var("+(i>=0?PAL[i]:"--g-other")+")"}
+// 「予告」(まだ販売前)は、件数に関係なく、いつも「その他」の前に出す
+var GENRES=TOP.concat(["予告","その他"]).filter(function(g){return TOP.indexOf(g)>=0||ENTRIES.some(function(r){return mainGenre(r)===g})});
 var today=new Date(), pad=function(n){return(n<10?"0":"")+n};
 var key=function(y,m,d){return y+"-"+pad(m)+"-"+pad(d)};
 var todayKey=key(today.getFullYear(),today.getMonth()+1,today.getDate());
@@ -161,7 +162,7 @@ function renderDay(){
     var b=document.createElement("span"); b.className="body";
     var s=document.createElement("span"); s.className="shop"; s.textContent=r.shop;
     var tg=document.createElement("span"); tg.className="tags";
-    r.genres.concat(r.tags).forEach(function(x){var e=document.createElement("span");e.className="tag";e.textContent=x;e.style.color=r.genres.indexOf(x)>=0?color(x):"var(--red)";tg.appendChild(e);});
+    r.genres.concat(r.tags.filter(function(t){return r.genres.indexOf(t)<0})).forEach(function(x){var e=document.createElement("span");e.className="tag";e.textContent=x;e.style.color=r.genres.indexOf(x)>=0?color(x):"var(--red)";tg.appendChild(e);});
     b.appendChild(s); b.appendChild(tg); a.appendChild(t); a.appendChild(b); li.appendChild(a); ul.appendChild(li);
   });
 }
