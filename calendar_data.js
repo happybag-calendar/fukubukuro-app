@@ -1,5 +1,5 @@
 window.CAL_DATA = {
- "updated": "2026-11-04 19:16",
+ "updated": "2026-11-04 20:19",
  "entries": [
   {
    "date": "2026-11-01",
@@ -1062,6 +1062,16 @@ window.CAL_DATA = {
   {
    "date": "2026-11-05",
    "genres": [
+    "コスメ"
+   ],
+   "shop": "ホーユーヘアケア",
+   "time": "0:00",
+   "tags": [],
+   "link": "entry1037.html"
+  },
+  {
+   "date": "2026-11-05",
+   "genres": [
     "飲料"
    ],
    "shop": "英国紅茶専門店ロンドンティールーム",
@@ -1088,6 +1098,16 @@ window.CAL_DATA = {
    "time": "",
    "tags": [],
    "link": "entry575.html"
+  },
+  {
+   "date": "2026-11-06",
+   "genres": [
+    "総合"
+   ],
+   "shop": "楽天 Lucky Bag Store",
+   "time": "",
+   "tags": [],
+   "link": "entry62.html"
   },
   {
    "date": "2026-11-06",
