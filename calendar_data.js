@@ -1,5 +1,5 @@
 window.CAL_DATA = {
- "updated": "2026-11-04 07:22",
+ "updated": "2026-11-04 14:01",
  "entries": [
   {
    "date": "2026-11-01",
@@ -978,6 +978,18 @@ window.CAL_DATA = {
    "link": "entry984.html"
   },
   {
+   "date": "2026-11-04",
+   "genres": [
+    "その他"
+   ],
+   "shop": "Afternoon Tea",
+   "time": "",
+   "tags": [
+    "予告"
+   ],
+   "link": "entry164.html"
+  },
+  {
    "date": "2026-11-05",
    "genres": [
     "飲料"
@@ -1303,6 +1315,16 @@ window.CAL_DATA = {
    "time": "",
    "tags": [],
    "link": "entry13.html"
+  },
+  {
+   "date": "2026-11-26",
+   "genres": [
+    "食品"
+   ],
+   "shop": "Afternoon Tea",
+   "time": "",
+   "tags": [],
+   "link": "entry164.html"
   },
   {
    "date": "2026-12-01",
