@@ -1,5 +1,5 @@
 window.CAL_DATA = {
- "updated": "2026-11-04 23:42",
+ "updated": "2026-11-05 07:52",
  "entries": [
   {
    "date": "2026-11-01",
@@ -1074,6 +1074,16 @@ window.CAL_DATA = {
   {
    "date": "2026-11-05",
    "genres": [
+    "お知らせ"
+   ],
+   "shop": "”5”のつく日　YAHOO・楽天",
+   "time": "",
+   "tags": [],
+   "link": "entry625.html"
+  },
+  {
+   "date": "2026-11-05",
+   "genres": [
     "レディース"
    ],
    "shop": "ダークエンジェル公式",
@@ -1110,6 +1120,16 @@ window.CAL_DATA = {
    "time": "0:00",
    "tags": [],
    "link": "entry932.html"
+  },
+  {
+   "date": "2026-11-05",
+   "genres": [
+    "故郷"
+   ],
+   "shop": "ふるさと納税で福袋",
+   "time": "",
+   "tags": [],
+   "link": "entry521.html"
   },
   {
    "date": "2026-11-05",
