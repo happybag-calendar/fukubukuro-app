@@ -1,5 +1,5 @@
 window.CAL_DATA = {
- "updated": "2026-11-04 14:01",
+ "updated": "2026-11-04 15:47",
  "entries": [
   {
    "date": "2026-11-01",
@@ -982,12 +982,36 @@ window.CAL_DATA = {
    "genres": [
     "その他"
    ],
+   "shop": "モスバーガー",
+   "time": "",
+   "tags": [
+    "予告"
+   ],
+   "link": "entry673.html"
+  },
+  {
+   "date": "2026-11-04",
+   "genres": [
+    "その他"
+   ],
    "shop": "Afternoon Tea",
    "time": "",
    "tags": [
     "予告"
    ],
    "link": "entry164.html"
+  },
+  {
+   "date": "2026-11-04",
+   "genres": [
+    "その他"
+   ],
+   "shop": "伊勢店ビューティ",
+   "time": "",
+   "tags": [
+    "予告"
+   ],
+   "link": "entry575.html"
   },
   {
    "date": "2026-11-05",
@@ -1143,6 +1167,16 @@ window.CAL_DATA = {
    "time": "",
    "tags": [],
    "link": "entry498.html"
+  },
+  {
+   "date": "2026-11-11",
+   "genres": [
+    "コスメ"
+   ],
+   "shop": "ISETAN BEAUTY",
+   "time": "",
+   "tags": [],
+   "link": "entry575.html"
   },
   {
    "date": "2026-11-11",
@@ -1305,6 +1339,18 @@ window.CAL_DATA = {
    "time": "",
    "tags": [],
    "link": "entry1039.html"
+  },
+  {
+   "date": "2026-11-25",
+   "genres": [
+    "元金担保型"
+   ],
+   "shop": "モスバーガー",
+   "time": "",
+   "tags": [
+    "予告"
+   ],
+   "link": "entry673.html"
   },
   {
    "date": "2026-11-25",
