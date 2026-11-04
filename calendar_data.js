@@ -1,5 +1,5 @@
 window.CAL_DATA = {
- "updated": "2026-11-04 19:07",
+ "updated": "2026-11-04 16:48",
  "entries": [
   {
    "date": "2026-11-01",
@@ -350,7 +350,7 @@ window.CAL_DATA = {
   {
    "date": "2026-11-01",
    "genres": [
-    "その他"
+    "予告"
    ],
    "shop": "シュクレイ公式",
    "time": "",
@@ -588,7 +588,7 @@ window.CAL_DATA = {
   {
    "date": "2026-11-02",
    "genres": [
-    "その他"
+    "予告"
    ],
    "shop": "ステーキハウス　ブロンコビリー",
    "time": "",
@@ -600,7 +600,7 @@ window.CAL_DATA = {
   {
    "date": "2026-11-02",
    "genres": [
-    "その他"
+    "予告"
    ],
    "shop": "フェイラー公式",
    "time": "",
@@ -726,7 +726,7 @@ window.CAL_DATA = {
   {
    "date": "2026-11-03",
    "genres": [
-    "その他"
+    "予告"
    ],
    "shop": "クロスプラス　JENNI",
    "time": "",
@@ -738,7 +738,7 @@ window.CAL_DATA = {
   {
    "date": "2026-11-03",
    "genres": [
-    "その他"
+    "予告"
    ],
    "shop": "NISHIKIYA KITCHEN",
    "time": "",
@@ -990,7 +990,7 @@ window.CAL_DATA = {
   {
    "date": "2026-11-04",
    "genres": [
-    "その他"
+    "予告"
    ],
    "shop": "モスバーガー",
    "time": "",
@@ -1002,7 +1002,7 @@ window.CAL_DATA = {
   {
    "date": "2026-11-04",
    "genres": [
-    "その他"
+    "予告"
    ],
    "shop": "Afternoon Tea",
    "time": "",
@@ -1014,7 +1014,7 @@ window.CAL_DATA = {
   {
    "date": "2026-11-04",
    "genres": [
-    "その他"
+    "予告"
    ],
    "shop": "伊勢店ビューティ",
    "time": "",
@@ -1026,7 +1026,7 @@ window.CAL_DATA = {
   {
    "date": "2026-11-04",
    "genres": [
-    "その他"
+    "予告"
    ],
    "shop": "コメダ珈琲公式",
    "time": "",
@@ -1034,30 +1034,6 @@ window.CAL_DATA = {
     "予告"
    ],
    "link": "entry498.html"
-  },
-  {
-   "date": "2026-11-04",
-   "genres": [
-    "その他"
-   ],
-   "shop": "東武百貨店公式",
-   "time": "",
-   "tags": [
-    "予告"
-   ],
-   "link": "entry409.html"
-  },
-  {
-   "date": "2026-11-04",
-   "genres": [
-    "その他"
-   ],
-   "shop": "松屋銀座百貨店",
-   "time": "",
-   "tags": [
-    "予告"
-   ],
-   "link": "entry695.html"
   },
   {
    "date": "2026-11-05",
@@ -1124,7 +1100,7 @@ window.CAL_DATA = {
   {
    "date": "2026-11-06",
    "genres": [
-    "その他"
+    "予告"
    ],
    "shop": "クロスプラス公式",
    "time": "12:00",
@@ -1255,16 +1231,6 @@ window.CAL_DATA = {
    "link": "entry498.html"
   },
   {
-   "date": "2026-11-12",
-   "genres": [
-    "百貨店"
-   ],
-   "shop": "東武百貨店公式",
-   "time": "",
-   "tags": [],
-   "link": "entry409.html"
-  },
-  {
    "date": "2026-11-13",
    "genres": [
     "飲料"
@@ -1375,16 +1341,6 @@ window.CAL_DATA = {
    "time": "10:00",
    "tags": [],
    "link": "entry936.html"
-  },
-  {
-   "date": "2026-11-20",
-   "genres": [
-    "百貨店"
-   ],
-   "shop": "松屋銀座百貨店",
-   "time": "11:00",
-   "tags": [],
-   "link": "entry695.html"
   },
   {
    "date": "2026-11-20",
