@@ -1,5 +1,5 @@
 window.CAL_DATA = {
- "updated": "2026-11-04 16:48",
+ "updated": "2026-11-04 19:16",
  "entries": [
   {
    "date": "2026-11-01",
@@ -1036,6 +1036,30 @@ window.CAL_DATA = {
    "link": "entry498.html"
   },
   {
+   "date": "2026-11-04",
+   "genres": [
+    "予告"
+   ],
+   "shop": "東武百貨店公式",
+   "time": "",
+   "tags": [
+    "予告"
+   ],
+   "link": "entry409.html"
+  },
+  {
+   "date": "2026-11-04",
+   "genres": [
+    "予告"
+   ],
+   "shop": "松屋銀座百貨店",
+   "time": "",
+   "tags": [
+    "予告"
+   ],
+   "link": "entry695.html"
+  },
+  {
    "date": "2026-11-05",
    "genres": [
     "飲料"
@@ -1231,6 +1255,16 @@ window.CAL_DATA = {
    "link": "entry498.html"
   },
   {
+   "date": "2026-11-12",
+   "genres": [
+    "百貨店"
+   ],
+   "shop": "東武百貨店公式",
+   "time": "",
+   "tags": [],
+   "link": "entry409.html"
+  },
+  {
    "date": "2026-11-13",
    "genres": [
     "飲料"
@@ -1341,6 +1375,16 @@ window.CAL_DATA = {
    "time": "10:00",
    "tags": [],
    "link": "entry936.html"
+  },
+  {
+   "date": "2026-11-20",
+   "genres": [
+    "百貨店"
+   ],
+   "shop": "松屋銀座百貨店",
+   "time": "11:00",
+   "tags": [],
+   "link": "entry695.html"
   },
   {
    "date": "2026-11-20",
