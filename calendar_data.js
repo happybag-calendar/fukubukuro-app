@@ -1,5 +1,5 @@
 window.CAL_DATA = {
- "updated": "2026-11-04 20:19",
+ "updated": "2026-11-04 23:42",
  "entries": [
   {
    "date": "2026-11-01",
@@ -1060,6 +1060,28 @@ window.CAL_DATA = {
    "link": "entry695.html"
   },
   {
+   "date": "2026-11-04",
+   "genres": [
+    "予告"
+   ],
+   "shop": "エスビー食品",
+   "time": "",
+   "tags": [
+    "予告"
+   ],
+   "link": "entry677.html"
+  },
+  {
+   "date": "2026-11-05",
+   "genres": [
+    "レディース"
+   ],
+   "shop": "ダークエンジェル公式",
+   "time": "0:00",
+   "tags": [],
+   "link": "entry68.html"
+  },
+  {
    "date": "2026-11-05",
    "genres": [
     "コスメ"
@@ -1487,6 +1509,16 @@ window.CAL_DATA = {
    "time": "11:00",
    "tags": [],
    "link": "entry604.html"
+  },
+  {
+   "date": "2026-12-01",
+   "genres": [
+    "食品"
+   ],
+   "shop": "エスビー食品",
+   "time": "13:00",
+   "tags": [],
+   "link": "entry677.html"
   },
   {
    "date": "2026-12-02",
