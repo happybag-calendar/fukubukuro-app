@@ -1,5 +1,5 @@
 window.CAL_DATA = {
- "updated": "2026-11-04 15:47",
+ "updated": "2026-11-04 16:14",
  "entries": [
   {
    "date": "2026-11-01",
@@ -1014,6 +1014,18 @@ window.CAL_DATA = {
    "link": "entry575.html"
   },
   {
+   "date": "2026-11-04",
+   "genres": [
+    "その他"
+   ],
+   "shop": "コメダ珈琲公式",
+   "time": "",
+   "tags": [
+    "予告"
+   ],
+   "link": "entry498.html"
+  },
+  {
    "date": "2026-11-05",
    "genres": [
     "飲料"
@@ -1197,6 +1209,16 @@ window.CAL_DATA = {
    "time": "12:00",
    "tags": [],
    "link": "entry589.html"
+  },
+  {
+   "date": "2026-11-11",
+   "genres": [
+    "カフェ"
+   ],
+   "shop": "コメダ珈琲公式",
+   "time": "",
+   "tags": [],
+   "link": "entry498.html"
   },
   {
    "date": "2026-11-13",
