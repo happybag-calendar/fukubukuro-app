@@ -1,6 +1,6 @@
 window.CAL_DATA = {
- "updated": "2026-11-05 07:52",
- "checked": "2026-11-05 10:08",
+ "updated": "2026-11-05 11:15",
+ "checked": "2026-11-05 11:15",
  "entries": [
   {
    "date": "2026-11-01",
@@ -1085,6 +1085,18 @@ window.CAL_DATA = {
   {
    "date": "2026-11-05",
    "genres": [
+    "総合"
+   ],
+   "shop": "AEON九州オンライン",
+   "time": "9:00",
+   "tags": [
+    "速報"
+   ],
+   "link": "entry37.html"
+  },
+  {
+   "date": "2026-11-05",
+   "genres": [
     "レディース"
    ],
    "shop": "ダークエンジェル公式",
@@ -1141,6 +1153,28 @@ window.CAL_DATA = {
    "time": "",
    "tags": [],
    "link": "entry575.html"
+  },
+  {
+   "date": "2026-11-05",
+   "genres": [
+    "予告"
+   ],
+   "shop": "京都コスメのようじや",
+   "time": "",
+   "tags": [
+    "予告"
+   ],
+   "link": "entry1044.html"
+  },
+  {
+   "date": "2026-11-06",
+   "genres": [
+    "ファッション"
+   ],
+   "shop": "USAGI ONLINE公式",
+   "time": "12:00",
+   "tags": [],
+   "link": "entry27.html"
   },
   {
    "date": "2026-11-06",
@@ -1205,6 +1239,16 @@ window.CAL_DATA = {
    "time": "",
    "tags": [],
    "link": "entry575.html"
+  },
+  {
+   "date": "2026-11-06",
+   "genres": [
+    "店舗"
+   ],
+   "shop": "UCC上島珈琲店",
+   "time": "",
+   "tags": [],
+   "link": "entry498.html"
   },
   {
    "date": "2026-11-08",
@@ -1356,6 +1400,16 @@ window.CAL_DATA = {
    "time": "",
    "tags": [],
    "link": "entry210.html"
+  },
+  {
+   "date": "2026-11-15",
+   "genres": [
+    "コスメ"
+   ],
+   "shop": "京都コスメのようじや",
+   "time": "",
+   "tags": [],
+   "link": "entry1044.html"
   },
   {
    "date": "2026-11-15",
