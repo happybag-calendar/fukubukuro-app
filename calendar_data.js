@@ -1,6 +1,6 @@
 window.CAL_DATA = {
- "updated": "2026-11-05 11:15",
- "checked": "2026-11-05 11:15",
+ "updated": "2026-11-05 11:59",
+ "checked": "2026-11-05 11:59",
  "entries": [
   {
    "date": "2026-11-01",
@@ -1167,6 +1167,42 @@ window.CAL_DATA = {
    "link": "entry1044.html"
   },
   {
+   "date": "2026-11-05",
+   "genres": [
+    "予告"
+   ],
+   "shop": "カフェ・ベローチェ",
+   "time": "",
+   "tags": [
+    "予告"
+   ],
+   "link": "entry498.html"
+  },
+  {
+   "date": "2026-11-05",
+   "genres": [
+    "予告"
+   ],
+   "shop": "カルビ大将",
+   "time": "",
+   "tags": [
+    "予告"
+   ],
+   "link": "entry875.html"
+  },
+  {
+   "date": "2026-11-05",
+   "genres": [
+    "予告"
+   ],
+   "shop": "ステーキ宮",
+   "time": "",
+   "tags": [
+    "予告"
+   ],
+   "link": "entry875.html"
+  },
+  {
    "date": "2026-11-06",
    "genres": [
     "ファッション"
@@ -1299,6 +1335,27 @@ window.CAL_DATA = {
    "time": "10:00",
    "tags": [],
    "link": "entry17.html"
+  },
+  {
+   "date": "2026-11-10",
+   "genres": [
+    "元金担保型",
+    "外食"
+   ],
+   "shop": "カルビ大将",
+   "time": "",
+   "tags": [],
+   "link": "entry875.html"
+  },
+  {
+   "date": "2026-11-10",
+   "genres": [
+    "外食"
+   ],
+   "shop": "ステーキ宮",
+   "time": "",
+   "tags": [],
+   "link": "entry875.html"
   },
   {
    "date": "2026-11-10",
@@ -1604,6 +1661,16 @@ window.CAL_DATA = {
    "time": "12:00",
    "tags": [],
    "link": "entry578.html"
+  },
+  {
+   "date": "2026-12-03",
+   "genres": [
+    "カフェ"
+   ],
+   "shop": "カフェ・ベローチェ",
+   "time": "20:00",
+   "tags": [],
+   "link": "entry498.html"
   },
   {
    "date": "2026-12-04",
