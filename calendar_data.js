@@ -1,6 +1,6 @@
 window.CAL_DATA = {
- "updated": "2026-11-05 11:59",
- "checked": "2026-11-05 11:59",
+ "updated": "2026-11-05 12:10",
+ "checked": "2026-11-05 12:10",
  "entries": [
   {
    "date": "2026-11-01",
@@ -1203,6 +1203,18 @@ window.CAL_DATA = {
    "link": "entry875.html"
   },
   {
+   "date": "2026-11-05",
+   "genres": [
+    "予告"
+   ],
+   "shop": "チーズガーデン公式",
+   "time": "",
+   "tags": [
+    "予告"
+   ],
+   "link": "entry617.html"
+  },
+  {
    "date": "2026-11-06",
    "genres": [
     "ファッション"
@@ -1285,6 +1297,16 @@ window.CAL_DATA = {
    "time": "",
    "tags": [],
    "link": "entry498.html"
+  },
+  {
+   "date": "2026-11-08",
+   "genres": [
+    "食品"
+   ],
+   "shop": "チーズガーデン公式",
+   "time": "10:00",
+   "tags": [],
+   "link": "entry617.html"
   },
   {
    "date": "2026-11-08",
