@@ -1,6 +1,6 @@
 window.CAL_DATA = {
- "updated": "2026-11-05 20:08",
- "checked": "2026-11-05 20:08",
+ "updated": "2026-11-05 20:59",
+ "checked": "2026-11-05 20:59",
  "entries": [
   {
    "date": "2026-11-01",
@@ -1353,6 +1353,16 @@ window.CAL_DATA = {
    "time": "",
    "tags": [],
    "link": "entry498.html"
+  },
+  {
+   "date": "2026-11-07",
+   "genres": [
+    "百貨店"
+   ],
+   "shop": "東急百貨店公式",
+   "time": "0:00",
+   "tags": [],
+   "link": "entry15.html"
   },
   {
    "date": "2026-11-08",
