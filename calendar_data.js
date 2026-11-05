@@ -1,6 +1,6 @@
 window.CAL_DATA = {
- "updated": "2026-11-05 16:23",
- "checked": "2026-11-05 16:23",
+ "updated": "2026-11-05 18:05",
+ "checked": "2026-11-05 18:05",
  "entries": [
   {
    "date": "2026-11-01",
@@ -1157,6 +1157,16 @@ window.CAL_DATA = {
   {
    "date": "2026-11-05",
    "genres": [
+    "雑貨"
+   ],
+   "shop": "マルイ公式通販",
+   "time": "",
+   "tags": [],
+   "link": "entry83.html"
+  },
+  {
+   "date": "2026-11-05",
+   "genres": [
     "BLACK FRIDAY",
     "ホビー",
     "総合"
@@ -1263,20 +1273,20 @@ window.CAL_DATA = {
    "genres": [
     "食品"
    ],
-   "shop": "シュクレイ公式",
-   "time": "8:00",
+   "shop": "セゾンファクトリー公式",
+   "time": "9:00",
    "tags": [],
-   "link": "entry886.html"
+   "link": "entry523.html"
   },
   {
    "date": "2026-11-06",
    "genres": [
     "食品"
    ],
-   "shop": "セゾンファクトリー公式",
-   "time": "9:00",
+   "shop": "シュクレイ公式",
+   "time": "8:00",
    "tags": [],
-   "link": "entry523.html"
+   "link": "entry886.html"
   },
   {
    "date": "2026-11-06",
@@ -1351,6 +1361,16 @@ window.CAL_DATA = {
    "time": "",
    "tags": [],
    "link": "entry1028.html"
+  },
+  {
+   "date": "2026-11-09",
+   "genres": [
+    "食品"
+   ],
+   "shop": "松屋グループ",
+   "time": "",
+   "tags": [],
+   "link": "entry31.html"
   },
   {
    "date": "2026-11-09",
