@@ -1,6 +1,6 @@
 window.CAL_DATA = {
- "updated": "2026-11-05 19:09",
- "checked": "2026-11-05 19:09",
+ "updated": "2026-11-05 20:08",
+ "checked": "2026-11-05 20:08",
  "entries": [
   {
    "date": "2026-11-01",
@@ -751,16 +751,6 @@ window.CAL_DATA = {
   {
    "date": "2026-11-04",
    "genres": [
-    "食品"
-   ],
-   "shop": "大丸松坂屋百貨店",
-   "time": "",
-   "tags": [],
-   "link": "entry134.html"
-  },
-  {
-   "date": "2026-11-04",
-   "genres": [
     "総合"
    ],
    "shop": "三越伊勢丹百貨店",
@@ -845,6 +835,16 @@ window.CAL_DATA = {
    "time": "20:00",
    "tags": [],
    "link": "entry44.html"
+  },
+  {
+   "date": "2026-11-04",
+   "genres": [
+    "子供服"
+   ],
+   "shop": "大丸松坂屋百貨店",
+   "time": "",
+   "tags": [],
+   "link": "entry134.html"
   },
   {
    "date": "2026-11-04",
@@ -1085,6 +1085,16 @@ window.CAL_DATA = {
   {
    "date": "2026-11-05",
    "genres": [
+    "総合"
+   ],
+   "shop": "大丸松坂屋百貨店",
+   "time": "",
+   "tags": [],
+   "link": "entry134.html"
+  },
+  {
+   "date": "2026-11-05",
+   "genres": [
     "スポーツ"
    ],
    "shop": "アルペンスポーツ",
@@ -1247,6 +1257,18 @@ window.CAL_DATA = {
     "予告"
    ],
    "link": "entry650.html"
+  },
+  {
+   "date": "2026-11-05",
+   "genres": [
+    "予告"
+   ],
+   "shop": "ケンタッキーフライドチキン",
+   "time": "",
+   "tags": [
+    "予告"
+   ],
+   "link": "entry303.html"
   },
   {
    "date": "2026-11-06",
@@ -1517,9 +1539,21 @@ window.CAL_DATA = {
   {
    "date": "2026-11-13",
    "genres": [
+    "元金担保型"
+   ],
+   "shop": "ケンタッキーフライドチキン",
+   "time": "",
+   "tags": [
+    "抽選"
+   ],
+   "link": "entry303.html"
+  },
+  {
+   "date": "2026-11-13",
+   "genres": [
     "飲料"
    ],
-   "shop": "カフェチェーンの福袋一覧",
+   "shop": "ゴンチャ福袋",
    "time": "",
    "tags": [],
    "link": "entry498.html"
