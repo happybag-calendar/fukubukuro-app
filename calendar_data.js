@@ -1,6 +1,6 @@
 window.CAL_DATA = {
- "updated": "2026-11-05 12:10",
- "checked": "2026-11-05 15:04",
+ "updated": "2026-11-05 16:23",
+ "checked": "2026-11-05 16:23",
  "entries": [
   {
    "date": "2026-11-01",
@@ -1085,14 +1085,14 @@ window.CAL_DATA = {
   {
    "date": "2026-11-05",
    "genres": [
-    "総合"
+    "スポーツ"
    ],
-   "shop": "AEON九州オンライン",
-   "time": "9:00",
+   "shop": "アルペンスポーツ",
+   "time": "",
    "tags": [
     "速報"
    ],
-   "link": "entry37.html"
+   "link": "entry397.html"
   },
   {
    "date": "2026-11-05",
@@ -1157,6 +1157,18 @@ window.CAL_DATA = {
   {
    "date": "2026-11-05",
    "genres": [
+    "BLACK FRIDAY",
+    "ホビー",
+    "総合"
+   ],
+   "shop": "スクエア・エニックス公式",
+   "time": "",
+   "tags": [],
+   "link": "entry537.html"
+  },
+  {
+   "date": "2026-11-05",
+   "genres": [
     "予告"
    ],
    "shop": "京都コスメのようじや",
@@ -1213,6 +1225,18 @@ window.CAL_DATA = {
     "予告"
    ],
    "link": "entry617.html"
+  },
+  {
+   "date": "2026-11-05",
+   "genres": [
+    "予告"
+   ],
+   "shop": "しまむら",
+   "time": "",
+   "tags": [
+    "予告"
+   ],
+   "link": "entry650.html"
   },
   {
    "date": "2026-11-06",
@@ -1403,6 +1427,16 @@ window.CAL_DATA = {
   {
    "date": "2026-11-11",
    "genres": [
+    "ファッション"
+   ],
+   "shop": "しまむら",
+   "time": "",
+   "tags": [],
+   "link": "entry650.html"
+  },
+  {
+   "date": "2026-11-11",
+   "genres": [
     "コスメ"
    ],
    "shop": "ISETAN BEAUTY",
@@ -1439,6 +1473,16 @@ window.CAL_DATA = {
    "time": "",
    "tags": [],
    "link": "entry498.html"
+  },
+  {
+   "date": "2026-11-11",
+   "genres": [
+    "BLACK FRIDAY"
+   ],
+   "shop": "眼鏡のZOFF",
+   "time": "",
+   "tags": [],
+   "link": "entry289.html"
   },
   {
    "date": "2026-11-12",
@@ -1611,6 +1655,16 @@ window.CAL_DATA = {
    "time": "",
    "tags": [],
    "link": "entry1039.html"
+  },
+  {
+   "date": "2026-11-20",
+   "genres": [
+    "本日のBLACK FRIDAY"
+   ],
+   "shop": "ディズニーストア",
+   "time": "",
+   "tags": [],
+   "link": "entry556.html"
   },
   {
    "date": "2026-11-25",
