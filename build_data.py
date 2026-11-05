@@ -99,18 +99,23 @@ def main():
     entries = parse(load_html(), today)
     if len(entries) < 20:
         raise RuntimeError(f"読み取れた件数が少なすぎます({len(entries)}件)。ページの作りが変わった可能性があります。")
-    if OUT.exists():   # 中身が前回と同じなら、書き直さない(更新の日時を、変わったときだけ新しくするため)
+    jst = dt.datetime.now(dt.timezone(dt.timedelta(hours=9)))
+    now = jst.strftime("%Y-%m-%d %H:%M")
+    changed, same = now, False
+    if OUT.exists():   # 中身が前回と同じなら、「日程が変わった日時」は前のまま、「最後に確認した日時」だけ新しくする
         try:
             old = OUT.read_text(encoding="utf-8")
             old = json.loads(old[old.index("{"):old.rindex("}") + 1])
             if old.get("entries") == entries:
-                print(f"前回から変わりありません({len(entries)} 件)。")
-                return entries
+                changed, same = old.get("updated", now), True
         except Exception:
             pass
-    jst = dt.datetime.now(dt.timezone(dt.timedelta(hours=9)))
-    payload = {"updated": jst.strftime("%Y-%m-%d %H:%M"), "entries": entries}
+    # updated = 日程が変わった日時 / checked = 最後に確認した日時(毎回新しくなる)
+    payload = {"updated": changed, "checked": now, "entries": entries}
     OUT.write_text("window.CAL_DATA = " + json.dumps(payload, ensure_ascii=False, indent=1) + ";\n", encoding="utf-8")
+    if same:
+        print(f"前回から変わりありません({len(entries)} 件)。確認の日時だけ更新しました。")
+        return entries
     days = len({e["date"] for e in entries})
     print(f"読み取れました: {len(entries)} 件 / {days} 日分  →  {OUT.name}")
     return entries

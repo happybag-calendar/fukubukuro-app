@@ -253,7 +253,7 @@ function renderGenres(){
 }
 renderGenres();
 $("prev").onclick=function(){shift(-1)}; $("next").onclick=function(){shift(1)};
-if(window.CAL_DATA&&window.CAL_DATA.updated){$("upd").textContent="更新 "+window.CAL_DATA.updated;}
+if(window.CAL_DATA&&window.CAL_DATA.updated){var D=window.CAL_DATA,ck=D.checked||D.updated,ch=D.updated;var t="最終確認 "+ck.slice(5);if(ch!==ck){t+="(日程の変更 "+(ch.slice(0,10)===ck.slice(0,10)?ch.slice(11):ch.slice(5))+")";}$("upd").textContent=t;}
 renderNews(); renderFilters(); renderDay(); renderGrid();
 if("serviceWorker" in navigator){window.addEventListener("load",function(){navigator.serviceWorker.register("sw.js").catch(function(){});});}
 </script>
