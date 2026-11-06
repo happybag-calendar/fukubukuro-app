@@ -1,6 +1,6 @@
 window.CAL_DATA = {
- "updated": "2026-11-06 10:55",
- "checked": "2026-11-06 11:17",
+ "updated": "2026-11-06 12:57",
+ "checked": "2026-11-06 12:57",
  "entries": [
   {
    "date": "2026-11-01",
@@ -1273,6 +1273,18 @@ window.CAL_DATA = {
   {
    "date": "2026-11-06",
    "genres": [
+    "酒類"
+   ],
+   "shop": "オリオンビール公式",
+   "time": "",
+   "tags": [
+    "速報"
+   ],
+   "link": "entry933.html"
+  },
+  {
+   "date": "2026-11-06",
+   "genres": [
     "コンビニ"
    ],
    "shop": "ファミマオンライン",
@@ -1288,10 +1300,10 @@ window.CAL_DATA = {
    "genres": [
     "食品"
    ],
-   "shop": "セゾンファクトリー公式",
-   "time": "9:00",
+   "shop": "一蘭ラーメン公式",
+   "time": "",
    "tags": [],
-   "link": "entry523.html"
+   "link": "entry608.html"
   },
   {
    "date": "2026-11-06",
@@ -1312,6 +1324,16 @@ window.CAL_DATA = {
    "time": "",
    "tags": [],
    "link": "entry62.html"
+  },
+  {
+   "date": "2026-11-06",
+   "genres": [
+    "食品"
+   ],
+   "shop": "セゾンファクトリー公式",
+   "time": "9:00",
+   "tags": [],
+   "link": "entry523.html"
   },
   {
    "date": "2026-11-06",
@@ -1628,7 +1650,9 @@ window.CAL_DATA = {
    ],
    "shop": "MASH GO GREEN STORE",
    "time": "10:00",
-   "tags": [],
+   "tags": [
+    "人気"
+   ],
    "link": "entry198.html"
   },
   {
