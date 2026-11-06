@@ -1,6 +1,6 @@
 window.CAL_DATA = {
- "updated": "2026-11-06 13:12",
- "checked": "2026-11-06 16:18",
+ "updated": "2026-11-06 17:47",
+ "checked": "2026-11-06 17:47",
  "entries": [
   {
    "date": "2026-11-01",
@@ -1422,6 +1422,18 @@ window.CAL_DATA = {
    "link": "entry241.html"
   },
   {
+   "date": "2026-11-06",
+   "genres": [
+    "予告"
+   ],
+   "shop": "かっぱ寿司公式",
+   "time": "",
+   "tags": [
+    "予告"
+   ],
+   "link": "entry875.html"
+  },
+  {
    "date": "2026-11-07",
    "genres": [
     "百貨店"
@@ -1450,6 +1462,17 @@ window.CAL_DATA = {
    "time": "",
    "tags": [],
    "link": "entry937.html"
+  },
+  {
+   "date": "2026-11-09",
+   "genres": [
+    "元金担保型",
+    "外食"
+   ],
+   "shop": "かっぱ寿司公式通販",
+   "time": "11:00",
+   "tags": [],
+   "link": "entry875.html"
   },
   {
    "date": "2026-11-09",
