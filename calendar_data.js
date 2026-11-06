@@ -1,6 +1,6 @@
 window.CAL_DATA = {
- "updated": "2026-11-06 12:57",
- "checked": "2026-11-06 12:57",
+ "updated": "2026-11-06 13:12",
+ "checked": "2026-11-06 13:12",
  "entries": [
   {
    "date": "2026-11-01",
@@ -1410,6 +1410,18 @@ window.CAL_DATA = {
    "link": "entry198.html"
   },
   {
+   "date": "2026-11-06",
+   "genres": [
+    "予告"
+   ],
+   "shop": "Jリーグ ファジアーノ岡山",
+   "time": "",
+   "tags": [
+    "予告"
+   ],
+   "link": "entry241.html"
+  },
+  {
    "date": "2026-11-07",
    "genres": [
     "百貨店"
@@ -1438,6 +1450,16 @@ window.CAL_DATA = {
    "time": "",
    "tags": [],
    "link": "entry937.html"
+  },
+  {
+   "date": "2026-11-09",
+   "genres": [
+    "Jリーグ"
+   ],
+   "shop": "ファジアーノ岡山",
+   "time": "",
+   "tags": [],
+   "link": "entry241.html"
   },
   {
    "date": "2026-11-09",
