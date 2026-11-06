@@ -1,6 +1,6 @@
 window.CAL_DATA = {
- "updated": "2026-11-06 19:06",
- "checked": "2026-11-07 07:45",
+ "updated": "2026-11-07 08:16",
+ "checked": "2026-11-07 08:16",
  "entries": [
   {
    "date": "2026-11-01",
@@ -1454,6 +1454,16 @@ window.CAL_DATA = {
    "link": "entry15.html"
   },
   {
+   "date": "2026-11-07",
+   "genres": [
+    "故郷"
+   ],
+   "shop": "ふるさと納税で福袋",
+   "time": "",
+   "tags": [],
+   "link": "entry521.html"
+  },
+  {
    "date": "2026-11-08",
    "genres": [
     "食品"
@@ -1523,6 +1533,16 @@ window.CAL_DATA = {
    "time": "0:00",
    "tags": [],
    "link": "entry1037.html"
+  },
+  {
+   "date": "2026-11-10",
+   "genres": [
+    "ファッション"
+   ],
+   "shop": "楽天 Lucky Bag Store",
+   "time": "",
+   "tags": [],
+   "link": "entry62.html"
   },
   {
    "date": "2026-11-10",
