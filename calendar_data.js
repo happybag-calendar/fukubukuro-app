@@ -1,6 +1,6 @@
 window.CAL_DATA = {
- "updated": "2026-11-06 09:31",
- "checked": "2026-11-06 09:31",
+ "updated": "2026-11-06 10:11",
+ "checked": "2026-11-06 10:11",
  "entries": [
   {
    "date": "2026-11-01",
@@ -1344,6 +1344,16 @@ window.CAL_DATA = {
    "time": "12:00",
    "tags": [],
    "link": "entry583.html"
+  },
+  {
+   "date": "2026-11-06",
+   "genres": [
+    "子供服"
+   ],
+   "shop": "ZOZOTOWN",
+   "time": "",
+   "tags": [],
+   "link": "entry194.html"
   },
   {
    "date": "2026-11-06",
