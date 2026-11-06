@@ -1,6 +1,6 @@
 window.CAL_DATA = {
- "updated": "2026-11-05 22:13",
- "checked": "2026-11-06 08:48",
+ "updated": "2026-11-06 09:31",
+ "checked": "2026-11-06 09:31",
  "entries": [
   {
    "date": "2026-11-01",
@@ -1273,6 +1273,29 @@ window.CAL_DATA = {
   {
    "date": "2026-11-06",
    "genres": [
+    "コンビニ"
+   ],
+   "shop": "ファミマオンライン",
+   "time": "",
+   "tags": [
+    "速報",
+    "抽選"
+   ],
+   "link": "entry867.html"
+  },
+  {
+   "date": "2026-11-06",
+   "genres": [
+    "食品"
+   ],
+   "shop": "セゾンファクトリー公式",
+   "time": "9:00",
+   "tags": [],
+   "link": "entry523.html"
+  },
+  {
+   "date": "2026-11-06",
+   "genres": [
     "ファッション"
    ],
    "shop": "USAGI ONLINE公式",
@@ -1289,16 +1312,6 @@ window.CAL_DATA = {
    "time": "",
    "tags": [],
    "link": "entry62.html"
-  },
-  {
-   "date": "2026-11-06",
-   "genres": [
-    "食品"
-   ],
-   "shop": "セゾンファクトリー公式",
-   "time": "9:00",
-   "tags": [],
-   "link": "entry523.html"
   },
   {
    "date": "2026-11-06",
