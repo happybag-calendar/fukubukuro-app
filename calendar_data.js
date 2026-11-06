@@ -1,6 +1,6 @@
 window.CAL_DATA = {
- "updated": "2026-11-06 10:11",
- "checked": "2026-11-06 10:11",
+ "updated": "2026-11-06 10:55",
+ "checked": "2026-11-06 10:55",
  "entries": [
   {
    "date": "2026-11-01",
@@ -1376,6 +1376,18 @@ window.CAL_DATA = {
    "link": "entry498.html"
   },
   {
+   "date": "2026-11-06",
+   "genres": [
+    "予告"
+   ],
+   "shop": "MASH GO GREEN STORE",
+   "time": "",
+   "tags": [
+    "予告"
+   ],
+   "link": "entry198.html"
+  },
+  {
    "date": "2026-11-07",
    "genres": [
     "百貨店"
@@ -1608,6 +1620,16 @@ window.CAL_DATA = {
    "time": "",
    "tags": [],
    "link": "entry210.html"
+  },
+  {
+   "date": "2026-11-13",
+   "genres": [
+    "コスメ"
+   ],
+   "shop": "MASH GO GREEN STORE",
+   "time": "10:00",
+   "tags": [],
+   "link": "entry198.html"
   },
   {
    "date": "2026-11-15",
