@@ -1,6 +1,6 @@
 window.CAL_DATA = {
- "updated": "2026-11-07 11:53",
- "checked": "2026-11-07 12:54",
+ "updated": "2026-11-07 13:55",
+ "checked": "2026-11-07 13:55",
  "entries": [
   {
    "date": "2026-11-01",
@@ -1552,6 +1552,18 @@ window.CAL_DATA = {
    "link": "entry193.html"
   },
   {
+   "date": "2026-11-07",
+   "genres": [
+    "予告"
+   ],
+   "shop": "パルクローゼット公式",
+   "time": "",
+   "tags": [
+    "予告"
+   ],
+   "link": "entry418.html"
+  },
+  {
    "date": "2026-11-08",
    "genres": [
     "食品"
@@ -1773,6 +1785,16 @@ window.CAL_DATA = {
    "time": "",
    "tags": [],
    "link": "entry409.html"
+  },
+  {
+   "date": "2026-11-12",
+   "genres": [
+    "ファッション"
+   ],
+   "shop": "パルクローゼット公式",
+   "time": "20:00",
+   "tags": [],
+   "link": "entry418.html"
   },
   {
    "date": "2026-11-13",
