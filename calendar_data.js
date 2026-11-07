@@ -1,6 +1,6 @@
 window.CAL_DATA = {
- "updated": "2026-11-07 20:44",
- "checked": "2026-11-07 20:44",
+ "updated": "2026-11-07 21:53",
+ "checked": "2026-11-07 21:53",
  "entries": [
   {
    "date": "2026-11-01",
@@ -1464,6 +1464,16 @@ window.CAL_DATA = {
     "速報"
    ],
    "link": "entry134.html"
+  },
+  {
+   "date": "2026-11-07",
+   "genres": [
+    "コスメ"
+   ],
+   "shop": "近鉄百貨店公式",
+   "time": "",
+   "tags": [],
+   "link": "entry40.html"
   },
   {
    "date": "2026-11-07",
