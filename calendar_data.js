@@ -1,6 +1,6 @@
 window.CAL_DATA = {
- "updated": "2026-11-07 08:16",
- "checked": "2026-11-07 08:43",
+ "updated": "2026-11-07 10:00",
+ "checked": "2026-11-07 10:00",
  "entries": [
   {
    "date": "2026-11-01",
@@ -505,6 +505,16 @@ window.CAL_DATA = {
    "time": "10:00",
    "tags": [],
    "link": "entry356.html"
+  },
+  {
+   "date": "2026-11-02",
+   "genres": [
+    "総合"
+   ],
+   "shop": "AEONスタイル",
+   "time": "",
+   "tags": [],
+   "link": "entry37.html"
   },
   {
    "date": "2026-11-02",
@@ -1442,6 +1452,16 @@ window.CAL_DATA = {
     "予告"
    ],
    "link": "entry875.html"
+  },
+  {
+   "date": "2026-11-07",
+   "genres": [
+    "雑貨"
+   ],
+   "shop": "三越伊勢丹百貨店",
+   "time": "",
+   "tags": [],
+   "link": "entry619.html"
   },
   {
    "date": "2026-11-07",
