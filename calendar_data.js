@@ -1,6 +1,6 @@
 window.CAL_DATA = {
- "updated": "2026-11-07 21:53",
- "checked": "2026-11-08 04:45",
+ "updated": "2026-11-08 05:43",
+ "checked": "2026-11-08 05:43",
  "entries": [
   {
    "date": "2026-11-01",
@@ -1594,6 +1594,18 @@ window.CAL_DATA = {
    "link": "entry937.html"
   },
   {
+   "date": "2026-11-08",
+   "genres": [
+    "予告"
+   ],
+   "shop": "MARKY’S公式",
+   "time": "",
+   "tags": [
+    "予告"
+   ],
+   "link": "entry664.html"
+  },
+  {
    "date": "2026-11-09",
    "genres": [
     "元金担保型",
@@ -1909,6 +1921,18 @@ window.CAL_DATA = {
    "time": "",
    "tags": [],
    "link": "entry424.html"
+  },
+  {
+   "date": "2026-11-17",
+   "genres": [
+    "子供服"
+   ],
+   "shop": "MARKY’S公式",
+   "time": "",
+   "tags": [
+    "人気"
+   ],
+   "link": "entry664.html"
   },
   {
    "date": "2026-11-18",
