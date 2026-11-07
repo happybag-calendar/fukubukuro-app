@@ -1,6 +1,6 @@
 window.CAL_DATA = {
- "updated": "2026-11-07 11:39",
- "checked": "2026-11-07 11:39",
+ "updated": "2026-11-07 11:53",
+ "checked": "2026-11-07 11:53",
  "entries": [
   {
    "date": "2026-11-01",
@@ -1452,6 +1452,18 @@ window.CAL_DATA = {
     "予告"
    ],
    "link": "entry875.html"
+  },
+  {
+   "date": "2026-11-07",
+   "genres": [
+    "総合"
+   ],
+   "shop": "大丸松坂屋百貨店",
+   "time": "",
+   "tags": [
+    "速報"
+   ],
+   "link": "entry134.html"
   },
   {
    "date": "2026-11-07",
