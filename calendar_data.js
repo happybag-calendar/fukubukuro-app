@@ -1,6 +1,6 @@
 window.CAL_DATA = {
- "updated": "2026-11-07 10:00",
- "checked": "2026-11-07 10:00",
+ "updated": "2026-11-07 10:59",
+ "checked": "2026-11-07 10:59",
  "entries": [
   {
    "date": "2026-11-01",
@@ -1476,12 +1476,56 @@ window.CAL_DATA = {
   {
    "date": "2026-11-07",
    "genres": [
+    "食品"
+   ],
+   "shop": "ONLINE PARCO公式",
+   "time": "23:59",
+   "tags": [
+    "終了"
+   ],
+   "link": "entry179.html"
+  },
+  {
+   "date": "2026-11-07",
+   "genres": [
+    "雑貨"
+   ],
+   "shop": "三井ショッピングパーク＆モール",
+   "time": "",
+   "tags": [],
+   "link": "entry456.html"
+  },
+  {
+   "date": "2026-11-07",
+   "genres": [
+    "ファッション"
+   ],
+   "shop": "マルイ公式通販",
+   "time": "",
+   "tags": [],
+   "link": "entry83.html"
+  },
+  {
+   "date": "2026-11-07",
+   "genres": [
     "故郷"
    ],
    "shop": "ふるさと納税で福袋",
    "time": "",
    "tags": [],
    "link": "entry521.html"
+  },
+  {
+   "date": "2026-11-07",
+   "genres": [
+    "予告"
+   ],
+   "shop": "RUNWAY channel公式",
+   "time": "",
+   "tags": [
+    "予告"
+   ],
+   "link": "entry193.html"
   },
   {
    "date": "2026-11-08",
@@ -1851,6 +1895,16 @@ window.CAL_DATA = {
    "time": "11:00",
    "tags": [],
    "link": "entry695.html"
+  },
+  {
+   "date": "2026-11-20",
+   "genres": [
+    "レディース"
+   ],
+   "shop": "RUNWAY channel公式",
+   "time": "",
+   "tags": [],
+   "link": "entry193.html"
   },
   {
    "date": "2026-11-20",
