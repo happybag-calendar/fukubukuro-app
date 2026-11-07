@@ -1,6 +1,6 @@
 window.CAL_DATA = {
- "updated": "2026-11-07 10:59",
- "checked": "2026-11-07 11:02",
+ "updated": "2026-11-07 11:39",
+ "checked": "2026-11-07 11:39",
  "entries": [
   {
    "date": "2026-11-01",
@@ -1456,6 +1456,18 @@ window.CAL_DATA = {
   {
    "date": "2026-11-07",
    "genres": [
+    "キッチン"
+   ],
+   "shop": "貝印公式通販KAIストア",
+   "time": "",
+   "tags": [
+    "速報"
+   ],
+   "link": "entry633.html"
+  },
+  {
+   "date": "2026-11-07",
+   "genres": [
     "雑貨"
    ],
    "shop": "三越伊勢丹百貨店",
@@ -1719,6 +1731,16 @@ window.CAL_DATA = {
    "time": "",
    "tags": [],
    "link": "entry498.html"
+  },
+  {
+   "date": "2026-11-11",
+   "genres": [
+    "食品"
+   ],
+   "shop": "ロハコ公式通販",
+   "time": "11:00",
+   "tags": [],
+   "link": "entry327.html"
   },
   {
    "date": "2026-11-11",
