@@ -1,6 +1,6 @@
 window.CAL_DATA = {
- "updated": "2026-11-07 13:55",
- "checked": "2026-11-07 19:47",
+ "updated": "2026-11-07 20:44",
+ "checked": "2026-11-07 20:44",
  "entries": [
   {
    "date": "2026-11-01",
@@ -2063,6 +2063,16 @@ window.CAL_DATA = {
    "time": "13:00",
    "tags": [],
    "link": "entry677.html"
+  },
+  {
+   "date": "2026-12-01",
+   "genres": [
+    "食品"
+   ],
+   "shop": "ちこり村公式",
+   "time": "",
+   "tags": [],
+   "link": "entry849.html"
   },
   {
    "date": "2026-12-02",
