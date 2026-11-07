@@ -64,12 +64,23 @@ def parse(html, today):
         if not (month and day):
             continue
         first = el.find("p")
-        link = el.find("a", href=re.compile(r"entry\d+\.html"))
         head = first.get_text("", strip=True) if first else ""
         genres = re.findall(r"【([^】]+)】", head)
-        if not (genres and link):
+        if not genres:
             continue
-        after = head.split(link.get_text(strip=True), 1)[-1] if link.get_text(strip=True) in head else ""
+        # お店のリンク: 福袋カレンダーの記事ページ(entry○○.html)があればそれ。
+        # 無くて、お店のHPへ直接リンクしている行も、拾う(アプリでは、福袋カレンダーのトップへ案内する)
+        link = el.find("a", href=re.compile(r"entry\d+\.html"))
+        direct = link is None
+        if direct:
+            link = el.find("a", href=True)
+        shop = link.get_text(strip=True) if link is not None else ""
+        if not shop:   # リンクの文字が無いときは、行の文章から、お店の名前を取り出す
+            shop = re.sub(r"【[^】]*】", "", head)
+            shop = re.sub(r"\d{1,2}時(?:\d{1,2}分)?.*$", "", shop).strip()
+        if not shop:
+            continue
+        after = head.split(shop, 1)[-1] if shop in head else ""
         tm = re.search(r"(\d{1,2})時(?:(\d{1,2})分)?", after)
         time = f"{int(tm.group(1))}:{int(tm.group(2) or 0):02d}" if tm else ""
         tags = [w for w in STATUS_WORDS if w in after]
@@ -82,9 +93,9 @@ def parse(html, today):
                     tags.append(w)
         if not genres:   # ジャンルが無く【予告】だけのものは、まだ販売前なので「予告」に分ける
             genres = ["予告"] if "予告" in tags else ["その他"]
-        href = link["href"].replace("./", "")
+        href = "#4" if direct else link["href"].replace("./", "")   # 直接リンクの行は、お店のHPではなく、福袋カレンダーの日程へ
         y = guess_year(month, today)
-        item = {"date": f"{y}-{month:02d}-{day:02d}", "genres": genres, "shop": link.get_text(strip=True),
+        item = {"date": f"{y}-{month:02d}-{day:02d}", "genres": genres, "shop": shop,
                 "time": time, "tags": tags, "link": href}
         k = (item["date"], item["shop"], item["time"])
         if k in seen:
