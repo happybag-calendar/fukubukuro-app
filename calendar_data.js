@@ -1,6 +1,6 @@
 window.CAL_DATA = {
- "updated": "2026-11-08 19:10",
- "checked": "2026-11-08 19:10",
+ "updated": "2026-11-08 19:44",
+ "checked": "2026-11-08 19:44",
  "entries": [
   {
    "date": "2026-11-01",
@@ -1658,6 +1658,18 @@ window.CAL_DATA = {
     "予告"
    ],
    "link": "entry418.html"
+  },
+  {
+   "date": "2026-11-08",
+   "genres": [
+    "食品"
+   ],
+   "shop": "DEAN & DELUCA",
+   "time": "",
+   "tags": [
+    "速報"
+   ],
+   "link": "entry604.html"
   },
   {
    "date": "2026-11-08",
