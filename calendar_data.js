@@ -1,6 +1,6 @@
 window.CAL_DATA = {
- "updated": "2026-11-08 19:44",
- "checked": "2026-11-08 19:47",
+ "updated": "2026-11-08 20:32",
+ "checked": "2026-11-08 20:32",
  "entries": [
   {
    "date": "2026-11-01",
@@ -1658,6 +1658,18 @@ window.CAL_DATA = {
     "予告"
    ],
    "link": "entry418.html"
+  },
+  {
+   "date": "2026-11-08",
+   "genres": [
+    "総合"
+   ],
+   "shop": "マルヒロ百貨店公式",
+   "time": "12:00",
+   "tags": [
+    "速報"
+   ],
+   "link": "entry572.html"
   },
   {
    "date": "2026-11-08",
