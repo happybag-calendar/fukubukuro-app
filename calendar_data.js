@@ -1,6 +1,6 @@
 window.CAL_DATA = {
- "updated": "2026-11-08 11:08",
- "checked": "2026-11-08 17:55",
+ "updated": "2026-11-08 18:51",
+ "checked": "2026-11-08 18:51",
  "entries": [
   {
    "date": "2026-11-01",
@@ -1751,6 +1751,16 @@ window.CAL_DATA = {
    "genres": [
     "食品"
    ],
+   "shop": "澤井珈琲Beans&Leaf",
+   "time": "10:00",
+   "tags": [],
+   "link": "entry984.html"
+  },
+  {
+   "date": "2026-11-09",
+   "genres": [
+    "食品"
+   ],
    "shop": "松屋グループ",
    "time": "",
    "tags": [],
@@ -1765,6 +1775,16 @@ window.CAL_DATA = {
    "time": "0:00",
    "tags": [],
    "link": "entry1037.html"
+  },
+  {
+   "date": "2026-11-09",
+   "genres": [
+    "開催中"
+   ],
+   "shop": "福袋お節と百貨店お節",
+   "time": "",
+   "tags": [],
+   "link": "category3/entry551.html"
   },
   {
    "date": "2026-11-10",
