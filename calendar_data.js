@@ -1,6 +1,6 @@
 window.CAL_DATA = {
- "updated": "2026-11-08 21:54",
- "checked": "2026-11-09 04:48",
+ "updated": "2026-11-09 05:00",
+ "checked": "2026-11-09 05:00",
  "entries": [
   {
    "date": "2026-11-01",
@@ -1783,7 +1783,7 @@ window.CAL_DATA = {
     "Jリーグ"
    ],
    "shop": "ファジアーノ岡山",
-   "time": "",
+   "time": "18:00",
    "tags": [],
    "link": "entry241.html"
   },
@@ -1793,7 +1793,7 @@ window.CAL_DATA = {
     "スーパー"
    ],
    "shop": "アピタ・ピアゴ公式",
-   "time": "",
+   "time": "10:00",
    "tags": [],
    "link": "entry1028.html"
   },
