@@ -1,6 +1,6 @@
 window.CAL_DATA = {
- "updated": "2026-11-08 21:17",
- "checked": "2026-11-08 21:17",
+ "updated": "2026-11-08 21:54",
+ "checked": "2026-11-08 21:54",
  "entries": [
   {
    "date": "2026-11-01",
@@ -1688,6 +1688,18 @@ window.CAL_DATA = {
    "genres": [
     "食品"
    ],
+   "shop": "チーズガーデン公式",
+   "time": "10:00",
+   "tags": [
+    "人気"
+   ],
+   "link": "entry617.html"
+  },
+  {
+   "date": "2026-11-08",
+   "genres": [
+    "食品"
+   ],
    "shop": "DEAN & DELUCA",
    "time": "",
    "tags": [
@@ -1719,16 +1731,6 @@ window.CAL_DATA = {
     "速報"
    ],
    "link": "entry134.html"
-  },
-  {
-   "date": "2026-11-08",
-   "genres": [
-    "食品"
-   ],
-   "shop": "チーズガーデン公式",
-   "time": "10:00",
-   "tags": [],
-   "link": "entry617.html"
   },
   {
    "date": "2026-11-08",
