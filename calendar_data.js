@@ -1,6 +1,6 @@
 window.CAL_DATA = {
- "updated": "2026-11-09 05:00",
- "checked": "2026-11-09 05:00",
+ "updated": "2026-11-09 05:42",
+ "checked": "2026-11-09 05:42",
  "entries": [
   {
    "date": "2026-11-01",
@@ -684,6 +684,16 @@ window.CAL_DATA = {
    "time": "8:00",
    "tags": [],
    "link": "entry886.html"
+  },
+  {
+   "date": "2026-11-03",
+   "genres": [
+    "総合"
+   ],
+   "shop": "JR京都伊勢丹オンラインストア",
+   "time": "",
+   "tags": [],
+   "link": "#4"
   },
   {
    "date": "2026-11-03",
@@ -1813,7 +1823,7 @@ window.CAL_DATA = {
     "食品"
    ],
    "shop": "松屋グループ",
-   "time": "",
+   "time": "0:00",
    "tags": [],
    "link": "entry31.html"
   },
@@ -2327,6 +2337,16 @@ window.CAL_DATA = {
     "店舗"
    ],
    "shop": "天下一品ラーメン",
+   "time": "",
+   "tags": [],
+   "link": "#4"
+  },
+  {
+   "date": "2026-12-02",
+   "genres": [
+    "総合"
+   ],
+   "shop": "JR京都伊勢丹オンラインストア",
    "time": "",
    "tags": [],
    "link": "#4"
