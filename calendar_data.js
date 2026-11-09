@@ -1,6 +1,6 @@
 window.CAL_DATA = {
- "updated": "2026-11-09 10:10",
- "checked": "2026-11-09 10:10",
+ "updated": "2026-11-09 11:14",
+ "checked": "2026-11-09 11:14",
  "entries": [
   {
    "date": "2026-11-01",
@@ -1858,6 +1858,18 @@ window.CAL_DATA = {
    "link": "category3/entry551.html"
   },
   {
+   "date": "2026-11-09",
+   "genres": [
+    "予告"
+   ],
+   "shop": "WEGO公式通販",
+   "time": "",
+   "tags": [
+    "予告"
+   ],
+   "link": "entry99.html"
+  },
+  {
    "date": "2026-11-10",
    "genres": [
     "ファッション"
@@ -1917,6 +1929,19 @@ window.CAL_DATA = {
    "time": "21:00",
    "tags": [],
    "link": "entry1038.html"
+  },
+  {
+   "date": "2026-11-10",
+   "genres": [
+    "食品",
+    "訳あり"
+   ],
+   "shop": "ステラおばさんのクッキー",
+   "time": "12:00",
+   "tags": [
+    "人気"
+   ],
+   "link": "entry501.html"
   },
   {
    "date": "2026-11-10",
@@ -2092,6 +2117,18 @@ window.CAL_DATA = {
    "time": "12:00",
    "tags": [],
    "link": "#4"
+  },
+  {
+   "date": "2026-11-13",
+   "genres": [
+    "予告"
+   ],
+   "shop": "WEGO公式通販",
+   "time": "12:00",
+   "tags": [
+    "予告"
+   ],
+   "link": "entry99.html"
   },
   {
    "date": "2026-11-15",
