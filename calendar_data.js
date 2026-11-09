@@ -1,6 +1,6 @@
 window.CAL_DATA = {
- "updated": "2026-11-09 19:10",
- "checked": "2026-11-09 19:10",
+ "updated": "2026-11-09 20:01",
+ "checked": "2026-11-09 20:01",
  "entries": [
   {
    "date": "2026-11-01",
@@ -1907,7 +1907,7 @@ window.CAL_DATA = {
     "ファッション"
    ],
    "shop": "楽天 Lucky Bag Store",
-   "time": "",
+   "time": "10:00",
    "tags": [],
    "link": "entry62.html"
   },
@@ -1917,7 +1917,7 @@ window.CAL_DATA = {
     "総合"
    ],
    "shop": "大丸松坂屋百貨店",
-   "time": "",
+   "time": "10:00",
    "tags": [],
    "link": "entry134.html"
   },
@@ -1938,7 +1938,7 @@ window.CAL_DATA = {
     "外食"
    ],
    "shop": "カルビ大将",
-   "time": "",
+   "time": "9:00",
    "tags": [],
    "link": "entry875.html"
   },
@@ -1948,7 +1948,7 @@ window.CAL_DATA = {
     "外食"
    ],
    "shop": "ステーキ宮",
-   "time": "",
+   "time": "9:00",
    "tags": [],
    "link": "entry875.html"
   },
