@@ -1,6 +1,6 @@
 window.CAL_DATA = {
- "updated": "2026-11-09 11:14",
- "checked": "2026-11-09 11:14",
+ "updated": "2026-11-09 11:39",
+ "checked": "2026-11-09 11:39",
  "entries": [
   {
    "date": "2026-11-01",
@@ -1816,6 +1816,16 @@ window.CAL_DATA = {
    "time": "10:00",
    "tags": [],
    "link": "entry984.html"
+  },
+  {
+   "date": "2026-11-09",
+   "genres": [
+    "食品"
+   ],
+   "shop": "世界のオーダーチーズ",
+   "time": "0:00",
+   "tags": [],
+   "link": "entry205.html"
   },
   {
    "date": "2026-11-09",
