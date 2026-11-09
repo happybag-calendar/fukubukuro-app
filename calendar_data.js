@@ -1,6 +1,6 @@
 window.CAL_DATA = {
- "updated": "2026-11-09 20:59",
- "checked": "2026-11-09 22:17",
+ "updated": "2026-11-09 23:59",
+ "checked": "2026-11-09 23:59",
  "entries": [
   {
    "date": "2026-11-01",
@@ -1860,26 +1860,6 @@ window.CAL_DATA = {
   {
    "date": "2026-11-09",
    "genres": [
-    "お知らせ"
-   ],
-   "shop": "産経新聞からインタビューうけた”おせち福袋”の記事が本日、YAHOOなどで掲載されました",
-   "time": "",
-   "tags": [],
-   "link": "#4"
-  },
-  {
-   "date": "2026-11-09",
-   "genres": [
-    "開催中"
-   ],
-   "shop": "福袋お節と百貨店お節",
-   "time": "",
-   "tags": [],
-   "link": "category3/entry551.html"
-  },
-  {
-   "date": "2026-11-09",
-   "genres": [
     "予告"
    ],
    "shop": "WEGO公式通販",
@@ -1939,7 +1919,9 @@ window.CAL_DATA = {
    ],
    "shop": "カルビ大将",
    "time": "9:00",
-   "tags": [],
+   "tags": [
+    "抽選"
+   ],
    "link": "entry875.html"
   },
   {
@@ -1949,7 +1931,9 @@ window.CAL_DATA = {
    ],
    "shop": "ステーキ宮",
    "time": "9:00",
-   "tags": [],
+   "tags": [
+    "抽選"
+   ],
    "link": "entry875.html"
   },
   {
@@ -1985,6 +1969,16 @@ window.CAL_DATA = {
    "time": "",
    "tags": [],
    "link": "entry498.html"
+  },
+  {
+   "date": "2026-11-10",
+   "genres": [
+    "開催中"
+   ],
+   "shop": "福袋お節と百貨店お節",
+   "time": "",
+   "tags": [],
+   "link": "category3/entry551.html"
   },
   {
    "date": "2026-11-11",
@@ -2127,6 +2121,16 @@ window.CAL_DATA = {
    "time": "",
    "tags": [],
    "link": "entry498.html"
+  },
+  {
+   "date": "2026-11-13",
+   "genres": [
+    "食品"
+   ],
+   "shop": "澤井珈琲Beans&Leaf",
+   "time": "0:00",
+   "tags": [],
+   "link": "entry984.html"
   },
   {
    "date": "2026-11-13",
