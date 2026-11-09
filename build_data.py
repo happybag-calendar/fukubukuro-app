@@ -63,6 +63,19 @@ def parse(html, today):
             continue
         if not (month and day):
             continue
+        if "【お知らせ】" in text:   # 【お知らせ】は、お店ではなく連絡事項として、そのまま載せる
+            body = re.sub(r"\s+", " ", text.replace("【お知らせ】", "")).strip()
+            if body:
+                a = el.find("a", href=re.compile(r"entry\d+\.html"))
+                href = a["href"].replace("./", "") if a else "#4"
+                y = guess_year(month, today)
+                item = {"date": f"{y}-{month:02d}-{day:02d}", "genres": ["お知らせ"], "shop": body[:80],
+                        "time": "", "tags": [], "link": href}
+                k = (item["date"], item["shop"], "")
+                if k not in seen:
+                    seen.add(k)
+                    entries.append(item)
+            continue
         first = el.find("p")
         head = first.get_text("", strip=True) if first else ""
         genres = re.findall(r"【([^】]+)】", head)
