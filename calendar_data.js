@@ -1,6 +1,6 @@
 window.CAL_DATA = {
- "updated": "2026-11-09 15:11",
- "checked": "2026-11-09 16:30",
+ "updated": "2026-11-09 18:01",
+ "checked": "2026-11-09 18:01",
  "entries": [
   {
    "date": "2026-11-01",
@@ -1163,7 +1163,7 @@ window.CAL_DATA = {
    "genres": [
     "お知らせ"
    ],
-   "shop": "”5”のつく日　YAHOO・楽天",
+   "shop": "※本日、 ”5”のつく日 YAHOO・楽天 ※産経新聞にて福袋記事予定 フジTV「めざましTV」出演",
    "time": "",
    "tags": [],
    "link": "entry625.html"
@@ -1890,6 +1890,18 @@ window.CAL_DATA = {
    "link": "entry99.html"
   },
   {
+   "date": "2026-11-09",
+   "genres": [
+    "予告"
+   ],
+   "shop": "FREAK’S STORE公式Daytona Park",
+   "time": "",
+   "tags": [
+    "予告"
+   ],
+   "link": "entry120.html"
+  },
+  {
    "date": "2026-11-10",
    "genres": [
     "ファッション"
@@ -2141,13 +2153,21 @@ window.CAL_DATA = {
   {
    "date": "2026-11-13",
    "genres": [
-    "予告"
+    "ファッション"
+   ],
+   "shop": "FREAK’S STORE公式Daytona Park",
+   "time": "12:00",
+   "tags": [],
+   "link": "entry120.html"
+  },
+  {
+   "date": "2026-11-13",
+   "genres": [
+    "ファッション"
    ],
    "shop": "WEGO公式通販",
    "time": "12:00",
-   "tags": [
-    "予告"
-   ],
+   "tags": [],
    "link": "entry99.html"
   },
   {
