@@ -1,6 +1,6 @@
 window.CAL_DATA = {
- "updated": "2026-11-09 18:01",
- "checked": "2026-11-09 18:15",
+ "updated": "2026-11-09 19:10",
+ "checked": "2026-11-09 19:10",
  "entries": [
   {
    "date": "2026-11-01",
@@ -1989,6 +1989,16 @@ window.CAL_DATA = {
   {
    "date": "2026-11-11",
    "genres": [
+    "お知らせ"
+   ],
+   "shop": "フジTVノンストップ出演予定",
+   "time": "",
+   "tags": [],
+   "link": "#4"
+  },
+  {
+   "date": "2026-11-11",
+   "genres": [
     "雑貨"
    ],
    "shop": "妖怪本舗公式",
@@ -2065,6 +2075,16 @@ window.CAL_DATA = {
    "time": "",
    "tags": [],
    "link": "entry289.html"
+  },
+  {
+   "date": "2026-11-12",
+   "genres": [
+    "お知らせ"
+   ],
+   "shop": "日本TV「dayday.」出演予定",
+   "time": "",
+   "tags": [],
+   "link": "#4"
   },
   {
    "date": "2026-11-12",
