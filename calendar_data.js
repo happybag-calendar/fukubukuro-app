@@ -1,6 +1,6 @@
 window.CAL_DATA = {
- "updated": "2026-11-09 20:01",
- "checked": "2026-11-09 20:01",
+ "updated": "2026-11-09 20:59",
+ "checked": "2026-11-09 20:59",
  "entries": [
   {
    "date": "2026-11-01",
@@ -2266,12 +2266,32 @@ window.CAL_DATA = {
   {
    "date": "2026-11-18",
    "genres": [
+    "ファッション"
+   ],
+   "shop": "楽天 Lucky Bag Store",
+   "time": "10:00",
+   "tags": [],
+   "link": "entry62.html"
+  },
+  {
+   "date": "2026-11-18",
+   "genres": [
     "食品"
    ],
    "shop": "NISHIKIYA KITCHEN",
    "time": "12:00",
    "tags": [],
    "link": "entry798.html"
+  },
+  {
+   "date": "2026-11-19",
+   "genres": [
+    "ファッション"
+   ],
+   "shop": "楽天 Lucky Bag Store",
+   "time": "10:00",
+   "tags": [],
+   "link": "entry62.html"
   },
   {
    "date": "2026-11-19",
