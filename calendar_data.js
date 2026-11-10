@@ -1,6 +1,6 @@
 window.CAL_DATA = {
- "updated": "2026-11-10 11:54",
- "checked": "2026-11-10 13:14",
+ "updated": "2026-11-10 13:57",
+ "checked": "2026-11-10 13:57",
  "entries": [
   {
    "date": "2026-11-01",
@@ -2041,6 +2041,18 @@ window.CAL_DATA = {
   {
    "date": "2026-11-10",
    "genres": [
+    "予告"
+   ],
+   "shop": "ロンドンティールーム",
+   "time": "",
+   "tags": [
+    "予告"
+   ],
+   "link": "entry108.html"
+  },
+  {
+   "date": "2026-11-10",
+   "genres": [
     "開催中"
    ],
    "shop": "福袋お節と百貨店お節",
@@ -2366,6 +2378,16 @@ window.CAL_DATA = {
     "抽選"
    ],
    "link": "entry595.html"
+  },
+  {
+   "date": "2026-11-17",
+   "genres": [
+    "飲料"
+   ],
+   "shop": "ロンドンティールーム",
+   "time": "20:00",
+   "tags": [],
+   "link": "entry108.html"
   },
   {
    "date": "2026-11-18",
