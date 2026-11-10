@@ -1,6 +1,6 @@
 window.CAL_DATA = {
- "updated": "2026-11-09 23:59",
- "checked": "2026-11-10 08:44",
+ "updated": "2026-11-10 10:04",
+ "checked": "2026-11-10 10:04",
  "entries": [
   {
    "date": "2026-11-01",
@@ -307,6 +307,16 @@ window.CAL_DATA = {
    "time": "",
    "tags": [],
    "link": "entry1029.html"
+  },
+  {
+   "date": "2026-11-01",
+   "genres": [
+    "食品"
+   ],
+   "shop": "長崎心泉堂",
+   "time": "10:00",
+   "tags": [],
+   "link": "entry721.html"
   },
   {
    "date": "2026-11-01",
@@ -1962,6 +1972,16 @@ window.CAL_DATA = {
   {
    "date": "2026-11-10",
    "genres": [
+    "故郷"
+   ],
+   "shop": "ふるさと納税で福袋",
+   "time": "",
+   "tags": [],
+   "link": "entry521.html"
+  },
+  {
+   "date": "2026-11-10",
+   "genres": [
     "元金担保型",
     "店舗"
    ],
@@ -2266,6 +2286,18 @@ window.CAL_DATA = {
     "人気"
    ],
    "link": "entry664.html"
+  },
+  {
+   "date": "2026-11-17",
+   "genres": [
+    "アプリ"
+   ],
+   "shop": "ジョリーパスタ",
+   "time": "10:00",
+   "tags": [
+    "抽選"
+   ],
+   "link": "entry595.html"
   },
   {
    "date": "2026-11-18",
