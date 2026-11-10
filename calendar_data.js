@@ -1,6 +1,6 @@
 window.CAL_DATA = {
- "updated": "2026-11-10 10:04",
- "checked": "2026-11-10 10:04",
+ "updated": "2026-11-10 11:08",
+ "checked": "2026-11-10 11:08",
  "entries": [
   {
    "date": "2026-11-01",
@@ -1894,6 +1894,18 @@ window.CAL_DATA = {
   {
    "date": "2026-11-10",
    "genres": [
+    "食品"
+   ],
+   "shop": "パパブブレ公式通販",
+   "time": "",
+   "tags": [
+    "速報"
+   ],
+   "link": "entry688.html"
+  },
+  {
+   "date": "2026-11-10",
+   "genres": [
     "ファッション"
    ],
    "shop": "楽天 Lucky Bag Store",
@@ -1993,12 +2005,34 @@ window.CAL_DATA = {
   {
    "date": "2026-11-10",
    "genres": [
+    "予告"
+   ],
+   "shop": "レストランCOCOS",
+   "time": "",
+   "tags": [
+    "予告"
+   ],
+   "link": "entry595.html"
+  },
+  {
+   "date": "2026-11-10",
+   "genres": [
     "開催中"
    ],
    "shop": "福袋お節と百貨店お節",
    "time": "",
    "tags": [],
    "link": "category3/entry551.html"
+  },
+  {
+   "date": "2026-11-10",
+   "genres": [
+    "店舗"
+   ],
+   "shop": "COFFEE STYLE UCC",
+   "time": "",
+   "tags": [],
+   "link": "entry498.html"
   },
   {
    "date": "2026-11-11",
@@ -2247,6 +2281,16 @@ window.CAL_DATA = {
   {
    "date": "2026-11-15",
    "genres": [
+    "飲料"
+   ],
+   "shop": "澤井コーヒー",
+   "time": "0:00",
+   "tags": [],
+   "link": "entry984.html"
+  },
+  {
+   "date": "2026-11-15",
+   "genres": [
     "コスメ"
    ],
    "shop": "ISETAN BEAUTY online",
@@ -2410,6 +2454,16 @@ window.CAL_DATA = {
    "time": "",
    "tags": [],
    "link": "entry1039.html"
+  },
+  {
+   "date": "2026-11-20",
+   "genres": [
+    "店舗"
+   ],
+   "shop": "レストランCOCOS",
+   "time": "10:00",
+   "tags": [],
+   "link": "entry595.html"
   },
   {
    "date": "2026-11-20",
