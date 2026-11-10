@@ -1,6 +1,6 @@
 window.CAL_DATA = {
- "updated": "2026-11-10 18:46",
- "checked": "2026-11-10 22:05",
+ "updated": "2026-11-10 23:18",
+ "checked": "2026-11-10 23:18",
  "entries": [
   {
    "date": "2026-11-01",
@@ -1880,18 +1880,6 @@ window.CAL_DATA = {
    "link": "entry99.html"
   },
   {
-   "date": "2026-11-09",
-   "genres": [
-    "予告"
-   ],
-   "shop": "FREAK’S STORE公式Daytona Park",
-   "time": "",
-   "tags": [
-    "予告"
-   ],
-   "link": "entry120.html"
-  },
-  {
    "date": "2026-11-10",
    "genres": [
     "食品"
@@ -2081,6 +2069,28 @@ window.CAL_DATA = {
    "link": "entry498.html"
   },
   {
+   "date": "2026-11-10",
+   "genres": [
+    "予告"
+   ],
+   "shop": "FREAK’S STORE公式Daytona Park",
+   "time": "",
+   "tags": [
+    "予告"
+   ],
+   "link": "entry120.html"
+  },
+  {
+   "date": "2026-11-11",
+   "genres": [
+    "コスメ"
+   ],
+   "shop": "ISETAN BEAUTY",
+   "time": "",
+   "tags": [],
+   "link": "entry575.html"
+  },
+  {
    "date": "2026-11-11",
    "genres": [
     "雑貨"
@@ -2109,16 +2119,6 @@ window.CAL_DATA = {
    "time": "15:00",
    "tags": [],
    "link": "entry650.html"
-  },
-  {
-   "date": "2026-11-11",
-   "genres": [
-    "コスメ"
-   ],
-   "shop": "ISETAN BEAUTY",
-   "time": "",
-   "tags": [],
-   "link": "entry575.html"
   },
   {
    "date": "2026-11-11",
