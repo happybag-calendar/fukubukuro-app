@@ -1,6 +1,6 @@
 window.CAL_DATA = {
- "updated": "2026-11-10 23:18",
- "checked": "2026-11-10 23:18",
+ "updated": "2026-11-11 00:53",
+ "checked": "2026-11-11 00:53",
  "entries": [
   {
    "date": "2026-11-01",
@@ -2086,7 +2086,7 @@ window.CAL_DATA = {
     "コスメ"
    ],
    "shop": "ISETAN BEAUTY",
-   "time": "",
+   "time": "10:00",
    "tags": [],
    "link": "entry575.html"
   },
@@ -2146,7 +2146,7 @@ window.CAL_DATA = {
     "カフェ"
    ],
    "shop": "コメダ珈琲公式",
-   "time": "",
+   "time": "10:00",
    "tags": [],
    "link": "entry498.html"
   },
@@ -2460,6 +2460,16 @@ window.CAL_DATA = {
    "time": "10:00",
    "tags": [],
    "link": "entry936.html"
+  },
+  {
+   "date": "2026-11-20",
+   "genres": [
+    "コスメ"
+   ],
+   "shop": "アットコスメ公式通販",
+   "time": "12:00",
+   "tags": [],
+   "link": "entry312.html"
   },
   {
    "date": "2026-11-20",
