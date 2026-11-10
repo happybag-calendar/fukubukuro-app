@@ -1,6 +1,6 @@
 window.CAL_DATA = {
- "updated": "2026-11-10 13:57",
- "checked": "2026-11-10 13:57",
+ "updated": "2026-11-10 14:57",
+ "checked": "2026-11-10 14:57",
  "entries": [
   {
    "date": "2026-11-01",
@@ -2069,16 +2069,6 @@ window.CAL_DATA = {
    "time": "",
    "tags": [],
    "link": "entry498.html"
-  },
-  {
-   "date": "2026-11-11",
-   "genres": [
-    "お知らせ"
-   ],
-   "shop": "フジTVノンストップ出演予定",
-   "time": "",
-   "tags": [],
-   "link": "#4"
   },
   {
    "date": "2026-11-11",
