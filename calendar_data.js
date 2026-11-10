@@ -1,6 +1,6 @@
 window.CAL_DATA = {
- "updated": "2026-11-10 14:57",
- "checked": "2026-11-10 17:21",
+ "updated": "2026-11-10 18:46",
+ "checked": "2026-11-10 18:46",
  "entries": [
   {
    "date": "2026-11-01",
@@ -1995,6 +1995,16 @@ window.CAL_DATA = {
   {
    "date": "2026-11-10",
    "genres": [
+    "スポーツ"
+   ],
+   "shop": "ナチュラム アウトドア＆フィッシング",
+   "time": "18:00",
+   "tags": [],
+   "link": "entry243.html"
+  },
+  {
+   "date": "2026-11-10",
+   "genres": [
     "食品",
     "訳あり"
    ],
@@ -2083,10 +2093,20 @@ window.CAL_DATA = {
   {
    "date": "2026-11-11",
    "genres": [
+    "日用品"
+   ],
+   "shop": "隠れ工房GreenOcean",
+   "time": "11:11",
+   "tags": [],
+   "link": "entry1045.html"
+  },
+  {
+   "date": "2026-11-11",
+   "genres": [
     "ファッション"
    ],
    "shop": "しまむら",
-   "time": "",
+   "time": "15:00",
    "tags": [],
    "link": "entry650.html"
   },
