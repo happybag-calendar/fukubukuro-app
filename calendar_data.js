@@ -1,6 +1,6 @@
 window.CAL_DATA = {
- "updated": "2026-11-11 09:02",
- "checked": "2026-11-11 09:02",
+ "updated": "2026-11-11 09:40",
+ "checked": "2026-11-11 09:40",
  "entries": [
   {
    "date": "2026-11-01",
@@ -2083,10 +2083,22 @@ window.CAL_DATA = {
   {
    "date": "2026-11-11",
    "genres": [
+    "飲料"
+   ],
+   "shop": "タリーズコーヒー公式",
+   "time": "11:00",
+   "tags": [
+    "速報"
+   ],
+   "link": "entry498.html"
+  },
+  {
+   "date": "2026-11-11",
+   "genres": [
     "靴下"
    ],
    "shop": "TABIO公式靴下屋",
-   "time": "",
+   "time": "9:30",
    "tags": [
     "速報"
    ],
@@ -2211,6 +2223,16 @@ window.CAL_DATA = {
    "time": "20:00",
    "tags": [],
    "link": "entry418.html"
+  },
+  {
+   "date": "2026-11-12",
+   "genres": [
+    "飲料"
+   ],
+   "shop": "UCC上島コーヒー",
+   "time": "10:00",
+   "tags": [],
+   "link": "entry498.html"
   },
   {
    "date": "2026-11-13",
