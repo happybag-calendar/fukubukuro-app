@@ -1,6 +1,6 @@
 window.CAL_DATA = {
- "updated": "2026-11-11 16:18",
- "checked": "2026-11-11 16:18",
+ "updated": "2026-11-11 17:59",
+ "checked": "2026-11-11 17:59",
  "entries": [
   {
    "date": "2026-11-01",
@@ -2369,6 +2369,16 @@ window.CAL_DATA = {
   {
    "date": "2026-11-13",
    "genres": [
+    "ファッション"
+   ],
+   "shop": "楽天 Lucky Bag Store",
+   "time": "10:00",
+   "tags": [],
+   "link": "entry62.html"
+  },
+  {
+   "date": "2026-11-13",
+   "genres": [
     "元金担保型"
    ],
    "shop": "ケンタッキーフライドチキン",
@@ -2668,6 +2678,16 @@ window.CAL_DATA = {
    "time": "10:00",
    "tags": [],
    "link": "entry936.html"
+  },
+  {
+   "date": "2026-11-20",
+   "genres": [
+    "ファッション"
+   ],
+   "shop": "楽天 Lucky Bag Store",
+   "time": "12:00",
+   "tags": [],
+   "link": "entry62.html"
   },
   {
    "date": "2026-11-20",
