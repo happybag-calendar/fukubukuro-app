@@ -1,6 +1,6 @@
 window.CAL_DATA = {
- "updated": "2026-11-11 15:04",
- "checked": "2026-11-11 15:04",
+ "updated": "2026-11-11 16:18",
+ "checked": "2026-11-11 16:18",
  "entries": [
   {
    "date": "2026-11-01",
@@ -2307,6 +2307,18 @@ window.CAL_DATA = {
   {
    "date": "2026-11-11",
    "genres": [
+    "予告"
+   ],
+   "shop": "三井ショッピングパーク",
+   "time": "",
+   "tags": [
+    "予告"
+   ],
+   "link": "entry456.html"
+  },
+  {
+   "date": "2026-11-11",
+   "genres": [
     "BLACK FRIDAY"
    ],
    "shop": "眼鏡のZOFF",
@@ -2628,6 +2640,16 @@ window.CAL_DATA = {
   {
    "date": "2026-11-19",
    "genres": [
+    "百貨店"
+   ],
+   "shop": "東武百貨店公式",
+   "time": "",
+   "tags": [],
+   "link": "entry409.html"
+  },
+  {
+   "date": "2026-11-19",
+   "genres": [
     "食品"
    ],
    "shop": "うなぎ屋かわすい",
@@ -2646,6 +2668,16 @@ window.CAL_DATA = {
    "time": "10:00",
    "tags": [],
    "link": "entry936.html"
+  },
+  {
+   "date": "2026-11-20",
+   "genres": [
+    "ファッション"
+   ],
+   "shop": "三井ショッピングパーク",
+   "time": "12:00",
+   "tags": [],
+   "link": "entry456.html"
   },
   {
    "date": "2026-11-20",
@@ -2728,6 +2760,16 @@ window.CAL_DATA = {
    "link": "entry556.html"
   },
   {
+   "date": "2026-11-24",
+   "genres": [
+    "百貨店"
+   ],
+   "shop": "東武百貨店公式",
+   "time": "",
+   "tags": [],
+   "link": "entry409.html"
+  },
+  {
    "date": "2026-11-25",
    "genres": [
     "元金担保型"
@@ -2748,6 +2790,16 @@ window.CAL_DATA = {
    "time": "",
    "tags": [],
    "link": "entry13.html"
+  },
+  {
+   "date": "2026-11-26",
+   "genres": [
+    "百貨店"
+   ],
+   "shop": "東武百貨店公式",
+   "time": "",
+   "tags": [],
+   "link": "entry409.html"
   },
   {
    "date": "2026-11-26",
@@ -2843,12 +2895,32 @@ window.CAL_DATA = {
   {
    "date": "2026-12-03",
    "genres": [
+    "百貨店"
+   ],
+   "shop": "東武百貨店公式",
+   "time": "",
+   "tags": [],
+   "link": "entry409.html"
+  },
+  {
+   "date": "2026-12-03",
+   "genres": [
     "カフェ"
    ],
    "shop": "カフェ・ベローチェ",
    "time": "20:00",
    "tags": [],
    "link": "entry498.html"
+  },
+  {
+   "date": "2026-12-04",
+   "genres": [
+    "百貨店"
+   ],
+   "shop": "東武百貨店公式",
+   "time": "",
+   "tags": [],
+   "link": "entry409.html"
   },
   {
    "date": "2026-12-04",
