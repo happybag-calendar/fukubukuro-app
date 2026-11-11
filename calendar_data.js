@@ -1,6 +1,6 @@
 window.CAL_DATA = {
- "updated": "2026-11-11 14:46",
- "checked": "2026-11-11 14:46",
+ "updated": "2026-11-11 14:50",
+ "checked": "2026-11-11 14:50",
  "entries": [
   {
    "date": "2026-11-01",
@@ -2290,7 +2290,7 @@ window.CAL_DATA = {
    "tags": [
     "予告"
    ],
-   "link": "entry418.html"
+   "link": "entry713.html"
   },
   {
    "date": "2026-11-11",
@@ -2556,10 +2556,10 @@ window.CAL_DATA = {
    "genres": [
     "ファッション"
    ],
-   "shop": "パルクローゼット公式3COINS",
+   "shop": "3COINS公式",
    "time": "10:00",
    "tags": [],
-   "link": "entry418.html"
+   "link": "entry713.html"
   },
   {
    "date": "2026-11-18",
