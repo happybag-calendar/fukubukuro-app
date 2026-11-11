@@ -1,6 +1,6 @@
 window.CAL_DATA = {
- "updated": "2026-11-12 05:04",
- "checked": "2026-11-12 05:04",
+ "updated": "2026-11-12 06:40",
+ "checked": "2026-11-12 06:40",
  "entries": [
   {
    "date": "2026-11-01",
@@ -2006,6 +2006,18 @@ window.CAL_DATA = {
   {
    "date": "2026-11-10",
    "genres": [
+    "雑貨"
+   ],
+   "shop": "カリス成城公式",
+   "time": "",
+   "tags": [
+    "人気"
+   ],
+   "link": "entry938.html"
+  },
+  {
+   "date": "2026-11-10",
+   "genres": [
     "故郷"
    ],
    "shop": "ふるさと納税で福袋",
@@ -2113,6 +2125,16 @@ window.CAL_DATA = {
    "time": "10:00",
    "tags": [],
    "link": "entry575.html"
+  },
+  {
+   "date": "2026-11-11",
+   "genres": [
+    "総合"
+   ],
+   "shop": "井筒屋百貨店",
+   "time": "",
+   "tags": [],
+   "link": "#4"
   },
   {
    "date": "2026-11-11",
@@ -2329,6 +2351,18 @@ window.CAL_DATA = {
   {
    "date": "2026-11-12",
    "genres": [
+    "ファッション"
+   ],
+   "shop": "ITOKIN公式通販",
+   "time": "0:00",
+   "tags": [
+    "速報"
+   ],
+   "link": "entry144.html"
+  },
+  {
+   "date": "2026-11-12",
+   "genres": [
     "百貨店"
    ],
    "shop": "東武百貨店公式",
@@ -2355,6 +2389,16 @@ window.CAL_DATA = {
    "time": "20:00",
    "tags": [],
    "link": "entry418.html"
+  },
+  {
+   "date": "2026-11-12",
+   "genres": [
+    "酒類"
+   ],
+   "shop": "酒くじ一覧",
+   "time": "9:00",
+   "tags": [],
+   "link": "entry715.html"
   },
   {
    "date": "2026-11-12",
@@ -2481,6 +2525,16 @@ window.CAL_DATA = {
    "link": "entry118.html"
   },
   {
+   "date": "2026-11-13",
+   "genres": [
+    "酒類"
+   ],
+   "shop": "酒くじ一覧",
+   "time": "20:00",
+   "tags": [],
+   "link": "entry715.html"
+  },
+  {
    "date": "2026-11-14",
    "genres": [
     "開催中"
@@ -2604,6 +2658,18 @@ window.CAL_DATA = {
    "time": "10:00",
    "tags": [],
    "link": "entry62.html"
+  },
+  {
+   "date": "2026-11-18",
+   "genres": [
+    "子供服"
+   ],
+   "shop": "MARKY’S公式楽天市場店",
+   "time": "12:00",
+   "tags": [
+    "人気"
+   ],
+   "link": "entry664.html"
   },
   {
    "date": "2026-11-18",
@@ -2850,6 +2916,16 @@ window.CAL_DATA = {
    "time": "",
    "tags": [],
    "link": "entry164.html"
+  },
+  {
+   "date": "2026-11-26",
+   "genres": [
+    "酒類"
+   ],
+   "shop": "酒くじ一覧",
+   "time": "17:00",
+   "tags": [],
+   "link": "entry715.html"
   },
   {
    "date": "2026-12-01",
