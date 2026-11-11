@@ -1,6 +1,6 @@
 window.CAL_DATA = {
- "updated": "2026-11-12 06:40",
- "checked": "2026-11-12 06:41",
+ "updated": "2026-11-12 06:43",
+ "checked": "2026-11-12 06:43",
  "entries": [
   {
    "date": "2026-11-01",
@@ -2366,7 +2366,7 @@ window.CAL_DATA = {
     "百貨店"
    ],
    "shop": "東武百貨店公式",
-   "time": "",
+   "time": "10:00",
    "tags": [],
    "link": "entry409.html"
   },
