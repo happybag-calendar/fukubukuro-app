@@ -1,6 +1,6 @@
 window.CAL_DATA = {
- "updated": "2026-11-12 08:32",
- "checked": "2026-11-12 08:32",
+ "updated": "2026-11-12 08:52",
+ "checked": "2026-11-12 08:52",
  "entries": [
   {
    "date": "2026-11-01",
@@ -2607,6 +2607,16 @@ window.CAL_DATA = {
    "time": "8:00",
    "tags": [],
    "link": "entry886.html"
+  },
+  {
+   "date": "2026-11-15",
+   "genres": [
+    "飲料"
+   ],
+   "shop": "キーコーヒー公式",
+   "time": "0:00",
+   "tags": [],
+   "link": "entry932.html"
   },
   {
    "date": "2026-11-15",
