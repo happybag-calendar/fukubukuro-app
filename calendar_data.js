@@ -1,6 +1,6 @@
 window.CAL_DATA = {
- "updated": "2026-11-11 00:53",
- "checked": "2026-11-11 08:42",
+ "updated": "2026-11-11 09:02",
+ "checked": "2026-11-11 09:02",
  "entries": [
   {
    "date": "2026-11-01",
@@ -2079,6 +2079,18 @@ window.CAL_DATA = {
     "予告"
    ],
    "link": "entry120.html"
+  },
+  {
+   "date": "2026-11-11",
+   "genres": [
+    "靴下"
+   ],
+   "shop": "TABIO公式靴下屋",
+   "time": "",
+   "tags": [
+    "速報"
+   ],
+   "link": "entry247.html"
   },
   {
    "date": "2026-11-11",
