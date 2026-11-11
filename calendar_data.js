@@ -1,6 +1,6 @@
 window.CAL_DATA = {
- "updated": "2026-11-11 20:04",
- "checked": "2026-11-12 04:00",
+ "updated": "2026-11-12 05:04",
+ "checked": "2026-11-12 05:04",
  "entries": [
   {
    "date": "2026-11-01",
@@ -2339,6 +2339,16 @@ window.CAL_DATA = {
   {
    "date": "2026-11-12",
    "genres": [
+    "飲料"
+   ],
+   "shop": "UCC上島コーヒー",
+   "time": "10:00",
+   "tags": [],
+   "link": "entry498.html"
+  },
+  {
+   "date": "2026-11-12",
+   "genres": [
     "ファッション"
    ],
    "shop": "パルクローゼット公式",
@@ -2349,12 +2359,12 @@ window.CAL_DATA = {
   {
    "date": "2026-11-12",
    "genres": [
-    "飲料"
+    "故郷"
    ],
-   "shop": "UCC上島コーヒー",
-   "time": "10:00",
+   "shop": "ふるさと納税で福袋",
+   "time": "",
    "tags": [],
-   "link": "entry498.html"
+   "link": "entry521.html"
   },
   {
    "date": "2026-11-13",
@@ -2459,6 +2469,16 @@ window.CAL_DATA = {
    "time": "12:00",
    "tags": [],
    "link": "entry99.html"
+  },
+  {
+   "date": "2026-11-13",
+   "genres": [
+    "レディース"
+   ],
+   "shop": "POU DOU DOU公式",
+   "time": "12:00",
+   "tags": [],
+   "link": "entry118.html"
   },
   {
    "date": "2026-11-14",
