@@ -1,6 +1,6 @@
 window.CAL_DATA = {
- "updated": "2026-11-11 10:07",
- "checked": "2026-11-11 10:07",
+ "updated": "2026-11-11 11:07",
+ "checked": "2026-11-11 11:07",
  "entries": [
   {
    "date": "2026-11-01",
@@ -2177,6 +2177,36 @@ window.CAL_DATA = {
   {
    "date": "2026-11-11",
    "genres": [
+    "レディース"
+   ],
+   "shop": "マガシーク公式",
+   "time": "",
+   "tags": [],
+   "link": "entry49.html"
+  },
+  {
+   "date": "2026-11-11",
+   "genres": [
+    "レディース"
+   ],
+   "shop": "Shoplist公式",
+   "time": "",
+   "tags": [],
+   "link": "entry295.html"
+  },
+  {
+   "date": "2026-11-11",
+   "genres": [
+    "メンズ"
+   ],
+   "shop": "and ST公式通販",
+   "time": "",
+   "tags": [],
+   "link": "entry161.html"
+  },
+  {
+   "date": "2026-11-11",
+   "genres": [
     "カフェ"
    ],
    "shop": "コメダ珈琲公式",
@@ -2193,6 +2223,16 @@ window.CAL_DATA = {
    "time": "11:00",
    "tags": [],
    "link": "entry327.html"
+  },
+  {
+   "date": "2026-11-11",
+   "genres": [
+    "食品"
+   ],
+   "shop": "食べチョク公式",
+   "time": "",
+   "tags": [],
+   "link": "entry653.html"
   },
   {
    "date": "2026-11-11",
