@@ -1,6 +1,6 @@
 window.CAL_DATA = {
- "updated": "2026-11-11 17:59",
- "checked": "2026-11-11 19:02",
+ "updated": "2026-11-11 20:04",
+ "checked": "2026-11-11 20:04",
  "entries": [
   {
    "date": "2026-11-01",
@@ -2051,16 +2051,6 @@ window.CAL_DATA = {
   {
    "date": "2026-11-10",
    "genres": [
-    "開催中"
-   ],
-   "shop": "福袋お節と百貨店お節",
-   "time": "",
-   "tags": [],
-   "link": "category3/entry551.html"
-  },
-  {
-   "date": "2026-11-10",
-   "genres": [
     "店舗"
    ],
    "shop": "COFFEE STYLE UCC",
@@ -2123,16 +2113,6 @@ window.CAL_DATA = {
    "time": "10:00",
    "tags": [],
    "link": "entry575.html"
-  },
-  {
-   "date": "2026-11-11",
-   "genres": [
-    "雑貨"
-   ],
-   "shop": "妖怪本舗公式",
-   "time": "11:38",
-   "tags": [],
-   "link": "#4"
   },
   {
    "date": "2026-11-11",
@@ -2223,6 +2203,16 @@ window.CAL_DATA = {
    "time": "10:00",
    "tags": [],
    "link": "entry498.html"
+  },
+  {
+   "date": "2026-11-11",
+   "genres": [
+    "雑貨"
+   ],
+   "shop": "妖怪本舗公式",
+   "time": "11:38",
+   "tags": [],
+   "link": "#4"
   },
   {
    "date": "2026-11-11",
@@ -2469,6 +2459,16 @@ window.CAL_DATA = {
    "time": "12:00",
    "tags": [],
    "link": "entry99.html"
+  },
+  {
+   "date": "2026-11-14",
+   "genres": [
+    "開催中"
+   ],
+   "shop": "福袋お節と百貨店お節",
+   "time": "",
+   "tags": [],
+   "link": "category3/entry551.html"
   },
   {
    "date": "2026-11-15",
