@@ -1,6 +1,6 @@
 window.CAL_DATA = {
- "updated": "2026-11-11 11:43",
- "checked": "2026-11-11 14:04",
+ "updated": "2026-11-11 14:46",
+ "checked": "2026-11-11 14:46",
  "entries": [
   {
    "date": "2026-11-01",
@@ -2271,6 +2271,30 @@ window.CAL_DATA = {
   {
    "date": "2026-11-11",
    "genres": [
+    "予告"
+   ],
+   "shop": "パルクローゼット公式",
+   "time": "",
+   "tags": [
+    "予告"
+   ],
+   "link": "entry418.html"
+  },
+  {
+   "date": "2026-11-11",
+   "genres": [
+    "予告"
+   ],
+   "shop": "3COINS公式",
+   "time": "",
+   "tags": [
+    "予告"
+   ],
+   "link": "entry418.html"
+  },
+  {
+   "date": "2026-11-11",
+   "genres": [
     "BLACK FRIDAY"
    ],
    "shop": "眼鏡のZOFF",
@@ -2530,6 +2554,16 @@ window.CAL_DATA = {
   {
    "date": "2026-11-18",
    "genres": [
+    "ファッション"
+   ],
+   "shop": "パルクローゼット公式3COINS",
+   "time": "10:00",
+   "tags": [],
+   "link": "entry418.html"
+  },
+  {
+   "date": "2026-11-18",
+   "genres": [
     "食品"
    ],
    "shop": "NISHIKIYA KITCHEN",
@@ -2546,6 +2580,16 @@ window.CAL_DATA = {
    "time": "10:00",
    "tags": [],
    "link": "entry62.html"
+  },
+  {
+   "date": "2026-11-19",
+   "genres": [
+    "ファッション"
+   ],
+   "shop": "パルクローゼット公式",
+   "time": "10:00",
+   "tags": [],
+   "link": "entry418.html"
   },
   {
    "date": "2026-11-19",
