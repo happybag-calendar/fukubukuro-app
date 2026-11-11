@@ -1,6 +1,6 @@
 window.CAL_DATA = {
- "updated": "2026-11-12 07:56",
- "checked": "2026-11-12 07:56",
+ "updated": "2026-11-12 08:05",
+ "checked": "2026-11-12 08:05",
  "entries": [
   {
    "date": "2026-11-01",
@@ -2359,6 +2359,18 @@ window.CAL_DATA = {
     "速報"
    ],
    "link": "entry144.html"
+  },
+  {
+   "date": "2026-11-12",
+   "genres": [
+    "食品"
+   ],
+   "shop": "神戸モリーママ",
+   "time": "0:00",
+   "tags": [
+    "速報"
+   ],
+   "link": "entry991.html"
   },
   {
    "date": "2026-11-12",
