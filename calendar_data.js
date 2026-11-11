@@ -1,6 +1,6 @@
 window.CAL_DATA = {
- "updated": "2026-11-11 11:07",
- "checked": "2026-11-11 11:07",
+ "updated": "2026-11-11 11:43",
+ "checked": "2026-11-11 11:43",
  "entries": [
   {
    "date": "2026-11-01",
@@ -2083,6 +2083,16 @@ window.CAL_DATA = {
   {
    "date": "2026-11-11",
    "genres": [
+    "お知らせ"
+   ],
+   "shop": "フジTV「ノンストップ」に福袋情報を提供しました",
+   "time": "",
+   "tags": [],
+   "link": "#4"
+  },
+  {
+   "date": "2026-11-11",
+   "genres": [
     "飲料"
    ],
    "shop": "タリーズコーヒー公式",
@@ -2233,6 +2243,30 @@ window.CAL_DATA = {
    "time": "",
    "tags": [],
    "link": "entry653.html"
+  },
+  {
+   "date": "2026-11-11",
+   "genres": [
+    "予告"
+   ],
+   "shop": "PRESS BUTTER SANDのBAKE",
+   "time": "",
+   "tags": [
+    "予告"
+   ],
+   "link": "entry764.html"
+  },
+  {
+   "date": "2026-11-11",
+   "genres": [
+    "予告"
+   ],
+   "shop": "将棋連盟公式通販",
+   "time": "",
+   "tags": [
+    "予告"
+   ],
+   "link": "entry128.html"
   },
   {
    "date": "2026-11-11",
@@ -2700,6 +2734,16 @@ window.CAL_DATA = {
   {
    "date": "2026-12-01",
    "genres": [
+    "雑貨"
+   ],
+   "shop": "将棋連盟公式通販",
+   "time": "",
+   "tags": [],
+   "link": "entry128.html"
+  },
+  {
+   "date": "2026-12-01",
+   "genres": [
     "元金担保型",
     "店舗"
    ],
@@ -2747,6 +2791,16 @@ window.CAL_DATA = {
    "time": "10:00",
    "tags": [],
    "link": "entry17.html"
+  },
+  {
+   "date": "2026-12-07",
+   "genres": [
+    "食品"
+   ],
+   "shop": "PRESS BUTTER SANDのBAKE",
+   "time": "",
+   "tags": [],
+   "link": "entry764.html"
   },
   {
    "date": "2026-12-08",
