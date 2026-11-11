@@ -1,6 +1,6 @@
 window.CAL_DATA = {
- "updated": "2026-11-11 14:50",
- "checked": "2026-11-11 14:50",
+ "updated": "2026-11-11 15:04",
+ "checked": "2026-11-11 15:04",
  "entries": [
   {
    "date": "2026-11-01",
@@ -2295,6 +2295,18 @@ window.CAL_DATA = {
   {
    "date": "2026-11-11",
    "genres": [
+    "予告"
+   ],
+   "shop": "カルディーコーヒー",
+   "time": "",
+   "tags": [
+    "予告"
+   ],
+   "link": "entry498.html"
+  },
+  {
+   "date": "2026-11-11",
+   "genres": [
     "BLACK FRIDAY"
    ],
    "shop": "眼鏡のZOFF",
@@ -2550,6 +2562,18 @@ window.CAL_DATA = {
    "time": "10:00",
    "tags": [],
    "link": "entry62.html"
+  },
+  {
+   "date": "2026-11-18",
+   "genres": [
+    "その他"
+   ],
+   "shop": "カルディーコーヒー",
+   "time": "",
+   "tags": [
+    "抽選"
+   ],
+   "link": "entry498.html"
   },
   {
    "date": "2026-11-18",
