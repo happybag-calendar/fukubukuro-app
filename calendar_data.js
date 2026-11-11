@@ -1,6 +1,6 @@
 window.CAL_DATA = {
- "updated": "2026-11-12 06:43",
- "checked": "2026-11-12 06:43",
+ "updated": "2026-11-12 07:56",
+ "checked": "2026-11-12 07:56",
  "entries": [
   {
    "date": "2026-11-01",
@@ -2393,6 +2393,26 @@ window.CAL_DATA = {
   {
    "date": "2026-11-12",
    "genres": [
+    "食品"
+   ],
+   "shop": "オタフクソース",
+   "time": "0:00",
+   "tags": [],
+   "link": "entry934.html"
+  },
+  {
+   "date": "2026-11-12",
+   "genres": [
+    "ご当地"
+   ],
+   "shop": "沖縄ジバココーヒー",
+   "time": "0:00",
+   "tags": [],
+   "link": "entry1029.html"
+  },
+  {
+   "date": "2026-11-12",
+   "genres": [
     "酒類"
    ],
    "shop": "酒くじ一覧",
@@ -2409,6 +2429,18 @@ window.CAL_DATA = {
    "time": "",
    "tags": [],
    "link": "entry521.html"
+  },
+  {
+   "date": "2026-11-12",
+   "genres": [
+    "予告"
+   ],
+   "shop": "バレエのチャコット公式",
+   "time": "",
+   "tags": [
+    "予告"
+   ],
+   "link": "entry261.html"
   },
   {
    "date": "2026-11-13",
@@ -2533,6 +2565,16 @@ window.CAL_DATA = {
    "time": "20:00",
    "tags": [],
    "link": "entry715.html"
+  },
+  {
+   "date": "2026-11-14",
+   "genres": [
+    "レディース"
+   ],
+   "shop": "オシャレウォーカー",
+   "time": "10:00",
+   "tags": [],
+   "link": "entry553.html"
   },
   {
    "date": "2026-11-14",
@@ -2702,6 +2744,16 @@ window.CAL_DATA = {
    "time": "12:00",
    "tags": [],
    "link": "entry798.html"
+  },
+  {
+   "date": "2026-11-18",
+   "genres": [
+    "スポーツ"
+   ],
+   "shop": "バレエのチャコット公式",
+   "time": "",
+   "tags": [],
+   "link": "entry261.html"
   },
   {
    "date": "2026-11-19",
