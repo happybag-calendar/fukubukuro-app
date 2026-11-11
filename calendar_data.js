@@ -1,6 +1,6 @@
 window.CAL_DATA = {
- "updated": "2026-11-12 08:05",
- "checked": "2026-11-12 08:05",
+ "updated": "2026-11-12 08:32",
+ "checked": "2026-11-12 08:32",
  "entries": [
   {
    "date": "2026-11-01",
@@ -2589,16 +2589,6 @@ window.CAL_DATA = {
    "link": "entry553.html"
   },
   {
-   "date": "2026-11-14",
-   "genres": [
-    "開催中"
-   ],
-   "shop": "福袋お節と百貨店お節",
-   "time": "",
-   "tags": [],
-   "link": "category3/entry551.html"
-  },
-  {
    "date": "2026-11-15",
    "genres": [
     "コスメ"
@@ -2818,6 +2808,38 @@ window.CAL_DATA = {
     "人気"
    ],
    "link": "entry1004.html"
+  },
+  {
+   "date": "2026-11-19",
+   "genres": [
+    "食品"
+   ],
+   "shop": "阪急阪神百貨店Cake Link",
+   "time": "20:00",
+   "tags": [],
+   "link": "entry309.html"
+  },
+  {
+   "date": "2026-11-19",
+   "genres": [
+    "食品"
+   ],
+   "shop": "おいもや公式",
+   "time": "20:00",
+   "tags": [],
+   "link": "entry794.html"
+  },
+  {
+   "date": "2026-11-19",
+   "genres": [
+    "食品"
+   ],
+   "shop": "京都祇をんににぎ",
+   "time": "20:00",
+   "tags": [
+    "人気"
+   ],
+   "link": "entry966.html"
   },
   {
    "date": "2026-11-19",
