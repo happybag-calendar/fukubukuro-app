@@ -1,6 +1,6 @@
 window.CAL_DATA = {
- "updated": "2026-11-12 18:05",
- "checked": "2026-11-12 18:05",
+ "updated": "2026-11-12 18:24",
+ "checked": "2026-11-12 18:24",
  "entries": [
   {
    "date": "2026-11-01",
@@ -2396,6 +2396,16 @@ window.CAL_DATA = {
     "速報"
    ],
    "link": "entry144.html"
+  },
+  {
+   "date": "2026-11-12",
+   "genres": [
+    "下着"
+   ],
+   "shop": "ワコール公式通販",
+   "time": "",
+   "tags": [],
+   "link": "entry88.html"
   },
   {
    "date": "2026-11-12",
