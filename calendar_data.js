@@ -1,6 +1,6 @@
 window.CAL_DATA = {
- "updated": "2026-11-12 08:52",
- "checked": "2026-11-12 08:52",
+ "updated": "2026-11-12 10:16",
+ "checked": "2026-11-12 10:16",
  "entries": [
   {
    "date": "2026-11-01",
@@ -2343,7 +2343,7 @@ window.CAL_DATA = {
    "genres": [
     "お知らせ"
    ],
-   "shop": "日本TV「dayday.」出演予定",
+   "shop": "日本TV「dayday.」出演",
    "time": "",
    "tags": [],
    "link": "#4"
@@ -2850,6 +2850,16 @@ window.CAL_DATA = {
     "人気"
    ],
    "link": "entry966.html"
+  },
+  {
+   "date": "2026-11-19",
+   "genres": [
+    "日用品"
+   ],
+   "shop": "隠れ工房GreenOcean",
+   "time": "11:11",
+   "tags": [],
+   "link": "entry1045.html"
   },
   {
    "date": "2026-11-19",
