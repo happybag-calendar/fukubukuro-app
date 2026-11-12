@@ -1,6 +1,6 @@
 window.CAL_DATA = {
- "updated": "2026-11-12 14:04",
- "checked": "2026-11-12 14:13",
+ "updated": "2026-11-12 15:08",
+ "checked": "2026-11-12 15:08",
  "entries": [
   {
    "date": "2026-11-01",
@@ -2570,6 +2570,16 @@ window.CAL_DATA = {
   {
    "date": "2026-11-13",
    "genres": [
+    "食品"
+   ],
+   "shop": "京都発koe donuts",
+   "time": "",
+   "tags": [],
+   "link": "#4"
+  },
+  {
+   "date": "2026-11-13",
+   "genres": [
     "キッチン"
    ],
    "shop": "ACTUS公式通販",
@@ -2941,6 +2951,16 @@ window.CAL_DATA = {
    "time": "10:00",
    "tags": [],
    "link": "entry936.html"
+  },
+  {
+   "date": "2026-11-19",
+   "genres": [
+    "店舗"
+   ],
+   "shop": "ドトールコーヒー",
+   "time": "",
+   "tags": [],
+   "link": "entry498.html"
   },
   {
    "date": "2026-11-20",
