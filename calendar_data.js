@@ -1,6 +1,6 @@
 window.CAL_DATA = {
- "updated": "2026-11-12 10:16",
- "checked": "2026-11-12 10:16",
+ "updated": "2026-11-12 11:19",
+ "checked": "2026-11-12 11:19",
  "entries": [
   {
    "date": "2026-11-01",
@@ -2351,6 +2351,18 @@ window.CAL_DATA = {
   {
    "date": "2026-11-12",
    "genres": [
+    "子供服"
+   ],
+   "shop": "ミキハウス公式",
+   "time": "",
+   "tags": [
+    "速報"
+   ],
+   "link": "entry329.html"
+  },
+  {
+   "date": "2026-11-12",
+   "genres": [
     "ファッション"
    ],
    "shop": "ITOKIN公式通販",
@@ -2453,6 +2465,18 @@ window.CAL_DATA = {
     "予告"
    ],
    "link": "entry261.html"
+  },
+  {
+   "date": "2026-11-12",
+   "genres": [
+    "予告"
+   ],
+   "shop": "ミスタードーナッツ",
+   "time": "",
+   "tags": [
+    "予告"
+   ],
+   "link": "entry87.html"
   },
   {
    "date": "2026-11-13",
@@ -3183,6 +3207,16 @@ window.CAL_DATA = {
    "time": "",
    "tags": [],
    "link": "entry13.html"
+  },
+  {
+   "date": "2026-12-11",
+   "genres": [
+    "元金担保型"
+   ],
+   "shop": "ミスタードーナッツ公式",
+   "time": "",
+   "tags": [],
+   "link": "entry87.html"
   },
   {
    "date": "2026-12-15",
