@@ -1,6 +1,6 @@
 window.CAL_DATA = {
- "updated": "2026-11-12 22:15",
- "checked": "2026-11-13 05:55",
+ "updated": "2026-11-13 06:35",
+ "checked": "2026-11-13 06:35",
  "entries": [
   {
    "date": "2026-11-01",
@@ -2587,7 +2587,7 @@ window.CAL_DATA = {
     "元金担保型"
    ],
    "shop": "ケンタッキーフライドチキン",
-   "time": "",
+   "time": "9:00",
    "tags": [
     "抽選"
    ],
@@ -2599,7 +2599,7 @@ window.CAL_DATA = {
     "飲料"
    ],
    "shop": "ゴンチャ福袋",
-   "time": "",
+   "time": "12:00",
    "tags": [],
    "link": "entry498.html"
   },
@@ -2629,7 +2629,7 @@ window.CAL_DATA = {
     "食品"
    ],
    "shop": "京都発koe donuts",
-   "time": "",
+   "time": "10:00",
    "tags": [],
    "link": "#4"
   },
@@ -2639,7 +2639,7 @@ window.CAL_DATA = {
     "キッチン"
    ],
    "shop": "ACTUS公式通販",
-   "time": "",
+   "time": "10:00",
    "tags": [],
    "link": "entry210.html"
   },
