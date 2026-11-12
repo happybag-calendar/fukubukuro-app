@@ -1,6 +1,6 @@
 window.CAL_DATA = {
- "updated": "2026-11-12 15:08",
- "checked": "2026-11-12 16:23",
+ "updated": "2026-11-12 18:05",
+ "checked": "2026-11-12 18:05",
  "entries": [
   {
    "date": "2026-11-01",
@@ -2351,6 +2351,18 @@ window.CAL_DATA = {
   {
    "date": "2026-11-12",
    "genres": [
+    "酒類"
+   ],
+   "shop": "KURAND公式通販",
+   "time": "",
+   "tags": [
+    "速報"
+   ],
+   "link": "entry696.html"
+  },
+  {
+   "date": "2026-11-12",
+   "genres": [
     "食品"
    ],
    "shop": "吉野家公式通販",
@@ -3093,6 +3105,17 @@ window.CAL_DATA = {
    "time": "",
    "tags": [],
    "link": "entry13.html"
+  },
+  {
+   "date": "2026-11-25",
+   "genres": [
+    "元金担保型",
+    "店舗"
+   ],
+   "shop": "ペッパーランチ",
+   "time": "",
+   "tags": [],
+   "link": "#4"
   },
   {
    "date": "2026-11-26",
