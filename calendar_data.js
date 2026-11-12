@@ -1,6 +1,6 @@
 window.CAL_DATA = {
- "updated": "2026-11-13 06:52",
- "checked": "2026-11-13 06:52",
+ "updated": "2026-11-13 07:52",
+ "checked": "2026-11-13 07:52",
  "entries": [
   {
    "date": "2026-11-01",
@@ -2736,6 +2736,18 @@ window.CAL_DATA = {
    "link": "entry191.html"
   },
   {
+   "date": "2026-11-13",
+   "genres": [
+    "予告"
+   ],
+   "shop": "トイザらス・ベビーザらス",
+   "time": "",
+   "tags": [
+    "予告"
+   ],
+   "link": "entry173.html"
+  },
+  {
    "date": "2026-11-14",
    "genres": [
     "レディース"
@@ -2854,7 +2866,7 @@ window.CAL_DATA = {
     "子供服"
    ],
    "shop": "MARKY’S公式",
-   "time": "",
+   "time": "12:00",
    "tags": [
     "人気"
    ],
@@ -2955,6 +2967,16 @@ window.CAL_DATA = {
    "time": "10:00",
    "tags": [],
    "link": "entry62.html"
+  },
+  {
+   "date": "2026-11-19",
+   "genres": [
+    "玩具"
+   ],
+   "shop": "トイザらス・ベビーザらス",
+   "time": "12:00",
+   "tags": [],
+   "link": "entry173.html"
   },
   {
    "date": "2026-11-19",
@@ -3155,10 +3177,10 @@ window.CAL_DATA = {
    "genres": [
     "本日のBLACK FRIDAY"
    ],
-   "shop": "ディズニーストア",
+   "shop": "AEONスタイル",
    "time": "",
    "tags": [],
-   "link": "entry556.html"
+   "link": "entry37.html"
   },
   {
    "date": "2026-11-23",
