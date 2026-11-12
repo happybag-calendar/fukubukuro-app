@@ -1,6 +1,6 @@
 window.CAL_DATA = {
- "updated": "2026-11-12 11:19",
- "checked": "2026-11-12 12:58",
+ "updated": "2026-11-12 14:04",
+ "checked": "2026-11-12 14:04",
  "entries": [
   {
    "date": "2026-11-01",
@@ -2351,6 +2351,19 @@ window.CAL_DATA = {
   {
    "date": "2026-11-12",
    "genres": [
+    "食品"
+   ],
+   "shop": "吉野家公式通販",
+   "time": "",
+   "tags": [
+    "速報",
+    "人気"
+   ],
+   "link": "entry737.html"
+  },
+  {
+   "date": "2026-11-12",
+   "genres": [
     "子供服"
    ],
    "shop": "ミキハウス公式",
@@ -2477,6 +2490,30 @@ window.CAL_DATA = {
     "予告"
    ],
    "link": "entry87.html"
+  },
+  {
+   "date": "2026-11-12",
+   "genres": [
+    "予告"
+   ],
+   "shop": "イタリアンPISOLA",
+   "time": "",
+   "tags": [
+    "予告"
+   ],
+   "link": "entry1046.html"
+  },
+  {
+   "date": "2026-11-12",
+   "genres": [
+    "予告"
+   ],
+   "shop": "サンマルクカフェ",
+   "time": "",
+   "tags": [
+    "予告"
+   ],
+   "link": "entry809.html"
   },
   {
    "date": "2026-11-13",
@@ -2671,6 +2708,16 @@ window.CAL_DATA = {
    "time": "",
    "tags": [],
    "link": "entry575.html"
+  },
+  {
+   "date": "2026-11-15",
+   "genres": [
+    "元金担保型"
+   ],
+   "shop": "イタリアンPISOLA",
+   "time": "",
+   "tags": [],
+   "link": "entry1046.html"
   },
   {
    "date": "2026-11-16",
