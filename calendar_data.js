@@ -1,6 +1,6 @@
 window.CAL_DATA = {
- "updated": "2026-11-12 20:09",
- "checked": "2026-11-12 20:09",
+ "updated": "2026-11-12 20:21",
+ "checked": "2026-11-12 20:21",
  "entries": [
   {
    "date": "2026-11-01",
@@ -2704,6 +2704,16 @@ window.CAL_DATA = {
    "time": "20:00",
    "tags": [],
    "link": "entry715.html"
+  },
+  {
+   "date": "2026-11-13",
+   "genres": [
+    "BRACK FRIDAY"
+   ],
+   "shop": "ハンズ（旧東急ハンズ）",
+   "time": "",
+   "tags": [],
+   "link": "entry191.html"
   },
   {
    "date": "2026-11-14",
