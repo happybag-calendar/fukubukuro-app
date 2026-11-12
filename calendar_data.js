@@ -1,6 +1,6 @@
 window.CAL_DATA = {
- "updated": "2026-11-12 18:57",
- "checked": "2026-11-12 19:07",
+ "updated": "2026-11-12 20:09",
+ "checked": "2026-11-12 20:09",
  "entries": [
   {
    "date": "2026-11-01",
@@ -2494,6 +2494,18 @@ window.CAL_DATA = {
    "genres": [
     "予告"
    ],
+   "shop": "鎌倉紅谷公式",
+   "time": "",
+   "tags": [
+    "予告"
+   ],
+   "link": "entry1047.html"
+  },
+  {
+   "date": "2026-11-12",
+   "genres": [
+    "予告"
+   ],
    "shop": "バレエのチャコット公式",
    "time": "",
    "tags": [
@@ -2548,6 +2560,16 @@ window.CAL_DATA = {
     "予告"
    ],
    "link": "entry861.html"
+  },
+  {
+   "date": "2026-11-12",
+   "genres": [
+    "BLACK FRIDAY"
+   ],
+   "shop": "アウトドアのミレー公式",
+   "time": "",
+   "tags": [],
+   "link": "entry819.html"
   },
   {
    "date": "2026-11-13",
@@ -3311,6 +3333,18 @@ window.CAL_DATA = {
    "time": "10:00",
    "tags": [],
    "link": "entry17.html"
+  },
+  {
+   "date": "2026-12-07",
+   "genres": [
+    "その他"
+   ],
+   "shop": "鎌倉紅谷公式",
+   "time": "15:00",
+   "tags": [
+    "抽選"
+   ],
+   "link": "entry1047.html"
   },
   {
    "date": "2026-12-07",
