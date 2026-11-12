@@ -1,6 +1,6 @@
 window.CAL_DATA = {
- "updated": "2026-11-12 18:24",
- "checked": "2026-11-12 18:24",
+ "updated": "2026-11-12 18:57",
+ "checked": "2026-11-12 18:57",
  "entries": [
   {
    "date": "2026-11-01",
@@ -2538,6 +2538,18 @@ window.CAL_DATA = {
    "link": "entry809.html"
   },
   {
+   "date": "2026-11-12",
+   "genres": [
+    "予告"
+   ],
+   "shop": "バッグのTRANSIC",
+   "time": "",
+   "tags": [
+    "予告"
+   ],
+   "link": "entry861.html"
+  },
+  {
    "date": "2026-11-13",
    "genres": [
     "ファッション"
@@ -2690,6 +2702,18 @@ window.CAL_DATA = {
    "time": "",
    "tags": [],
    "link": "entry1044.html"
+  },
+  {
+   "date": "2026-11-15",
+   "genres": [
+    "鞄"
+   ],
+   "shop": "バッグのTRANSIC",
+   "time": "0:00",
+   "tags": [
+    "人気"
+   ],
+   "link": "entry861.html"
   },
   {
    "date": "2026-11-15",
@@ -3083,6 +3107,16 @@ window.CAL_DATA = {
    "time": "",
    "tags": [],
    "link": "entry556.html"
+  },
+  {
+   "date": "2026-11-23",
+   "genres": [
+    "飲料"
+   ],
+   "shop": "コーヒー豆・粉・ドリップバッグ福袋一覧",
+   "time": "0:00",
+   "tags": [],
+   "link": "entry1039.html"
   },
   {
    "date": "2026-11-24",
