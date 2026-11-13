@@ -1,6 +1,6 @@
 window.CAL_DATA = {
- "updated": "2026-11-13 16:46",
- "checked": "2026-11-13 16:46",
+ "updated": "2026-11-13 17:21",
+ "checked": "2026-11-13 17:21",
  "entries": [
   {
    "date": "2026-11-01",
@@ -2830,6 +2830,18 @@ window.CAL_DATA = {
   {
    "date": "2026-11-13",
    "genres": [
+    "予告"
+   ],
+   "shop": "AZUL BY MOUSSY",
+   "time": "",
+   "tags": [
+    "予告"
+   ],
+   "link": "entry213.html"
+  },
+  {
+   "date": "2026-11-13",
+   "genres": [
     "店舗"
    ],
    "shop": "マクドナルド",
@@ -3231,6 +3243,26 @@ window.CAL_DATA = {
    "time": "12:00",
    "tags": [],
    "link": "entry456.html"
+  },
+  {
+   "date": "2026-11-20",
+   "genres": [
+    "ファッション"
+   ],
+   "shop": "AZUL BY MOUSSY",
+   "time": "12:00",
+   "tags": [],
+   "link": "entry213.html"
+  },
+  {
+   "date": "2026-11-20",
+   "genres": [
+    "ファッション"
+   ],
+   "shop": "シェルターウエブストア",
+   "time": "12:00",
+   "tags": [],
+   "link": "entry528.html"
   },
   {
    "date": "2026-11-20",
