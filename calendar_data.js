@@ -1,6 +1,6 @@
 window.CAL_DATA = {
- "updated": "2026-11-13 11:10",
- "checked": "2026-11-13 11:10",
+ "updated": "2026-11-13 11:53",
+ "checked": "2026-11-13 11:53",
  "entries": [
   {
    "date": "2026-11-01",
@@ -2794,6 +2794,18 @@ window.CAL_DATA = {
   {
    "date": "2026-11-13",
    "genres": [
+    "予告"
+   ],
+   "shop": "一蘭ラーメン",
+   "time": "",
+   "tags": [
+    "予告"
+   ],
+   "link": "entry608.html"
+  },
+  {
+   "date": "2026-11-13",
+   "genres": [
     "店舗"
    ],
    "shop": "マクドナルド",
@@ -2902,6 +2914,16 @@ window.CAL_DATA = {
    "time": "",
    "tags": [],
    "link": "entry1046.html"
+  },
+  {
+   "date": "2026-11-15",
+   "genres": [
+    "カフェ"
+   ],
+   "shop": "PRONT公式",
+   "time": "10:00",
+   "tags": [],
+   "link": "entry498.html"
   },
   {
    "date": "2026-11-16",
@@ -3291,6 +3313,18 @@ window.CAL_DATA = {
   {
    "date": "2026-11-25",
    "genres": [
+    "予告"
+   ],
+   "shop": "一蘭ラーメン",
+   "time": "11:00",
+   "tags": [
+    "予告"
+   ],
+   "link": "entry608.html"
+  },
+  {
+   "date": "2026-11-25",
+   "genres": [
     "総合"
    ],
    "shop": "高島屋百貨店",
@@ -3419,6 +3453,18 @@ window.CAL_DATA = {
    "time": "",
    "tags": [],
    "link": "#4"
+  },
+  {
+   "date": "2026-12-02",
+   "genres": [
+    "予告"
+   ],
+   "shop": "一蘭ラーメン",
+   "time": "11:00",
+   "tags": [
+    "予告"
+   ],
+   "link": "entry608.html"
   },
   {
    "date": "2026-12-02",
