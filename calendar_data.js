@@ -1,6 +1,6 @@
 window.CAL_DATA = {
- "updated": "2026-11-13 11:53",
- "checked": "2026-11-13 11:54",
+ "updated": "2026-11-13 12:57",
+ "checked": "2026-11-13 12:57",
  "entries": [
   {
    "date": "2026-11-01",
@@ -2772,7 +2772,7 @@ window.CAL_DATA = {
   {
    "date": "2026-11-13",
    "genres": [
-    "BRACK FRIDAY"
+    "BLACK FRIDAY"
    ],
    "shop": "ハンズ（旧東急ハンズ）",
    "time": "",
@@ -2802,6 +2802,18 @@ window.CAL_DATA = {
     "予告"
    ],
    "link": "entry608.html"
+  },
+  {
+   "date": "2026-11-13",
+   "genres": [
+    "予告"
+   ],
+   "shop": "ファイテン",
+   "time": "",
+   "tags": [
+    "予告"
+   ],
+   "link": "entry71.html"
   },
   {
    "date": "2026-11-13",
