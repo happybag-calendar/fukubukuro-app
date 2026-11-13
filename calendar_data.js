@@ -1,6 +1,6 @@
 window.CAL_DATA = {
- "updated": "2026-11-13 10:13",
- "checked": "2026-11-13 10:15",
+ "updated": "2026-11-13 11:10",
+ "checked": "2026-11-13 11:10",
  "entries": [
   {
    "date": "2026-11-01",
@@ -2742,6 +2742,16 @@ window.CAL_DATA = {
   {
    "date": "2026-11-13",
    "genres": [
+    "レディース"
+   ],
+   "shop": "マガシーク",
+   "time": "",
+   "tags": [],
+   "link": "entry49.html"
+  },
+  {
+   "date": "2026-11-13",
+   "genres": [
     "酒類"
    ],
    "shop": "酒くじ一覧",
@@ -3328,6 +3338,16 @@ window.CAL_DATA = {
    "time": "17:00",
    "tags": [],
    "link": "entry715.html"
+  },
+  {
+   "date": "2026-12-01",
+   "genres": [
+    "総合"
+   ],
+   "shop": "京王百貨店公式",
+   "time": "",
+   "tags": [],
+   "link": "entry39.html"
   },
   {
    "date": "2026-12-01",
