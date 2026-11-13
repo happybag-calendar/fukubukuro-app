@@ -1,6 +1,6 @@
 window.CAL_DATA = {
- "updated": "2026-11-13 17:21",
- "checked": "2026-11-13 17:21",
+ "updated": "2026-11-13 18:02",
+ "checked": "2026-11-13 18:02",
  "entries": [
   {
    "date": "2026-11-01",
@@ -2848,6 +2848,16 @@ window.CAL_DATA = {
    "time": "",
    "tags": [],
    "link": "entry674.html"
+  },
+  {
+   "date": "2026-11-14",
+   "genres": [
+    "コスメ"
+   ],
+   "shop": "ハウスオブローゼ公式",
+   "time": "",
+   "tags": [],
+   "link": "entry531.html"
   },
   {
    "date": "2026-11-14",
