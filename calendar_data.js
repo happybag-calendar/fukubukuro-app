@@ -1,6 +1,6 @@
 window.CAL_DATA = {
- "updated": "2026-11-13 08:13",
- "checked": "2026-11-13 08:49",
+ "updated": "2026-11-13 10:13",
+ "checked": "2026-11-13 10:13",
  "entries": [
   {
    "date": "2026-11-01",
@@ -2574,6 +2574,28 @@ window.CAL_DATA = {
   {
    "date": "2026-11-13",
    "genres": [
+    "総合"
+   ],
+   "shop": "京王百貨店公式",
+   "time": "",
+   "tags": [
+    "速報"
+   ],
+   "link": "entry39.html"
+  },
+  {
+   "date": "2026-11-13",
+   "genres": [
+    "旅"
+   ],
+   "shop": "HIS公式オンライン",
+   "time": "11:00",
+   "tags": [],
+   "link": "entry208.html"
+  },
+  {
+   "date": "2026-11-13",
+   "genres": [
     "ファッション"
    ],
    "shop": "楽天 Lucky Bag Store",
@@ -2708,6 +2730,18 @@ window.CAL_DATA = {
   {
    "date": "2026-11-13",
    "genres": [
+    "レディース"
+   ],
+   "shop": "ITOKIN公式通販",
+   "time": "",
+   "tags": [
+    "速報"
+   ],
+   "link": "entry144.html"
+  },
+  {
+   "date": "2026-11-13",
+   "genres": [
     "酒類"
    ],
    "shop": "酒くじ一覧",
@@ -2746,6 +2780,16 @@ window.CAL_DATA = {
     "予告"
    ],
    "link": "entry173.html"
+  },
+  {
+   "date": "2026-11-13",
+   "genres": [
+    "店舗"
+   ],
+   "shop": "マクドナルド",
+   "time": "",
+   "tags": [],
+   "link": "entry674.html"
   },
   {
    "date": "2026-11-14",
@@ -2848,6 +2892,16 @@ window.CAL_DATA = {
    "time": "",
    "tags": [],
    "link": "entry1046.html"
+  },
+  {
+   "date": "2026-11-16",
+   "genres": [
+    "ファッション"
+   ],
+   "shop": "楽天 Lucky Bag Store",
+   "time": "10:00",
+   "tags": [],
+   "link": "entry62.html"
   },
   {
    "date": "2026-11-16",
