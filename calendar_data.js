@@ -1,6 +1,6 @@
 window.CAL_DATA = {
- "updated": "2026-11-14 05:56",
- "checked": "2026-11-14 05:56",
+ "updated": "2026-11-14 06:51",
+ "checked": "2026-11-14 06:51",
  "entries": [
   {
    "date": "2026-11-01",
@@ -2961,6 +2961,18 @@ window.CAL_DATA = {
    "link": "entry747.html"
   },
   {
+   "date": "2026-11-14",
+   "genres": [
+    "ピエロ"
+   ],
+   "shop": "Pierrot【ピエロ】",
+   "time": "",
+   "tags": [
+    "予告"
+   ],
+   "link": "entry133.html"
+  },
+  {
    "date": "2026-11-15",
    "genres": [
     "ファッション"
@@ -3140,6 +3152,18 @@ window.CAL_DATA = {
   {
    "date": "2026-11-17",
    "genres": [
+    "食品"
+   ],
+   "shop": "ステラおばさんのクッキー",
+   "time": "12:00",
+   "tags": [
+    "人気"
+   ],
+   "link": "entry501.html"
+  },
+  {
+   "date": "2026-11-17",
+   "genres": [
     "飲料"
    ],
    "shop": "ロンドンティールーム",
@@ -3280,6 +3304,19 @@ window.CAL_DATA = {
    "time": "0:00",
    "tags": [],
    "link": "entry75.html"
+  },
+  {
+   "date": "2026-11-19",
+   "genres": [
+    "レディース",
+    "ピエロ"
+   ],
+   "shop": "Pierrot【ピエロ】",
+   "time": "17:00",
+   "tags": [
+    "人気"
+   ],
+   "link": "entry133.html"
   },
   {
    "date": "2026-11-19",
