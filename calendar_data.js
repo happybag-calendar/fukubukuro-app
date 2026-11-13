@@ -1,6 +1,6 @@
 window.CAL_DATA = {
- "updated": "2026-11-13 12:57",
- "checked": "2026-11-13 15:04",
+ "updated": "2026-11-13 16:20",
+ "checked": "2026-11-13 16:20",
  "entries": [
   {
    "date": "2026-11-01",
@@ -2818,6 +2818,18 @@ window.CAL_DATA = {
   {
    "date": "2026-11-13",
    "genres": [
+    "予告"
+   ],
+   "shop": "ディズニーストア公式",
+   "time": "",
+   "tags": [
+    "予告"
+   ],
+   "link": "entry556.html"
+  },
+  {
+   "date": "2026-11-13",
+   "genres": [
     "店舗"
    ],
    "shop": "マクドナルド",
@@ -2967,6 +2979,16 @@ window.CAL_DATA = {
    "time": "",
    "tags": [],
    "link": "entry424.html"
+  },
+  {
+   "date": "2026-11-17",
+   "genres": [
+    "雑貨"
+   ],
+   "shop": "ディズニーストア公式",
+   "time": "10:00",
+   "tags": [],
+   "link": "entry556.html"
   },
   {
    "date": "2026-11-17",
@@ -3529,6 +3551,16 @@ window.CAL_DATA = {
    "link": "entry17.html"
   },
   {
+   "date": "2026-12-04",
+   "genres": [
+    "雑貨"
+   ],
+   "shop": "ディズニーストア公式",
+   "time": "10:00",
+   "tags": [],
+   "link": "entry556.html"
+  },
+  {
    "date": "2026-12-07",
    "genres": [
     "その他"
@@ -3600,6 +3632,16 @@ window.CAL_DATA = {
    "time": "",
    "tags": [],
    "link": "#4"
+  },
+  {
+   "date": "2027-01-01",
+   "genres": [
+    "雑貨"
+   ],
+   "shop": "ディズニーストア公式",
+   "time": "10:00",
+   "tags": [],
+   "link": "entry556.html"
   },
   {
    "date": "2027-01-02",
