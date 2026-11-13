@@ -1,6 +1,6 @@
 window.CAL_DATA = {
- "updated": "2026-11-13 16:20",
- "checked": "2026-11-13 16:20",
+ "updated": "2026-11-13 16:46",
+ "checked": "2026-11-13 16:46",
  "entries": [
   {
    "date": "2026-11-01",
@@ -3291,6 +3291,16 @@ window.CAL_DATA = {
    "time": "",
    "tags": [],
    "link": "entry1039.html"
+  },
+  {
+   "date": "2026-11-20",
+   "genres": [
+    "元金担保型"
+   ],
+   "shop": "ウェンディーズ公式",
+   "time": "",
+   "tags": [],
+   "link": "#4"
   },
   {
    "date": "2026-11-20",
