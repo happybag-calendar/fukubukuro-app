@@ -1,6 +1,6 @@
 window.CAL_DATA = {
- "updated": "2026-11-13 19:03",
- "checked": "2026-11-13 19:03",
+ "updated": "2026-11-13 19:35",
+ "checked": "2026-11-13 19:35",
  "entries": [
   {
    "date": "2026-11-01",
@@ -2854,6 +2854,18 @@ window.CAL_DATA = {
   {
    "date": "2026-11-13",
    "genres": [
+    "予告"
+   ],
+   "shop": "ナノ・ユニバース公式",
+   "time": "",
+   "tags": [
+    "予告"
+   ],
+   "link": "entry75.html"
+  },
+  {
+   "date": "2026-11-13",
+   "genres": [
     "店舗"
    ],
    "shop": "マクドナルド",
@@ -3191,6 +3203,16 @@ window.CAL_DATA = {
    "time": "",
    "tags": [],
    "link": "entry409.html"
+  },
+  {
+   "date": "2026-11-19",
+   "genres": [
+    "ファッション"
+   ],
+   "shop": "ナノ・ユニバース公式",
+   "time": "0:00",
+   "tags": [],
+   "link": "entry75.html"
   },
   {
    "date": "2026-11-19",
