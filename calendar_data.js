@@ -1,6 +1,6 @@
 window.CAL_DATA = {
- "updated": "2026-11-14 06:51",
- "checked": "2026-11-14 06:51",
+ "updated": "2026-11-14 07:49",
+ "checked": "2026-11-14 07:49",
  "entries": [
   {
    "date": "2026-11-01",
@@ -2951,6 +2951,16 @@ window.CAL_DATA = {
   {
    "date": "2026-11-14",
    "genres": [
+    "BLACK FRIDAY"
+   ],
+   "shop": "CBDオイルのＮａｔｕｒｅｃａｎ",
+   "time": "",
+   "tags": [],
+   "link": "entry587.html"
+  },
+  {
+   "date": "2026-11-14",
+   "genres": [
     "予告"
    ],
    "shop": "サンデーマウンテン（THE NORTH FACE）",
@@ -2971,6 +2981,30 @@ window.CAL_DATA = {
     "予告"
    ],
    "link": "entry133.html"
+  },
+  {
+   "date": "2026-11-14",
+   "genres": [
+    "予告"
+   ],
+   "shop": "ウテナ化粧品公式通販",
+   "time": "",
+   "tags": [
+    "予告"
+   ],
+   "link": "entry980.html"
+  },
+  {
+   "date": "2026-11-14",
+   "genres": [
+    "予告"
+   ],
+   "shop": "SKIN FOOD",
+   "time": "",
+   "tags": [
+    "予告"
+   ],
+   "link": "entry421.html"
   },
   {
    "date": "2026-11-15",
@@ -3387,6 +3421,16 @@ window.CAL_DATA = {
    "genres": [
     "コスメ"
    ],
+   "shop": "SKIN FOOD",
+   "time": "20:00",
+   "tags": [],
+   "link": "entry421.html"
+  },
+  {
+   "date": "2026-11-19",
+   "genres": [
+    "コスメ"
+   ],
    "shop": "自然化粧品研究所",
    "time": "10:00",
    "tags": [],
@@ -3630,6 +3674,16 @@ window.CAL_DATA = {
   {
    "date": "2026-11-26",
    "genres": [
+    "コスメ"
+   ],
+   "shop": "ウテナ公式通販",
+   "time": "0:00",
+   "tags": [],
+   "link": "entry980.html"
+  },
+  {
+   "date": "2026-11-26",
+   "genres": [
     "酒類"
    ],
    "shop": "酒くじ一覧",
@@ -3696,6 +3750,16 @@ window.CAL_DATA = {
    "time": "",
    "tags": [],
    "link": "entry128.html"
+  },
+  {
+   "date": "2026-12-01",
+   "genres": [
+    "飲料"
+   ],
+   "shop": "UCC公式楽天市場店",
+   "time": "10:00",
+   "tags": [],
+   "link": "entry498.html"
   },
   {
    "date": "2026-12-01",
