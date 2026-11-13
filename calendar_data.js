@@ -1,6 +1,6 @@
 window.CAL_DATA = {
- "updated": "2026-11-13 20:59",
- "checked": "2026-11-14 04:58",
+ "updated": "2026-11-14 05:56",
+ "checked": "2026-11-14 05:56",
  "entries": [
   {
    "date": "2026-11-01",
@@ -2889,6 +2889,18 @@ window.CAL_DATA = {
   {
    "date": "2026-11-13",
    "genres": [
+    "予告"
+   ],
+   "shop": "ジュリーク（コスメ）",
+   "time": "",
+   "tags": [
+    "予告"
+   ],
+   "link": "entry579.html"
+  },
+  {
+   "date": "2026-11-13",
+   "genres": [
     "店舗"
    ],
    "shop": "マクドナルド",
@@ -2921,10 +2933,32 @@ window.CAL_DATA = {
    "genres": [
     "レディース"
    ],
+   "shop": "ダークエンジェル",
+   "time": "10:00",
+   "tags": [],
+   "link": "entry68.html"
+  },
+  {
+   "date": "2026-11-14",
+   "genres": [
+    "レディース"
+   ],
    "shop": "オシャレウォーカー",
    "time": "10:00",
    "tags": [],
    "link": "entry553.html"
+  },
+  {
+   "date": "2026-11-14",
+   "genres": [
+    "予告"
+   ],
+   "shop": "サンデーマウンテン（THE NORTH FACE）",
+   "time": "",
+   "tags": [
+    "予告"
+   ],
+   "link": "entry747.html"
   },
   {
    "date": "2026-11-15",
@@ -3190,6 +3224,16 @@ window.CAL_DATA = {
   {
    "date": "2026-11-19",
    "genres": [
+    "スポーツ"
+   ],
+   "shop": "サンデーマウンテン",
+   "time": "20:00",
+   "tags": [],
+   "link": "entry747.html"
+  },
+  {
+   "date": "2026-11-19",
+   "genres": [
     "玩具"
    ],
    "shop": "トイザらス・ベビーザらス",
@@ -3290,6 +3334,16 @@ window.CAL_DATA = {
    "time": "11:11",
    "tags": [],
    "link": "entry1045.html"
+  },
+  {
+   "date": "2026-11-19",
+   "genres": [
+    "コスメ"
+   ],
+   "shop": "ジュリーク楽天市場店",
+   "time": "20:00",
+   "tags": [],
+   "link": "entry579.html"
   },
   {
    "date": "2026-11-19",
