@@ -1,6 +1,6 @@
 window.CAL_DATA = {
- "updated": "2026-11-13 19:35",
- "checked": "2026-11-13 19:35",
+ "updated": "2026-11-13 20:04",
+ "checked": "2026-11-13 20:04",
  "entries": [
   {
    "date": "2026-11-01",
@@ -2095,6 +2095,16 @@ window.CAL_DATA = {
   {
    "date": "2026-11-11",
    "genres": [
+    "総合"
+   ],
+   "shop": "大丸松坂屋百貨店",
+   "time": "",
+   "tags": [],
+   "link": "entry134.html"
+  },
+  {
+   "date": "2026-11-11",
+   "genres": [
     "飲料"
    ],
    "shop": "タリーズコーヒー公式",
@@ -3307,6 +3317,16 @@ window.CAL_DATA = {
    "time": "12:00",
    "tags": [],
    "link": "entry456.html"
+  },
+  {
+   "date": "2026-11-20",
+   "genres": [
+    "総合"
+   ],
+   "shop": "大丸松坂屋百貨店",
+   "time": "",
+   "tags": [],
+   "link": "entry134.html"
   },
   {
    "date": "2026-11-20",
