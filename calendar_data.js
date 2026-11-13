@@ -1,6 +1,6 @@
 window.CAL_DATA = {
- "updated": "2026-11-13 18:02",
- "checked": "2026-11-13 18:02",
+ "updated": "2026-11-13 18:26",
+ "checked": "2026-11-13 18:26",
  "entries": [
   {
    "date": "2026-11-01",
@@ -2832,6 +2832,18 @@ window.CAL_DATA = {
    "genres": [
     "予告"
    ],
+   "shop": "楽天イーグルス",
+   "time": "",
+   "tags": [
+    "予告"
+   ],
+   "link": "entry242.html"
+  },
+  {
+   "date": "2026-11-13",
+   "genres": [
+    "予告"
+   ],
    "shop": "AZUL BY MOUSSY",
    "time": "",
    "tags": [
@@ -3001,6 +3013,16 @@ window.CAL_DATA = {
    "time": "",
    "tags": [],
    "link": "entry424.html"
+  },
+  {
+   "date": "2026-11-17",
+   "genres": [
+    "スポーツ"
+   ],
+   "shop": "楽天イーグルス",
+   "time": "10:00",
+   "tags": [],
+   "link": "entry242.html"
   },
   {
    "date": "2026-11-17",
