@@ -1,6 +1,6 @@
 window.CAL_DATA = {
- "updated": "2026-11-14 19:48",
- "checked": "2026-11-14 19:48",
+ "updated": "2026-11-14 20:39",
+ "checked": "2026-11-14 20:39",
  "entries": [
   {
    "date": "2026-11-01",
@@ -3053,16 +3053,6 @@ window.CAL_DATA = {
    "link": "entry853.html"
   },
   {
-   "date": "2026-11-14",
-   "genres": [
-    "開催中"
-   ],
-   "shop": "福袋お節と百貨店お節",
-   "time": "",
-   "tags": [],
-   "link": "category3/entry551.html"
-  },
-  {
    "date": "2026-11-15",
    "genres": [
     "ファッション"
@@ -3173,6 +3163,16 @@ window.CAL_DATA = {
    "time": "10:00",
    "tags": [],
    "link": "entry498.html"
+  },
+  {
+   "date": "2026-11-15",
+   "genres": [
+    "開催中"
+   ],
+   "shop": "福袋お節と百貨店お節",
+   "time": "",
+   "tags": [],
+   "link": "category3/entry551.html"
   },
   {
    "date": "2026-11-16",
