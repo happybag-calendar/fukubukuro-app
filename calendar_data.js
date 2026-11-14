@@ -1,6 +1,6 @@
 window.CAL_DATA = {
- "updated": "2026-11-14 20:39",
- "checked": "2026-11-14 20:44",
+ "updated": "2026-11-14 21:00",
+ "checked": "2026-11-14 21:00",
  "entries": [
   {
    "date": "2026-11-01",
@@ -3053,6 +3053,18 @@ window.CAL_DATA = {
    "link": "entry853.html"
   },
   {
+   "date": "2026-11-14",
+   "genres": [
+    "予告"
+   ],
+   "shop": "付録付き本の宝島",
+   "time": "",
+   "tags": [
+    "予告"
+   ],
+   "link": "entry562.html"
+  },
+  {
    "date": "2026-11-15",
    "genres": [
     "ファッション"
@@ -3591,6 +3603,18 @@ window.CAL_DATA = {
    "time": "11:00",
    "tags": [],
    "link": "entry695.html"
+  },
+  {
+   "date": "2026-11-20",
+   "genres": [
+    "雑貨"
+   ],
+   "shop": "付録付き本の宝島",
+   "time": "12:00",
+   "tags": [
+    "人気"
+   ],
+   "link": "entry562.html"
   },
   {
    "date": "2026-11-20",
