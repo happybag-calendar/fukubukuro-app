@@ -1,6 +1,6 @@
 window.CAL_DATA = {
- "updated": "2026-11-14 18:48",
- "checked": "2026-11-14 18:51",
+ "updated": "2026-11-14 19:48",
+ "checked": "2026-11-14 19:48",
  "entries": [
   {
    "date": "2026-11-01",
@@ -3147,6 +3147,16 @@ window.CAL_DATA = {
   {
    "date": "2026-11-15",
    "genres": [
+    "趣味"
+   ],
+   "shop": "手芸と毛糸福袋一覧",
+   "time": "10:00",
+   "tags": [],
+   "link": "entry1031.html"
+  },
+  {
+   "date": "2026-11-15",
+   "genres": [
     "元金担保型"
    ],
    "shop": "イタリアンPISOLA",
@@ -3621,6 +3631,16 @@ window.CAL_DATA = {
    "time": "",
    "tags": [],
    "link": "entry1039.html"
+  },
+  {
+   "date": "2026-11-20",
+   "genres": [
+    "趣味"
+   ],
+   "shop": "手芸の店ギンガム",
+   "time": "0:00",
+   "tags": [],
+   "link": "entry939.html"
   },
   {
    "date": "2026-11-20",
