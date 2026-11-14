@@ -1,6 +1,6 @@
 window.CAL_DATA = {
- "updated": "2026-11-14 10:04",
- "checked": "2026-11-14 17:07",
+ "updated": "2026-11-14 17:20",
+ "checked": "2026-11-14 17:20",
  "entries": [
   {
    "date": "2026-11-01",
@@ -3029,6 +3029,18 @@ window.CAL_DATA = {
    "link": "entry421.html"
   },
   {
+   "date": "2026-11-14",
+   "genres": [
+    "予告"
+   ],
+   "shop": "セブンイレブン公式",
+   "time": "",
+   "tags": [
+    "予告"
+   ],
+   "link": "entry853.html"
+  },
+  {
    "date": "2026-11-15",
    "genres": [
     "ファッション"
@@ -3290,6 +3302,16 @@ window.CAL_DATA = {
    "time": "",
    "tags": [],
    "link": "entry261.html"
+  },
+  {
+   "date": "2026-11-19",
+   "genres": [
+    "元金担保型"
+   ],
+   "shop": "セブンイレブン公式",
+   "time": "14:00",
+   "tags": [],
+   "link": "entry853.html"
   },
   {
    "date": "2026-11-19",
