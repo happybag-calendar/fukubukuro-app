@@ -1,6 +1,6 @@
 window.CAL_DATA = {
- "updated": "2026-11-14 21:00",
- "checked": "2026-11-14 21:01",
+ "updated": "2026-11-14 21:54",
+ "checked": "2026-11-14 21:54",
  "entries": [
   {
    "date": "2026-11-01",
@@ -2594,6 +2594,16 @@ window.CAL_DATA = {
   {
    "date": "2026-11-13",
    "genres": [
+    "コスメ"
+   ],
+   "shop": "大丸松坂屋DEPACO公式",
+   "time": "",
+   "tags": [],
+   "link": "entry762.html"
+  },
+  {
+   "date": "2026-11-13",
+   "genres": [
     "食品"
    ],
    "shop": "世界のオーダーチーズ公式",
@@ -3208,6 +3218,16 @@ window.CAL_DATA = {
    "link": "#4"
   },
   {
+   "date": "2026-11-16",
+   "genres": [
+    "BLACK FRIDAY"
+   ],
+   "shop": "YAHOOトラベル",
+   "time": "",
+   "tags": [],
+   "link": "entry208.html"
+  },
+  {
    "date": "2026-11-17",
    "genres": [
     "レディース"
@@ -3346,6 +3366,16 @@ window.CAL_DATA = {
    "time": "",
    "tags": [],
    "link": "entry261.html"
+  },
+  {
+   "date": "2026-11-18",
+   "genres": [
+    "BLACK FRIDAY"
+   ],
+   "shop": "大丸松坂屋百貨店",
+   "time": "",
+   "tags": [],
+   "link": "entry134.html"
   },
   {
    "date": "2026-11-19",
