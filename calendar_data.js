@@ -1,6 +1,6 @@
 window.CAL_DATA = {
- "updated": "2026-11-15 05:44",
- "checked": "2026-11-15 05:44",
+ "updated": "2026-11-15 06:42",
+ "checked": "2026-11-15 06:42",
  "entries": [
   {
    "date": "2026-11-01",
@@ -3160,7 +3160,7 @@ window.CAL_DATA = {
     "元金担保型"
    ],
    "shop": "イタリアンPISOLA",
-   "time": "",
+   "time": "0:00",
    "tags": [],
    "link": "entry1046.html"
   },
