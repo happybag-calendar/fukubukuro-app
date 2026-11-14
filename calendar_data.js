@@ -1,6 +1,6 @@
 window.CAL_DATA = {
- "updated": "2026-11-14 08:45",
- "checked": "2026-11-14 08:45",
+ "updated": "2026-11-14 10:04",
+ "checked": "2026-11-14 10:04",
  "entries": [
   {
    "date": "2026-11-01",
@@ -2361,6 +2361,16 @@ window.CAL_DATA = {
   {
    "date": "2026-11-12",
    "genres": [
+    "総合"
+   ],
+   "shop": "京阪百貨店公式",
+   "time": "",
+   "tags": [],
+   "link": "#4"
+  },
+  {
+   "date": "2026-11-12",
+   "genres": [
     "酒類"
    ],
    "shop": "KURAND公式通販",
@@ -2907,6 +2917,18 @@ window.CAL_DATA = {
    "time": "",
    "tags": [],
    "link": "entry674.html"
+  },
+  {
+   "date": "2026-11-14",
+   "genres": [
+    "ファッション"
+   ],
+   "shop": "サマンサタバサ公式通販",
+   "time": "",
+   "tags": [
+    "速報"
+   ],
+   "link": "entry318.html"
   },
   {
    "date": "2026-11-14",
