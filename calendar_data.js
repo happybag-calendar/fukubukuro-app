@@ -1,6 +1,6 @@
 window.CAL_DATA = {
- "updated": "2026-11-14 17:20",
- "checked": "2026-11-14 17:55",
+ "updated": "2026-11-14 18:48",
+ "checked": "2026-11-14 18:48",
  "entries": [
   {
    "date": "2026-11-01",
@@ -2921,6 +2921,18 @@ window.CAL_DATA = {
   {
    "date": "2026-11-14",
    "genres": [
+    "食品"
+   ],
+   "shop": "タイカレーでおなじみのヤマモリ公式",
+   "time": "18:00",
+   "tags": [
+    "速報"
+   ],
+   "link": "entry836.html"
+  },
+  {
+   "date": "2026-11-14",
+   "genres": [
     "ファッション"
    ],
    "shop": "サマンサタバサ公式通販",
@@ -3039,6 +3051,16 @@ window.CAL_DATA = {
     "予告"
    ],
    "link": "entry853.html"
+  },
+  {
+   "date": "2026-11-14",
+   "genres": [
+    "開催中"
+   ],
+   "shop": "福袋お節と百貨店お節",
+   "time": "",
+   "tags": [],
+   "link": "category3/entry551.html"
   },
   {
    "date": "2026-11-15",
