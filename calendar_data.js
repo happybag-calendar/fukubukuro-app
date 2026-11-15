@@ -1,6 +1,6 @@
 window.CAL_DATA = {
- "updated": "2026-11-15 10:09",
- "checked": "2026-11-15 10:09",
+ "updated": "2026-11-15 11:10",
+ "checked": "2026-11-15 11:10",
  "entries": [
   {
    "date": "2026-11-01",
@@ -3073,6 +3073,16 @@ window.CAL_DATA = {
   {
    "date": "2026-11-15",
    "genres": [
+    "総合"
+   ],
+   "shop": "大丸松坂屋百貨店",
+   "time": "",
+   "tags": [],
+   "link": "entry134.html"
+  },
+  {
+   "date": "2026-11-15",
+   "genres": [
     "ファッション"
    ],
    "shop": "楽天 Lucky Bag Store",
@@ -3165,6 +3175,16 @@ window.CAL_DATA = {
   {
    "date": "2026-11-15",
    "genres": [
+    "ファッション"
+   ],
+   "shop": "マルイ公式通販",
+   "time": "",
+   "tags": [],
+   "link": "entry83.html"
+  },
+  {
+   "date": "2026-11-15",
+   "genres": [
     "元金担保型"
    ],
    "shop": "イタリアンPISOLA",
@@ -3181,16 +3201,6 @@ window.CAL_DATA = {
    "time": "10:00",
    "tags": [],
    "link": "entry498.html"
-  },
-  {
-   "date": "2026-11-15",
-   "genres": [
-    "開催中"
-   ],
-   "shop": "大丸松坂屋グループ",
-   "time": "",
-   "tags": [],
-   "link": "#4"
   },
   {
    "date": "2026-11-15",
