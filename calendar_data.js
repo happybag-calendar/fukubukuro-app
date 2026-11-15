@@ -1,6 +1,6 @@
 window.CAL_DATA = {
- "updated": "2026-11-15 21:56",
- "checked": "2026-11-16 02:42",
+ "updated": "2026-11-16 03:50",
+ "checked": "2026-11-16 03:50",
  "entries": [
   {
    "date": "2026-11-01",
@@ -3073,18 +3073,6 @@ window.CAL_DATA = {
   {
    "date": "2026-11-15",
    "genres": [
-    "食品"
-   ],
-   "shop": "タイカレーでおなじみのヤマモリ公式",
-   "time": "18:00",
-   "tags": [
-    "速報"
-   ],
-   "link": "entry836.html"
-  },
-  {
-   "date": "2026-11-15",
-   "genres": [
     "下着"
    ],
    "shop": "tu-hacci公式通販",
@@ -3283,6 +3271,16 @@ window.CAL_DATA = {
    "time": "0:00",
    "tags": [],
    "link": "entry921.html"
+  },
+  {
+   "date": "2026-11-16",
+   "genres": [
+    "故郷"
+   ],
+   "shop": "ふるさと納税で福袋",
+   "time": "",
+   "tags": [],
+   "link": "entry521.html"
   },
   {
    "date": "2026-11-16",
@@ -3835,6 +3833,16 @@ window.CAL_DATA = {
    "time": "10:00",
    "tags": [],
    "link": "entry595.html"
+  },
+  {
+   "date": "2026-11-20",
+   "genres": [
+    "店舗"
+   ],
+   "shop": "マクドナルド",
+   "time": "",
+   "tags": [],
+   "link": "entry674.html"
   },
   {
    "date": "2026-11-20",
