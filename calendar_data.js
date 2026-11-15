@@ -1,6 +1,6 @@
 window.CAL_DATA = {
- "updated": "2026-11-15 11:10",
- "checked": "2026-11-15 11:10",
+ "updated": "2026-11-15 11:40",
+ "checked": "2026-11-15 11:40",
  "entries": [
   {
    "date": "2026-11-01",
@@ -3131,6 +3131,16 @@ window.CAL_DATA = {
    "time": "0:00",
    "tags": [],
    "link": "entry932.html"
+  },
+  {
+   "date": "2026-11-15",
+   "genres": [
+    "カフェ"
+   ],
+   "shop": "丸山珈琲公式",
+   "time": "",
+   "tags": [],
+   "link": "entry498.html"
   },
   {
    "date": "2026-11-15",
