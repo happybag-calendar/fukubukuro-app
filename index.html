@@ -2,6 +2,16 @@
 <html lang="ja">
 <head>
 <meta charset="utf-8">
+<!-- Googleアナリティクス(アプリを開いた人数を数える) -->
+<script async src="https://www.googletagmanager.com/gtag/js?id=G-BQT3PHS5SP"></script>
+<script>
+window.dataLayer=window.dataLayer||[];
+function gtag(){dataLayer.push(arguments);}
+gtag('js',new Date());
+// ホーム画面のアプリから開いたか、ブラウザで開いたかを一緒に送る
+var fbMode=(window.matchMedia&&window.matchMedia('(display-mode: standalone)').matches)||window.navigator.standalone===true?'ホーム画面アプリ':'ブラウザ';
+gtag('config','G-BQT3PHS5SP',{display_mode:fbMode});
+</script>
 <meta name="viewport" content="width=device-width, initial-scale=1, viewport-fit=cover">
 <title>福袋カレンダー</title>
 <link rel="manifest" href="manifest.webmanifest">
