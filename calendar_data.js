@@ -1,6 +1,6 @@
 window.CAL_DATA = {
- "updated": "2026-11-16 04:48",
- "checked": "2026-11-16 07:44",
+ "updated": "2026-11-16 08:50",
+ "checked": "2026-11-16 08:50",
  "entries": [
   {
    "date": "2026-11-01",
@@ -3316,6 +3316,18 @@ window.CAL_DATA = {
    "link": "entry721.html"
   },
   {
+   "date": "2026-11-16",
+   "genres": [
+    "予告"
+   ],
+   "shop": "丸源ラーメン",
+   "time": "",
+   "tags": [
+    "予告"
+   ],
+   "link": "entry608.html"
+  },
+  {
    "date": "2026-11-17",
    "genres": [
     "レディース"
@@ -3919,6 +3931,17 @@ window.CAL_DATA = {
    "time": "",
    "tags": [],
    "link": "entry13.html"
+  },
+  {
+   "date": "2026-11-25",
+   "genres": [
+    "元金担保型",
+    "アプリ"
+   ],
+   "shop": "丸源ラーメン公式",
+   "time": "",
+   "tags": [],
+   "link": "entry608.html"
   },
   {
    "date": "2026-11-25",
