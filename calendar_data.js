@@ -1,6 +1,6 @@
 window.CAL_DATA = {
- "updated": "2026-11-15 16:07",
- "checked": "2026-11-15 17:12",
+ "updated": "2026-11-15 17:56",
+ "checked": "2026-11-15 17:56",
  "entries": [
   {
    "date": "2026-11-01",
@@ -3251,6 +3251,16 @@ window.CAL_DATA = {
    "time": "10:00",
    "tags": [],
    "link": "entry62.html"
+  },
+  {
+   "date": "2026-11-16",
+   "genres": [
+    "子供服"
+   ],
+   "shop": "ピカデリーサーカス",
+   "time": "12:00",
+   "tags": [],
+   "link": "entry701.html"
   },
   {
    "date": "2026-11-16",
