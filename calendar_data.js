@@ -1,6 +1,6 @@
 window.CAL_DATA = {
- "updated": "2026-11-15 11:40",
- "checked": "2026-11-15 11:54",
+ "updated": "2026-11-15 12:56",
+ "checked": "2026-11-15 12:56",
  "entries": [
   {
    "date": "2026-11-01",
@@ -3079,6 +3079,16 @@ window.CAL_DATA = {
    "time": "",
    "tags": [],
    "link": "entry134.html"
+  },
+  {
+   "date": "2026-11-15",
+   "genres": [
+    "コスメ"
+   ],
+   "shop": "三越伊勢丹百貨店",
+   "time": "10:00",
+   "tags": [],
+   "link": "entry619.html"
   },
   {
    "date": "2026-11-15",
