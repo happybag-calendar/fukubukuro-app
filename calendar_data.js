@@ -1,6 +1,6 @@
 window.CAL_DATA = {
- "updated": "2026-11-15 06:42",
- "checked": "2026-11-15 08:41",
+ "updated": "2026-11-15 10:09",
+ "checked": "2026-11-15 10:09",
  "entries": [
   {
    "date": "2026-11-01",
@@ -2715,9 +2715,7 @@ window.CAL_DATA = {
    ],
    "shop": "MASH GO GREEN STORE",
    "time": "10:00",
-   "tags": [
-    "人気"
-   ],
+   "tags": [],
    "link": "entry198.html"
   },
   {
@@ -2975,6 +2973,16 @@ window.CAL_DATA = {
    "genres": [
     "レディース"
    ],
+   "shop": "マジェスティックレゴン公式",
+   "time": "",
+   "tags": [],
+   "link": "#4"
+  },
+  {
+   "date": "2026-11-14",
+   "genres": [
+    "レディース"
+   ],
    "shop": "オシャレウォーカー",
    "time": "10:00",
    "tags": [],
@@ -3173,6 +3181,16 @@ window.CAL_DATA = {
    "time": "10:00",
    "tags": [],
    "link": "entry498.html"
+  },
+  {
+   "date": "2026-11-15",
+   "genres": [
+    "開催中"
+   ],
+   "shop": "大丸松坂屋グループ",
+   "time": "",
+   "tags": [],
+   "link": "#4"
   },
   {
    "date": "2026-11-15",
