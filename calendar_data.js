@@ -1,6 +1,6 @@
 window.CAL_DATA = {
- "updated": "2026-11-15 12:56",
- "checked": "2026-11-15 13:58",
+ "updated": "2026-11-15 14:56",
+ "checked": "2026-11-15 14:56",
  "entries": [
   {
    "date": "2026-11-01",
@@ -3589,6 +3589,16 @@ window.CAL_DATA = {
    "time": "10:00",
    "tags": [],
    "link": "entry936.html"
+  },
+  {
+   "date": "2026-11-19",
+   "genres": [
+    "酒類"
+   ],
+   "shop": "いずみせグループ",
+   "time": "20:00",
+   "tags": [],
+   "link": "entry941.html"
   },
   {
    "date": "2026-11-19",
