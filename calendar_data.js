@@ -1,6 +1,6 @@
 window.CAL_DATA = {
- "updated": "2026-11-15 20:46",
- "checked": "2026-11-15 20:46",
+ "updated": "2026-11-15 21:56",
+ "checked": "2026-11-15 21:56",
  "entries": [
   {
    "date": "2026-11-01",
@@ -3273,6 +3273,16 @@ window.CAL_DATA = {
    "time": "12:00",
    "tags": [],
    "link": "entry701.html"
+  },
+  {
+   "date": "2026-11-16",
+   "genres": [
+    "下着"
+   ],
+   "shop": "メンズの asian closet",
+   "time": "0:00",
+   "tags": [],
+   "link": "entry921.html"
   },
   {
    "date": "2026-11-16",
