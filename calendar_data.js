@@ -1,6 +1,6 @@
 window.CAL_DATA = {
- "updated": "2026-11-16 03:50",
- "checked": "2026-11-16 03:50",
+ "updated": "2026-11-16 04:48",
+ "checked": "2026-11-16 04:48",
  "entries": [
   {
    "date": "2026-11-01",
@@ -3304,6 +3304,18 @@ window.CAL_DATA = {
    "link": "entry208.html"
   },
   {
+   "date": "2026-11-16",
+   "genres": [
+    "予告"
+   ],
+   "shop": "長崎心泉堂　キティ・ドラえもん",
+   "time": "",
+   "tags": [
+    "予告"
+   ],
+   "link": "entry721.html"
+  },
+  {
    "date": "2026-11-17",
    "genres": [
     "レディース"
@@ -4121,6 +4133,16 @@ window.CAL_DATA = {
    "time": "10:00",
    "tags": [],
    "link": "entry556.html"
+  },
+  {
+   "date": "2026-12-06",
+   "genres": [
+    "食品"
+   ],
+   "shop": "カステラの長崎心泉堂",
+   "time": "10:00",
+   "tags": [],
+   "link": "entry721.html"
   },
   {
    "date": "2026-12-07",
