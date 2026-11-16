@@ -1,6 +1,6 @@
 window.CAL_DATA = {
- "updated": "2026-11-16 13:14",
- "checked": "2026-11-16 15:20",
+ "updated": "2026-11-16 18:44",
+ "checked": "2026-11-16 18:44",
  "entries": [
   {
    "date": "2026-11-01",
@@ -3418,6 +3418,18 @@ window.CAL_DATA = {
    "link": "entry633.html"
   },
   {
+   "date": "2026-11-16",
+   "genres": [
+    "予告"
+   ],
+   "shop": "ZOZOTOWN公式",
+   "time": "",
+   "tags": [
+    "予告"
+   ],
+   "link": "entry194.html"
+  },
+  {
    "date": "2026-11-17",
    "genres": [
     "PC"
@@ -3839,6 +3851,16 @@ window.CAL_DATA = {
   {
    "date": "2026-11-20",
    "genres": [
+    "ファッション"
+   ],
+   "shop": "ZOZOTOWN公式",
+   "time": "12:00",
+   "tags": [],
+   "link": "entry194.html"
+  },
+  {
+   "date": "2026-11-20",
+   "genres": [
     "総合"
    ],
    "shop": "大丸松坂屋百貨店",
@@ -3997,6 +4019,16 @@ window.CAL_DATA = {
    "time": "",
    "tags": [],
    "link": "entry37.html"
+  },
+  {
+   "date": "2026-11-21",
+   "genres": [
+    "ファッション"
+   ],
+   "shop": "しまむらグループ",
+   "time": "15:00",
+   "tags": [],
+   "link": "entry650.html"
   },
   {
    "date": "2026-11-23",
