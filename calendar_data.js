@@ -1,6 +1,6 @@
 window.CAL_DATA = {
- "updated": "2026-11-16 20:28",
- "checked": "2026-11-16 20:43",
+ "updated": "2026-11-17 00:10",
+ "checked": "2026-11-17 00:10",
  "entries": [
   {
    "date": "2026-11-01",
@@ -3753,6 +3753,16 @@ window.CAL_DATA = {
   {
    "date": "2026-11-19",
    "genres": [
+    "下着"
+   ],
+   "shop": "福助楽天市場店",
+   "time": "20:00",
+   "tags": [],
+   "link": "entry95.html"
+  },
+  {
+   "date": "2026-11-19",
+   "genres": [
     "子供服"
    ],
    "shop": "ナルミヤ公式楽天市場店",
@@ -3789,10 +3799,30 @@ window.CAL_DATA = {
    "genres": [
     "食品"
    ],
+   "shop": "浜名湖うなぎのたなか",
+   "time": "20:00",
+   "tags": [],
+   "link": "entry1048.html"
+  },
+  {
+   "date": "2026-11-19",
+   "genres": [
+    "食品"
+   ],
    "shop": "昆布の不二食品公式",
    "time": "18:00",
    "tags": [],
    "link": "entry757.html"
+  },
+  {
+   "date": "2026-11-19",
+   "genres": [
+    "食品"
+   ],
+   "shop": "北海道産直グルメ ぼーの",
+   "time": "20:00",
+   "tags": [],
+   "link": "entry1015.html"
   },
   {
    "date": "2026-11-19",
