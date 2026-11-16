@@ -1,6 +1,6 @@
 window.CAL_DATA = {
- "updated": "2026-11-16 11:04",
- "checked": "2026-11-16 11:06",
+ "updated": "2026-11-16 11:59",
+ "checked": "2026-11-16 11:59",
  "entries": [
   {
    "date": "2026-11-01",
@@ -3247,7 +3247,7 @@ window.CAL_DATA = {
    "genres": [
     "元金担保型"
    ],
-   "shop": "第一興商公式",
+   "shop": "第一興商公式ビッグエコー",
    "time": "",
    "tags": [
     "速報"
@@ -3265,6 +3265,16 @@ window.CAL_DATA = {
     "速報"
    ],
    "link": "#4"
+  },
+  {
+   "date": "2026-11-16",
+   "genres": [
+    "総合"
+   ],
+   "shop": "近鉄百貨店",
+   "time": "10:00",
+   "tags": [],
+   "link": "entry40.html"
   },
   {
    "date": "2026-11-16",
@@ -3362,6 +3372,18 @@ window.CAL_DATA = {
     "予告"
    ],
    "link": "entry245.html"
+  },
+  {
+   "date": "2026-11-16",
+   "genres": [
+    "予告"
+   ],
+   "shop": "貝印公式本店KAIストア",
+   "time": "",
+   "tags": [
+    "予告"
+   ],
+   "link": "entry633.html"
   },
   {
    "date": "2026-11-17",
@@ -3502,6 +3524,16 @@ window.CAL_DATA = {
    "time": "10:00",
    "tags": [],
    "link": "entry713.html"
+  },
+  {
+   "date": "2026-11-18",
+   "genres": [
+    "キッチン"
+   ],
+   "shop": "貝印公式本店KAIストア",
+   "time": "10:00",
+   "tags": [],
+   "link": "entry633.html"
   },
   {
    "date": "2026-11-18",
