@@ -1,6 +1,6 @@
 window.CAL_DATA = {
- "updated": "2026-11-16 11:03",
- "checked": "2026-11-16 11:03",
+ "updated": "2026-11-16 11:04",
+ "checked": "2026-11-16 11:04",
  "entries": [
   {
    "date": "2026-11-01",
@@ -3249,7 +3249,9 @@ window.CAL_DATA = {
    ],
    "shop": "第一興商公式",
    "time": "",
-   "tags": [],
+   "tags": [
+    "速報"
+   ],
    "link": "#4"
   },
   {
