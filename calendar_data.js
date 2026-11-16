@@ -1,6 +1,6 @@
 window.CAL_DATA = {
- "updated": "2026-11-16 11:59",
- "checked": "2026-11-16 11:59",
+ "updated": "2026-11-16 13:14",
+ "checked": "2026-11-16 13:14",
  "entries": [
   {
    "date": "2026-11-01",
@@ -3245,6 +3245,18 @@ window.CAL_DATA = {
   {
    "date": "2026-11-16",
    "genres": [
+    "スポーツ"
+   ],
+   "shop": "ナチュラム公式通販",
+   "time": "12:00",
+   "tags": [
+    "速報"
+   ],
+   "link": "entry243.html"
+  },
+  {
+   "date": "2026-11-16",
+   "genres": [
     "元金担保型"
    ],
    "shop": "第一興商公式ビッグエコー",
@@ -3305,6 +3317,26 @@ window.CAL_DATA = {
    "time": "0:00",
    "tags": [],
    "link": "entry921.html"
+  },
+  {
+   "date": "2026-11-16",
+   "genres": [
+    "コスメ"
+   ],
+   "shop": "ベルメゾン公式",
+   "time": "10:00",
+   "tags": [],
+   "link": "entry358.html"
+  },
+  {
+   "date": "2026-11-16",
+   "genres": [
+    "レディース"
+   ],
+   "shop": "マルイ公式通販",
+   "time": "",
+   "tags": [],
+   "link": "entry83.html"
   },
   {
    "date": "2026-11-16",
