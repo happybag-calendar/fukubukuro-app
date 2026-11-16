@@ -1,6 +1,6 @@
 window.CAL_DATA = {
- "updated": "2026-11-16 19:41",
- "checked": "2026-11-16 19:41",
+ "updated": "2026-11-16 20:28",
+ "checked": "2026-11-16 20:28",
  "entries": [
   {
    "date": "2026-11-01",
@@ -3241,6 +3241,30 @@ window.CAL_DATA = {
    "time": "10:00",
    "tags": [],
    "link": "entry498.html"
+  },
+  {
+   "date": "2026-11-16",
+   "genres": [
+    "レディース"
+   ],
+   "shop": "AS KNOW AS公式",
+   "time": "20:00",
+   "tags": [
+    "速報"
+   ],
+   "link": "entry486.html"
+  },
+  {
+   "date": "2026-11-16",
+   "genres": [
+    "雑貨"
+   ],
+   "shop": "付録付き本の宝島",
+   "time": "",
+   "tags": [
+    "速報"
+   ],
+   "link": "entry562.html"
   },
   {
    "date": "2026-11-16",
