@@ -1,6 +1,6 @@
 window.CAL_DATA = {
- "updated": "2026-11-16 18:44",
- "checked": "2026-11-16 18:44",
+ "updated": "2026-11-16 19:41",
+ "checked": "2026-11-16 19:41",
  "entries": [
   {
    "date": "2026-11-01",
@@ -3430,6 +3430,30 @@ window.CAL_DATA = {
    "link": "entry194.html"
   },
   {
+   "date": "2026-11-16",
+   "genres": [
+    "予告"
+   ],
+   "shop": "ナルミヤ公式楽天市場店",
+   "time": "",
+   "tags": [
+    "予告"
+   ],
+   "link": "entry55.html"
+  },
+  {
+   "date": "2026-11-16",
+   "genres": [
+    "予告"
+   ],
+   "shop": "昆布の不二食品公式",
+   "time": "",
+   "tags": [
+    "予告"
+   ],
+   "link": "entry757.html"
+  },
+  {
    "date": "2026-11-17",
    "genres": [
     "PC"
@@ -3705,6 +3729,16 @@ window.CAL_DATA = {
   {
    "date": "2026-11-19",
    "genres": [
+    "子供服"
+   ],
+   "shop": "ナルミヤ公式楽天市場店",
+   "time": "20:00",
+   "tags": [],
+   "link": "entry55.html"
+  },
+  {
+   "date": "2026-11-19",
+   "genres": [
     "食品"
    ],
    "shop": "モスバーガー公式ショップ楽天市場店",
@@ -3725,6 +3759,16 @@ window.CAL_DATA = {
     "人気"
    ],
    "link": "entry1004.html"
+  },
+  {
+   "date": "2026-11-19",
+   "genres": [
+    "食品"
+   ],
+   "shop": "昆布の不二食品公式",
+   "time": "18:00",
+   "tags": [],
+   "link": "entry757.html"
   },
   {
    "date": "2026-11-19",
@@ -3807,6 +3851,16 @@ window.CAL_DATA = {
    "time": "10:00",
    "tags": [],
    "link": "entry936.html"
+  },
+  {
+   "date": "2026-11-19",
+   "genres": [
+    "コスメ"
+   ],
+   "shop": "ネイルの福袋一覧",
+   "time": "20:00",
+   "tags": [],
+   "link": "entry967.html"
   },
   {
    "date": "2026-11-19",
