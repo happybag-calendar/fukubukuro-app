@@ -1,6 +1,6 @@
 window.CAL_DATA = {
- "updated": "2026-11-17 00:10",
- "checked": "2026-11-17 07:52",
+ "updated": "2026-11-17 08:47",
+ "checked": "2026-11-17 08:47",
  "entries": [
   {
    "date": "2026-11-01",
@@ -3566,12 +3566,24 @@ window.CAL_DATA = {
   {
    "date": "2026-11-17",
    "genres": [
-    "開催中"
+    "故郷"
    ],
-   "shop": "福袋お節と百貨店お節",
+   "shop": "ふるさと納税で福袋",
    "time": "",
    "tags": [],
-   "link": "category3/entry551.html"
+   "link": "entry521.html"
+  },
+  {
+   "date": "2026-11-17",
+   "genres": [
+    "予告"
+   ],
+   "shop": "ファンケル公式",
+   "time": "",
+   "tags": [
+    "予告"
+   ],
+   "link": "entry183.html"
   },
   {
    "date": "2026-11-18",
@@ -4488,6 +4500,16 @@ window.CAL_DATA = {
    "time": "10:00",
    "tags": [],
    "link": "entry356.html"
+  },
+  {
+   "date": "2026-12-16",
+   "genres": [
+    "コスメ"
+   ],
+   "shop": "ファンケル公式",
+   "time": "",
+   "tags": [],
+   "link": "entry183.html"
   },
   {
    "date": "2026-12-28",
