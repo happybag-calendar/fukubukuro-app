@@ -1,6 +1,6 @@
 window.CAL_DATA = {
- "updated": "2026-11-16 08:50",
- "checked": "2026-11-16 08:50",
+ "updated": "2026-11-16 10:21",
+ "checked": "2026-11-16 10:21",
  "entries": [
   {
    "date": "2026-11-01",
@@ -3291,7 +3291,7 @@ window.CAL_DATA = {
    "shop": "幸楽苑",
    "time": "",
    "tags": [],
-   "link": "#4"
+   "link": "entry608.html"
   },
   {
    "date": "2026-11-16",
@@ -3326,6 +3326,28 @@ window.CAL_DATA = {
     "予告"
    ],
    "link": "entry608.html"
+  },
+  {
+   "date": "2026-11-16",
+   "genres": [
+    "予告"
+   ],
+   "shop": "サンワダイレクト公式",
+   "time": "",
+   "tags": [
+    "予告"
+   ],
+   "link": "entry245.html"
+  },
+  {
+   "date": "2026-11-17",
+   "genres": [
+    "PC"
+   ],
+   "shop": "サンワダイレクト公式",
+   "time": "",
+   "tags": [],
+   "link": "entry245.html"
   },
   {
    "date": "2026-11-17",
@@ -3827,6 +3849,16 @@ window.CAL_DATA = {
    "time": "",
    "tags": [],
    "link": "entry1039.html"
+  },
+  {
+   "date": "2026-11-20",
+   "genres": [
+    "寝具"
+   ],
+   "shop": "ふとんのタナカじぶんまくら",
+   "time": "0:00",
+   "tags": [],
+   "link": "entry864.html"
   },
   {
    "date": "2026-11-20",
