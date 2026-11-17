@@ -1,6 +1,6 @@
 window.CAL_DATA = {
- "updated": "2026-11-17 11:22",
- "checked": "2026-11-17 11:22",
+ "updated": "2026-11-17 12:41",
+ "checked": "2026-11-17 12:41",
  "entries": [
   {
    "date": "2026-11-01",
@@ -3480,6 +3480,18 @@ window.CAL_DATA = {
   {
    "date": "2026-11-17",
    "genres": [
+    "雑貨"
+   ],
+   "shop": "MARY QUANT",
+   "time": "12:00",
+   "tags": [
+    "速報"
+   ],
+   "link": "entry988.html"
+  },
+  {
+   "date": "2026-11-17",
+   "genres": [
     "PC"
    ],
    "shop": "サンワダイレクト公式",
@@ -3592,6 +3604,16 @@ window.CAL_DATA = {
    "time": "",
    "tags": [],
    "link": "entry521.html"
+  },
+  {
+   "date": "2026-11-17",
+   "genres": [
+    "BLACK FRIDAY"
+   ],
+   "shop": "ナイキ公式",
+   "time": "",
+   "tags": [],
+   "link": "entry209.html"
   },
   {
    "date": "2026-11-17",
@@ -3911,6 +3933,16 @@ window.CAL_DATA = {
   {
    "date": "2026-11-19",
    "genres": [
+    "下着"
+   ],
+   "shop": "ブラデリスニューヨーク楽天市場店",
+   "time": "20:00",
+   "tags": [],
+   "link": "entry529.html"
+  },
+  {
+   "date": "2026-11-19",
+   "genres": [
     "コスメ"
    ],
    "shop": "ジュリーク楽天市場店",
@@ -3977,6 +4009,16 @@ window.CAL_DATA = {
    "time": "",
    "tags": [],
    "link": "entry498.html"
+  },
+  {
+   "date": "2026-11-19",
+   "genres": [
+    "BLACK FRIDAY"
+   ],
+   "shop": "ZOZOTOWN",
+   "time": "",
+   "tags": [],
+   "link": "entry194.html"
   },
   {
    "date": "2026-11-20",
@@ -4375,6 +4417,26 @@ window.CAL_DATA = {
    "time": "10:00",
    "tags": [],
    "link": "entry498.html"
+  },
+  {
+   "date": "2026-12-01",
+   "genres": [
+    "元金担保型"
+   ],
+   "shop": "サンマルクカフェ",
+   "time": "10:00",
+   "tags": [],
+   "link": "entry809.html"
+  },
+  {
+   "date": "2026-12-01",
+   "genres": [
+    "カフェ"
+   ],
+   "shop": "ヴィ・ド・フランス（VIE DE FRANCE）",
+   "time": "",
+   "tags": [],
+   "link": "#4"
   },
   {
    "date": "2026-12-01",
