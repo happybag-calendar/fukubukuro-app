@@ -1,6 +1,6 @@
 window.CAL_DATA = {
- "updated": "2026-11-17 16:23",
- "checked": "2026-11-17 16:23",
+ "updated": "2026-11-17 18:07",
+ "checked": "2026-11-17 18:07",
  "entries": [
   {
    "date": "2026-11-01",
@@ -3480,18 +3480,6 @@ window.CAL_DATA = {
   {
    "date": "2026-11-17",
    "genres": [
-    "雑貨"
-   ],
-   "shop": "MARY QUANT",
-   "time": "12:00",
-   "tags": [
-    "速報"
-   ],
-   "link": "entry988.html"
-  },
-  {
-   "date": "2026-11-17",
-   "genres": [
     "PC"
    ],
    "shop": "サンワダイレクト公式",
@@ -3530,6 +3518,18 @@ window.CAL_DATA = {
     "抽選"
    ],
    "link": "entry595.html"
+  },
+  {
+   "date": "2026-11-17",
+   "genres": [
+    "雑貨"
+   ],
+   "shop": "MARY QUANT",
+   "time": "12:00",
+   "tags": [
+    "速報"
+   ],
+   "link": "entry988.html"
   },
   {
    "date": "2026-11-17",
@@ -4243,6 +4243,16 @@ window.CAL_DATA = {
    "time": "15:00",
    "tags": [],
    "link": "entry650.html"
+  },
+  {
+   "date": "2026-11-21",
+   "genres": [
+    "コスメ"
+   ],
+   "shop": "BOTANIST（アンド ハビット）",
+   "time": "10:00",
+   "tags": [],
+   "link": "entry503.html"
   },
   {
    "date": "2026-11-21",
