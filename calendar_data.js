@@ -1,6 +1,6 @@
 window.CAL_DATA = {
- "updated": "2026-11-17 23:25",
- "checked": "2026-11-18 06:57",
+ "updated": "2026-11-18 07:58",
+ "checked": "2026-11-18 07:58",
  "entries": [
   {
    "date": "2026-11-01",
@@ -3732,6 +3732,16 @@ window.CAL_DATA = {
    "time": "12:00",
    "tags": [],
    "link": "entry261.html"
+  },
+  {
+   "date": "2026-11-18",
+   "genres": [
+    "故郷"
+   ],
+   "shop": "ふるさと納税で福袋",
+   "time": "",
+   "tags": [],
+   "link": "entry521.html"
   },
   {
    "date": "2026-11-18",
