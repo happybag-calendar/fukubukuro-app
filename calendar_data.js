@@ -1,6 +1,6 @@
 window.CAL_DATA = {
- "updated": "2026-11-17 12:41",
- "checked": "2026-11-17 15:05",
+ "updated": "2026-11-17 16:23",
+ "checked": "2026-11-17 16:23",
  "entries": [
   {
    "date": "2026-11-01",
@@ -3714,6 +3714,38 @@ window.CAL_DATA = {
   {
    "date": "2026-11-19",
    "genres": [
+    "旅"
+   ],
+   "shop": "楽天トラベル",
+   "time": "10:00",
+   "tags": [],
+   "link": "entry208.html"
+  },
+  {
+   "date": "2026-11-19",
+   "genres": [
+    "スポーツ"
+   ],
+   "shop": "サンデーマウンテン",
+   "time": "20:00",
+   "tags": [],
+   "link": "entry747.html"
+  },
+  {
+   "date": "2026-11-19",
+   "genres": [
+    "ファッション"
+   ],
+   "shop": "THE NORTH FACE福袋一覧",
+   "time": "20:00",
+   "tags": [
+    "人気"
+   ],
+   "link": "entry535.html"
+  },
+  {
+   "date": "2026-11-19",
+   "genres": [
     "元金担保型"
    ],
    "shop": "セブンイレブン公式",
@@ -3730,16 +3762,6 @@ window.CAL_DATA = {
    "time": "10:00",
    "tags": [],
    "link": "entry62.html"
-  },
-  {
-   "date": "2026-11-19",
-   "genres": [
-    "スポーツ"
-   ],
-   "shop": "サンデーマウンテン",
-   "time": "20:00",
-   "tags": [],
-   "link": "entry747.html"
   },
   {
    "date": "2026-11-19",
