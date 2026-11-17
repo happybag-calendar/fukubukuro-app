@@ -1,6 +1,6 @@
 window.CAL_DATA = {
- "updated": "2026-11-17 19:12",
- "checked": "2026-11-17 19:12",
+ "updated": "2026-11-17 20:09",
+ "checked": "2026-11-17 20:09",
  "entries": [
   {
    "date": "2026-11-01",
@@ -3476,6 +3476,18 @@ window.CAL_DATA = {
     "予告"
    ],
    "link": "entry757.html"
+  },
+  {
+   "date": "2026-11-17",
+   "genres": [
+    "ファッション"
+   ],
+   "shop": "看護用品のナースリー",
+   "time": "",
+   "tags": [
+    "速報"
+   ],
+   "link": "entry691.html"
   },
   {
    "date": "2026-11-17",
