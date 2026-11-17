@@ -1,6 +1,6 @@
 window.CAL_DATA = {
- "updated": "2026-11-17 18:07",
- "checked": "2026-11-17 18:07",
+ "updated": "2026-11-17 19:12",
+ "checked": "2026-11-17 19:12",
  "entries": [
   {
    "date": "2026-11-01",
@@ -3562,6 +3562,16 @@ window.CAL_DATA = {
     "人気"
    ],
    "link": "entry664.html"
+  },
+  {
+   "date": "2026-11-17",
+   "genres": [
+    "子供服"
+   ],
+   "shop": "子供服チェーンのピカデリーサーカス",
+   "time": "20:00",
+   "tags": [],
+   "link": "entry701.html"
   },
   {
    "date": "2026-11-17",
