@@ -1,6 +1,6 @@
 window.CAL_DATA = {
- "updated": "2026-11-17 20:09",
- "checked": "2026-11-17 20:56",
+ "updated": "2026-11-17 22:12",
+ "checked": "2026-11-17 22:12",
  "entries": [
   {
    "date": "2026-11-01",
@@ -3245,6 +3245,16 @@ window.CAL_DATA = {
   {
    "date": "2026-11-16",
    "genres": [
+    "家電"
+   ],
+   "shop": "面白家電のサンコーレアモノ",
+   "time": "",
+   "tags": [],
+   "link": "entry276.html"
+  },
+  {
+   "date": "2026-11-16",
+   "genres": [
     "レディース"
    ],
    "shop": "AS KNOW AS公式",
@@ -3788,6 +3798,16 @@ window.CAL_DATA = {
   {
    "date": "2026-11-19",
    "genres": [
+    "ファッション"
+   ],
+   "shop": "ZOZOTOWN公式",
+   "time": "12:00",
+   "tags": [],
+   "link": "entry194.html"
+  },
+  {
+   "date": "2026-11-19",
+   "genres": [
     "玩具"
    ],
    "shop": "トイザらス・ベビーザらス",
@@ -4083,16 +4103,6 @@ window.CAL_DATA = {
    "time": "12:00",
    "tags": [],
    "link": "entry456.html"
-  },
-  {
-   "date": "2026-11-20",
-   "genres": [
-    "ファッション"
-   ],
-   "shop": "ZOZOTOWN公式",
-   "time": "12:00",
-   "tags": [],
-   "link": "entry194.html"
   },
   {
    "date": "2026-11-20",
