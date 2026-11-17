@@ -1,6 +1,6 @@
 window.CAL_DATA = {
- "updated": "2026-11-17 10:14",
- "checked": "2026-11-17 10:14",
+ "updated": "2026-11-17 11:22",
+ "checked": "2026-11-17 11:22",
  "entries": [
   {
    "date": "2026-11-01",
@@ -3510,6 +3510,18 @@ window.CAL_DATA = {
   {
    "date": "2026-11-17",
    "genres": [
+    "アプリ"
+   ],
+   "shop": "ジョリーパスタ",
+   "time": "10:00",
+   "tags": [
+    "抽選"
+   ],
+   "link": "entry595.html"
+  },
+  {
+   "date": "2026-11-17",
+   "genres": [
     "雑貨"
    ],
    "shop": "ディズニーストア公式",
@@ -3542,14 +3554,12 @@ window.CAL_DATA = {
   {
    "date": "2026-11-17",
    "genres": [
-    "アプリ"
+    "ロス対策"
    ],
-   "shop": "ジョリーパスタ",
-   "time": "10:00",
-   "tags": [
-    "抽選"
-   ],
-   "link": "entry595.html"
+   "shop": "Kuradashi公式通販",
+   "time": "",
+   "tags": [],
+   "link": "entry763.html"
   },
   {
    "date": "2026-11-17",
@@ -3941,6 +3951,16 @@ window.CAL_DATA = {
   {
    "date": "2026-11-19",
    "genres": [
+    "コスメ"
+   ],
+   "shop": "VTコスメ公式",
+   "time": "20:00",
+   "tags": [],
+   "link": "entry568.html"
+  },
+  {
+   "date": "2026-11-19",
+   "genres": [
     "酒類"
    ],
    "shop": "いずみせグループ",
@@ -4105,7 +4125,7 @@ window.CAL_DATA = {
    "genres": [
     "趣味"
    ],
-   "shop": "手芸の店ギンガム",
+   "shop": "手芸・毛糸・生地の福袋",
    "time": "0:00",
    "tags": [],
    "link": "entry939.html"
@@ -4159,6 +4179,16 @@ window.CAL_DATA = {
    "time": "15:00",
    "tags": [],
    "link": "entry650.html"
+  },
+  {
+   "date": "2026-11-21",
+   "genres": [
+    "BLACK FRIDAY"
+   ],
+   "shop": "HARIO公式",
+   "time": "",
+   "tags": [],
+   "link": "entry121.html"
   },
   {
    "date": "2026-11-23",
