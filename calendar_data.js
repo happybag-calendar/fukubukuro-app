@@ -1,6 +1,6 @@
 window.CAL_DATA = {
- "updated": "2026-11-18 07:58",
- "checked": "2026-11-18 07:58",
+ "updated": "2026-11-18 08:50",
+ "checked": "2026-11-18 08:50",
  "entries": [
   {
    "date": "2026-11-01",
@@ -3664,8 +3664,30 @@ window.CAL_DATA = {
    "genres": [
     "ファッション"
    ],
+   "shop": "しまむらグループ",
+   "time": "15:00",
+   "tags": [
+    "速報"
+   ],
+   "link": "entry650.html"
+  },
+  {
+   "date": "2026-11-18",
+   "genres": [
+    "ファッション"
+   ],
    "shop": "楽天 Lucky Bag Store",
    "time": "10:00",
+   "tags": [],
+   "link": "entry62.html"
+  },
+  {
+   "date": "2026-11-18",
+   "genres": [
+    "ファッション"
+   ],
+   "shop": "楽天ファッション",
+   "time": "15:00",
    "tags": [],
    "link": "entry62.html"
   },
@@ -3732,6 +3754,16 @@ window.CAL_DATA = {
    "time": "12:00",
    "tags": [],
    "link": "entry261.html"
+  },
+  {
+   "date": "2026-11-18",
+   "genres": [
+    "レディース"
+   ],
+   "shop": "マルイ公式通販",
+   "time": "",
+   "tags": [],
+   "link": "entry83.html"
   },
   {
    "date": "2026-11-18",
