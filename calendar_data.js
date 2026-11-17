@@ -1,6 +1,6 @@
 window.CAL_DATA = {
- "updated": "2026-11-17 08:47",
- "checked": "2026-11-17 08:47",
+ "updated": "2026-11-17 10:14",
+ "checked": "2026-11-17 10:14",
  "entries": [
   {
    "date": "2026-11-01",
@@ -3516,6 +3516,16 @@ window.CAL_DATA = {
    "time": "10:00",
    "tags": [],
    "link": "entry556.html"
+  },
+  {
+   "date": "2026-11-17",
+   "genres": [
+    "レディース"
+   ],
+   "shop": "スナイデル公式",
+   "time": "12:00",
+   "tags": [],
+   "link": "entry942.html"
   },
   {
    "date": "2026-11-17",
