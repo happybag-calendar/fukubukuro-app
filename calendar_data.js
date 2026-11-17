@@ -1,6 +1,6 @@
 window.CAL_DATA = {
- "updated": "2026-11-17 22:12",
- "checked": "2026-11-17 22:12",
+ "updated": "2026-11-17 23:25",
+ "checked": "2026-11-17 23:25",
  "entries": [
   {
    "date": "2026-11-01",
@@ -3476,18 +3476,6 @@ window.CAL_DATA = {
    "link": "entry55.html"
   },
   {
-   "date": "2026-11-16",
-   "genres": [
-    "予告"
-   ],
-   "shop": "昆布の不二食品公式",
-   "time": "",
-   "tags": [
-    "予告"
-   ],
-   "link": "entry757.html"
-  },
-  {
    "date": "2026-11-17",
    "genres": [
     "ファッション"
@@ -3660,6 +3648,18 @@ window.CAL_DATA = {
    "link": "entry183.html"
   },
   {
+   "date": "2026-11-17",
+   "genres": [
+    "予告"
+   ],
+   "shop": "昆布の不二食品公式",
+   "time": "",
+   "tags": [
+    "予告"
+   ],
+   "link": "entry757.html"
+  },
+  {
    "date": "2026-11-18",
    "genres": [
     "ファッション"
@@ -3687,7 +3687,7 @@ window.CAL_DATA = {
     "その他"
    ],
    "shop": "カルディーコーヒー",
-   "time": "",
+   "time": "10:00",
    "tags": [
     "抽選"
    ],
@@ -3729,7 +3729,7 @@ window.CAL_DATA = {
     "スポーツ"
    ],
    "shop": "バレエのチャコット公式",
-   "time": "",
+   "time": "12:00",
    "tags": [],
    "link": "entry261.html"
   },
