@@ -1,6 +1,6 @@
 window.CAL_DATA = {
- "updated": "2026-11-18 14:06",
- "checked": "2026-11-18 14:06",
+ "updated": "2026-11-18 14:31",
+ "checked": "2026-11-18 14:31",
  "entries": [
   {
    "date": "2026-11-01",
@@ -3646,6 +3646,18 @@ window.CAL_DATA = {
     "予告"
    ],
    "link": "entry757.html"
+  },
+  {
+   "date": "2026-11-18",
+   "genres": [
+    "ファッション"
+   ],
+   "shop": "ITOKIN公式通販",
+   "time": "",
+   "tags": [
+    "速報"
+   ],
+   "link": "entry144.html"
   },
   {
    "date": "2026-11-18",
