@@ -1,6 +1,6 @@
 window.CAL_DATA = {
- "updated": "2026-11-18 15:10",
- "checked": "2026-11-18 15:10",
+ "updated": "2026-11-18 16:22",
+ "checked": "2026-11-18 16:22",
  "entries": [
   {
    "date": "2026-11-01",
@@ -3650,6 +3650,18 @@ window.CAL_DATA = {
   {
    "date": "2026-11-18",
    "genres": [
+    "食品"
+   ],
+   "shop": "あられお煎餅のもち吉",
+   "time": "21:00",
+   "tags": [
+    "人気"
+   ],
+   "link": "entry603.html"
+  },
+  {
+   "date": "2026-11-18",
+   "genres": [
     "ファッション"
    ],
    "shop": "ITOKIN公式通販",
@@ -3854,6 +3866,30 @@ window.CAL_DATA = {
     "予告"
    ],
    "link": "entry1049.html"
+  },
+  {
+   "date": "2026-11-18",
+   "genres": [
+    "予告"
+   ],
+   "shop": "基礎化粧品",
+   "time": "",
+   "tags": [
+    "予告"
+   ],
+   "link": "entry812.html"
+  },
+  {
+   "date": "2026-11-18",
+   "genres": [
+    "予告"
+   ],
+   "shop": "くら寿司公式楽天市場店",
+   "time": "",
+   "tags": [
+    "予告"
+   ],
+   "link": "entry818.html"
   },
   {
    "date": "2026-11-19",
@@ -4441,6 +4477,30 @@ window.CAL_DATA = {
    "link": "entry121.html"
   },
   {
+   "date": "2026-11-22",
+   "genres": [
+    "下着"
+   ],
+   "shop": "ブランドメンズ下着Crazy Ferret",
+   "time": "12:00",
+   "tags": [
+    "人気"
+   ],
+   "link": "entry1050.html"
+  },
+  {
+   "date": "2026-11-23",
+   "genres": [
+    "下着"
+   ],
+   "shop": "ブランドメンズ下着Crazy Ferret",
+   "time": "12:00",
+   "tags": [
+    "人気"
+   ],
+   "link": "entry1050.html"
+  },
+  {
    "date": "2026-11-23",
    "genres": [
     "飲料"
@@ -4621,6 +4681,18 @@ window.CAL_DATA = {
    "genres": [
     "食品"
    ],
+   "shop": "くら寿司公式楽天市場店",
+   "time": "0:00",
+   "tags": [
+    "人気"
+   ],
+   "link": "entry818.html"
+  },
+  {
+   "date": "2026-12-01",
+   "genres": [
+    "食品"
+   ],
    "shop": "ちこり村公式",
    "time": "",
    "tags": [],
@@ -4728,6 +4800,16 @@ window.CAL_DATA = {
    "time": "",
    "tags": [],
    "link": "entry409.html"
+  },
+  {
+   "date": "2026-12-03",
+   "genres": [
+    "コスメ"
+   ],
+   "shop": "基礎化粧品",
+   "time": "",
+   "tags": [],
+   "link": "entry812.html"
   },
   {
    "date": "2026-12-03",
