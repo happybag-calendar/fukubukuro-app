@@ -1,6 +1,6 @@
 window.CAL_DATA = {
- "updated": "2026-11-18 19:09",
- "checked": "2026-11-18 19:09",
+ "updated": "2026-11-18 20:10",
+ "checked": "2026-11-18 20:10",
  "entries": [
   {
    "date": "2026-11-01",
@@ -3646,6 +3646,19 @@ window.CAL_DATA = {
     "予告"
    ],
    "link": "entry757.html"
+  },
+  {
+   "date": "2026-11-18",
+   "genres": [
+    "ファッション",
+    "再入荷"
+   ],
+   "shop": "WEGO公式通販",
+   "time": "",
+   "tags": [
+    "速報"
+   ],
+   "link": "entry99.html"
   },
   {
    "date": "2026-11-18",
