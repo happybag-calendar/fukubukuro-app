@@ -1,6 +1,6 @@
 window.CAL_DATA = {
- "updated": "2026-11-19 07:57",
- "checked": "2026-11-19 08:10",
+ "updated": "2026-11-19 08:55",
+ "checked": "2026-11-19 08:55",
  "entries": [
   {
    "date": "2026-11-01",
@@ -4116,6 +4116,16 @@ window.CAL_DATA = {
    "time": "20:00",
    "tags": [],
    "link": "entry55.html"
+  },
+  {
+   "date": "2026-11-19",
+   "genres": [
+    "レディース"
+   ],
+   "shop": "マルイ公式通販",
+   "time": "",
+   "tags": [],
+   "link": "entry83.html"
   },
   {
    "date": "2026-11-19",
