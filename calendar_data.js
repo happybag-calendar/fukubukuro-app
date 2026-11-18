@@ -1,6 +1,6 @@
 window.CAL_DATA = {
- "updated": "2026-11-18 16:22",
- "checked": "2026-11-18 16:22",
+ "updated": "2026-11-18 18:10",
+ "checked": "2026-11-18 18:10",
  "entries": [
   {
    "date": "2026-11-01",
@@ -3650,6 +3650,18 @@ window.CAL_DATA = {
   {
    "date": "2026-11-18",
    "genres": [
+    "下着"
+   ],
+   "shop": "チュチュアンナ公式",
+   "time": "14:00",
+   "tags": [
+    "速報"
+   ],
+   "link": "entry533.html"
+  },
+  {
+   "date": "2026-11-18",
+   "genres": [
     "食品"
    ],
    "shop": "あられお煎餅のもち吉",
@@ -3670,6 +3682,16 @@ window.CAL_DATA = {
     "速報"
    ],
    "link": "entry144.html"
+  },
+  {
+   "date": "2026-11-18",
+   "genres": [
+    "総合"
+   ],
+   "shop": "大丸松坂屋公式",
+   "time": "10:00",
+   "tags": [],
+   "link": "entry134.html"
   },
   {
    "date": "2026-11-18",
@@ -3892,6 +3914,18 @@ window.CAL_DATA = {
    "link": "entry818.html"
   },
   {
+   "date": "2026-11-18",
+   "genres": [
+    "予告"
+   ],
+   "shop": "ビックカメラ公式",
+   "time": "",
+   "tags": [
+    "予告"
+   ],
+   "link": "entry151.html"
+  },
+  {
    "date": "2026-11-19",
    "genres": [
     "旅"
@@ -3900,6 +3934,18 @@ window.CAL_DATA = {
    "time": "10:00",
    "tags": [],
    "link": "entry208.html"
+  },
+  {
+   "date": "2026-11-19",
+   "genres": [
+    "その他"
+   ],
+   "shop": "ビックカメラ公式",
+   "time": "8:00",
+   "tags": [
+    "抽選"
+   ],
+   "link": "entry151.html"
   },
   {
    "date": "2026-11-19",
