@@ -1,6 +1,6 @@
 window.CAL_DATA = {
- "updated": "2026-11-18 20:10",
- "checked": "2026-11-18 20:10",
+ "updated": "2026-11-18 21:04",
+ "checked": "2026-11-18 21:04",
  "entries": [
   {
    "date": "2026-11-01",
@@ -3949,6 +3949,18 @@ window.CAL_DATA = {
    "link": "entry151.html"
   },
   {
+   "date": "2026-11-18",
+   "genres": [
+    "予告"
+   ],
+   "shop": "SAWADAマルシェamiamie",
+   "time": "",
+   "tags": [
+    "予告"
+   ],
+   "link": "entry422.html"
+  },
+  {
    "date": "2026-11-19",
    "genres": [
     "旅"
@@ -4414,6 +4426,16 @@ window.CAL_DATA = {
    "time": "",
    "tags": [],
    "link": "entry193.html"
+  },
+  {
+   "date": "2026-11-20",
+   "genres": [
+    "子供服"
+   ],
+   "shop": "SAWADAマルシェ",
+   "time": "12:00",
+   "tags": [],
+   "link": "entry422.html"
   },
   {
    "date": "2026-11-20",
