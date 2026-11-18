@@ -1,6 +1,6 @@
 window.CAL_DATA = {
- "updated": "2026-11-19 06:07",
- "checked": "2026-11-19 06:07",
+ "updated": "2026-11-19 06:56",
+ "checked": "2026-11-19 06:56",
  "entries": [
   {
    "date": "2026-11-01",
@@ -3985,6 +3985,26 @@ window.CAL_DATA = {
   {
    "date": "2026-11-19",
    "genres": [
+    "ファッション"
+   ],
+   "shop": "楽天 Lucky Bag Store",
+   "time": "10:00",
+   "tags": [],
+   "link": "entry62.html"
+  },
+  {
+   "date": "2026-11-19",
+   "genres": [
+    "ファッション"
+   ],
+   "shop": "パルクローゼット公式",
+   "time": "10:00",
+   "tags": [],
+   "link": "entry418.html"
+  },
+  {
+   "date": "2026-11-19",
+   "genres": [
     "スポーツ"
    ],
    "shop": "サンデーマウンテン",
@@ -4019,16 +4039,6 @@ window.CAL_DATA = {
    "genres": [
     "ファッション"
    ],
-   "shop": "楽天 Lucky Bag Store",
-   "time": "10:00",
-   "tags": [],
-   "link": "entry62.html"
-  },
-  {
-   "date": "2026-11-19",
-   "genres": [
-    "ファッション"
-   ],
    "shop": "ストライプクラブ",
    "time": "10:00",
    "tags": [],
@@ -4043,16 +4053,6 @@ window.CAL_DATA = {
    "time": "12:00",
    "tags": [],
    "link": "entry173.html"
-  },
-  {
-   "date": "2026-11-19",
-   "genres": [
-    "ファッション"
-   ],
-   "shop": "パルクローゼット公式",
-   "time": "10:00",
-   "tags": [],
-   "link": "entry418.html"
   },
   {
    "date": "2026-11-19",
@@ -4429,6 +4429,16 @@ window.CAL_DATA = {
   {
    "date": "2026-11-20",
    "genres": [
+    "レディース"
+   ],
+   "shop": "JR名古屋高島屋公式",
+   "time": "12:00",
+   "tags": [],
+   "link": "#4"
+  },
+  {
+   "date": "2026-11-20",
+   "genres": [
     "ファッション"
    ],
    "shop": "AZUL BY MOUSSY",
@@ -4675,6 +4685,16 @@ window.CAL_DATA = {
   {
    "date": "2026-11-25",
    "genres": [
+    "総合"
+   ],
+   "shop": "JR名古屋高島屋公式",
+   "time": "10:00",
+   "tags": [],
+   "link": "#4"
+  },
+  {
+   "date": "2026-11-25",
+   "genres": [
     "元金担保型"
    ],
    "shop": "モスバーガー",
@@ -4807,6 +4827,16 @@ window.CAL_DATA = {
    "time": "10:00",
    "tags": [],
    "link": "entry17.html"
+  },
+  {
+   "date": "2026-12-01",
+   "genres": [
+    "レディース"
+   ],
+   "shop": "JR名古屋高島屋公式",
+   "time": "10:00",
+   "tags": [],
+   "link": "#4"
   },
   {
    "date": "2026-12-01",
