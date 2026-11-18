@@ -1,6 +1,6 @@
 window.CAL_DATA = {
- "updated": "2026-11-19 06:56",
- "checked": "2026-11-19 06:56",
+ "updated": "2026-11-19 07:57",
+ "checked": "2026-11-19 07:57",
  "entries": [
   {
    "date": "2026-11-01",
@@ -4299,12 +4299,32 @@ window.CAL_DATA = {
   {
    "date": "2026-11-19",
    "genres": [
+    "趣味"
+   ],
+   "shop": "手芸の福袋一覧",
+   "time": "20:00",
+   "tags": [],
+   "link": "entry939.html"
+  },
+  {
+   "date": "2026-11-19",
+   "genres": [
     "コスメ"
    ],
    "shop": "ジュリーク楽天市場店",
    "time": "20:00",
    "tags": [],
    "link": "entry579.html"
+  },
+  {
+   "date": "2026-11-19",
+   "genres": [
+    "コスメ"
+   ],
+   "shop": "ELECTRON",
+   "time": "20:00",
+   "tags": [],
+   "link": "entry1051.html"
   },
   {
    "date": "2026-11-19",
