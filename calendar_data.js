@@ -1,6 +1,6 @@
 window.CAL_DATA = {
- "updated": "2026-11-18 14:31",
- "checked": "2026-11-18 14:31",
+ "updated": "2026-11-18 15:10",
+ "checked": "2026-11-18 15:10",
  "entries": [
   {
    "date": "2026-11-01",
@@ -3844,6 +3844,18 @@ window.CAL_DATA = {
    "link": "entry194.html"
   },
   {
+   "date": "2026-11-18",
+   "genres": [
+    "予告"
+   ],
+   "shop": "チロルチョコ公式",
+   "time": "",
+   "tags": [
+    "予告"
+   ],
+   "link": "entry1049.html"
+  },
+  {
    "date": "2026-11-19",
    "genres": [
     "旅"
@@ -4553,6 +4565,16 @@ window.CAL_DATA = {
    "time": "17:00",
    "tags": [],
    "link": "entry715.html"
+  },
+  {
+   "date": "2026-11-30",
+   "genres": [
+    "食品"
+   ],
+   "shop": "チロルチョコ公式",
+   "time": "12:00",
+   "tags": [],
+   "link": "entry1049.html"
   },
   {
    "date": "2026-12-01",
