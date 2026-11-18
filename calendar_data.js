@@ -1,6 +1,6 @@
 window.CAL_DATA = {
- "updated": "2026-11-18 08:50",
- "checked": "2026-11-18 08:54",
+ "updated": "2026-11-18 10:20",
+ "checked": "2026-11-18 10:20",
  "entries": [
   {
    "date": "2026-11-01",
@@ -3786,6 +3786,18 @@ window.CAL_DATA = {
    "link": "entry134.html"
   },
   {
+   "date": "2026-11-18",
+   "genres": [
+    "予告"
+   ],
+   "shop": "ストライプクラブ",
+   "time": "",
+   "tags": [
+    "予告"
+   ],
+   "link": "entry406.html"
+  },
+  {
    "date": "2026-11-19",
    "genres": [
     "旅"
@@ -3846,6 +3858,16 @@ window.CAL_DATA = {
    "time": "12:00",
    "tags": [],
    "link": "entry194.html"
+  },
+  {
+   "date": "2026-11-19",
+   "genres": [
+    "ファッション"
+   ],
+   "shop": "ストライプクラブ",
+   "time": "10:00",
+   "tags": [],
+   "link": "entry406.html"
   },
   {
    "date": "2026-11-19",
