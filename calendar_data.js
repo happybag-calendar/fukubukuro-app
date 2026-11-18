@@ -1,6 +1,6 @@
 window.CAL_DATA = {
- "updated": "2026-11-18 10:20",
- "checked": "2026-11-18 10:20",
+ "updated": "2026-11-18 11:56",
+ "checked": "2026-11-18 11:56",
  "entries": [
   {
    "date": "2026-11-01",
@@ -3798,6 +3798,18 @@ window.CAL_DATA = {
    "link": "entry406.html"
   },
   {
+   "date": "2026-11-18",
+   "genres": [
+    "予告"
+   ],
+   "shop": "フレッシュネスバーガー",
+   "time": "",
+   "tags": [
+    "予告"
+   ],
+   "link": "entry875.html"
+  },
+  {
    "date": "2026-11-19",
    "genres": [
     "旅"
@@ -4031,6 +4043,18 @@ window.CAL_DATA = {
    "genres": [
     "食品"
    ],
+   "shop": "あられお煎餅のもち吉",
+   "time": "20:00",
+   "tags": [
+    "人気"
+   ],
+   "link": "entry603.html"
+  },
+  {
+   "date": "2026-11-19",
+   "genres": [
+    "食品"
+   ],
    "shop": "おいもや公式",
    "time": "20:00",
    "tags": [],
@@ -4154,7 +4178,7 @@ window.CAL_DATA = {
     "ファッション"
    ],
    "shop": "楽天 Lucky Bag Store",
-   "time": "12:00",
+   "time": "0:00",
    "tags": [],
    "link": "entry62.html"
   },
@@ -4413,6 +4437,16 @@ window.CAL_DATA = {
    "time": "",
    "tags": [],
    "link": "entry13.html"
+  },
+  {
+   "date": "2026-11-25",
+   "genres": [
+    "カフェ"
+   ],
+   "shop": "フレッシュネスバーガー",
+   "time": "",
+   "tags": [],
+   "link": "entry875.html"
   },
   {
    "date": "2026-11-25",
