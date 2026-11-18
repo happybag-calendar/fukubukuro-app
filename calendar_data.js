@@ -1,6 +1,6 @@
 window.CAL_DATA = {
- "updated": "2026-11-18 21:04",
- "checked": "2026-11-19 05:03",
+ "updated": "2026-11-19 05:58",
+ "checked": "2026-11-19 05:58",
  "entries": [
   {
    "date": "2026-11-01",
@@ -4166,6 +4166,16 @@ window.CAL_DATA = {
    "genres": [
     "食品"
    ],
+   "shop": "伊藤ハムグループ・感動を創る米久",
+   "time": "20:00",
+   "tags": [],
+   "link": "entry815.html"
+  },
+  {
+   "date": "2026-11-19",
+   "genres": [
+    "食品"
+   ],
    "shop": "北海道産直グルメ ぼーの",
    "time": "20:00",
    "tags": [],
@@ -4228,6 +4238,26 @@ window.CAL_DATA = {
   {
    "date": "2026-11-19",
    "genres": [
+    "食品"
+   ],
+   "shop": "畜産の街　都城市",
+   "time": "20:00",
+   "tags": [],
+   "link": "entry1003.html"
+  },
+  {
+   "date": "2026-11-19",
+   "genres": [
+    "食品"
+   ],
+   "shop": "ちこり村公式",
+   "time": "20:00",
+   "tags": [],
+   "link": "entry849.html"
+  },
+  {
+   "date": "2026-11-19",
+   "genres": [
     "日用品"
    ],
    "shop": "隠れ工房GreenOcean",
@@ -4244,6 +4274,27 @@ window.CAL_DATA = {
    "time": "20:00",
    "tags": [],
    "link": "entry529.html"
+  },
+  {
+   "date": "2026-11-19",
+   "genres": [
+    "ファッション",
+    "小売店"
+   ],
+   "shop": "AVIREX福袋",
+   "time": "10:00",
+   "tags": [],
+   "link": "entry632.html"
+  },
+  {
+   "date": "2026-11-19",
+   "genres": [
+    "子供服"
+   ],
+   "shop": "子供服チェーンのピカデリーサーカス",
+   "time": "20:00",
+   "tags": [],
+   "link": "entry701.html"
   },
   {
    "date": "2026-11-19",
