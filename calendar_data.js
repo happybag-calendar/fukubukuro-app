@@ -1,6 +1,6 @@
 window.CAL_DATA = {
- "updated": "2026-11-18 12:59",
- "checked": "2026-11-18 12:59",
+ "updated": "2026-11-18 14:06",
+ "checked": "2026-11-18 14:06",
  "entries": [
   {
    "date": "2026-11-01",
@@ -3456,18 +3456,6 @@ window.CAL_DATA = {
    "genres": [
     "予告"
    ],
-   "shop": "ZOZOTOWN公式",
-   "time": "",
-   "tags": [
-    "予告"
-   ],
-   "link": "entry194.html"
-  },
-  {
-   "date": "2026-11-16",
-   "genres": [
-    "予告"
-   ],
    "shop": "ナルミヤ公式楽天市場店",
    "time": "",
    "tags": [
@@ -3832,6 +3820,18 @@ window.CAL_DATA = {
    "link": "entry749.html"
   },
   {
+   "date": "2026-11-18",
+   "genres": [
+    "予告"
+   ],
+   "shop": "ZOZOTOWN公式",
+   "time": "",
+   "tags": [
+    "予告"
+   ],
+   "link": "entry194.html"
+  },
+  {
    "date": "2026-11-19",
    "genres": [
     "旅"
@@ -3882,16 +3882,6 @@ window.CAL_DATA = {
    "time": "10:00",
    "tags": [],
    "link": "entry62.html"
-  },
-  {
-   "date": "2026-11-19",
-   "genres": [
-    "ファッション"
-   ],
-   "shop": "ZOZOTOWN公式",
-   "time": "12:00",
-   "tags": [],
-   "link": "entry194.html"
   },
   {
    "date": "2026-11-19",
@@ -4203,6 +4193,16 @@ window.CAL_DATA = {
    "time": "0:00",
    "tags": [],
    "link": "entry62.html"
+  },
+  {
+   "date": "2026-11-20",
+   "genres": [
+    "ファッション"
+   ],
+   "shop": "ZOZOTOWN公式",
+   "time": "12:00",
+   "tags": [],
+   "link": "entry194.html"
   },
   {
    "date": "2026-11-20",
