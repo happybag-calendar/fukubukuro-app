@@ -1,6 +1,6 @@
 window.CAL_DATA = {
- "updated": "2026-11-18 11:56",
- "checked": "2026-11-18 11:56",
+ "updated": "2026-11-18 12:59",
+ "checked": "2026-11-18 12:59",
  "entries": [
   {
    "date": "2026-11-01",
@@ -3758,6 +3758,16 @@ window.CAL_DATA = {
   {
    "date": "2026-11-18",
    "genres": [
+    "キッチン"
+   ],
+   "shop": "和食器のたち吉公式",
+   "time": "12:00",
+   "tags": [],
+   "link": "entry574.html"
+  },
+  {
+   "date": "2026-11-18",
+   "genres": [
     "レディース"
    ],
    "shop": "マルイ公式通販",
@@ -3808,6 +3818,18 @@ window.CAL_DATA = {
     "予告"
    ],
    "link": "entry875.html"
+  },
+  {
+   "date": "2026-11-18",
+   "genres": [
+    "予告"
+   ],
+   "shop": "バス・トイレ用品のセンコー",
+   "time": "",
+   "tags": [
+    "予告"
+   ],
+   "link": "entry749.html"
   },
   {
    "date": "2026-11-19",
@@ -4279,8 +4301,18 @@ window.CAL_DATA = {
    "genres": [
     "食品"
    ],
+   "shop": "リンツチョコレート",
+   "time": "0:00",
+   "tags": [],
+   "link": "entry678.html"
+  },
+  {
+   "date": "2026-11-20",
+   "genres": [
+    "食品"
+   ],
    "shop": "久世福商店公式通販",
-   "time": "",
+   "time": "9:00",
    "tags": [],
    "link": "entry581.html"
   },
@@ -4559,6 +4591,16 @@ window.CAL_DATA = {
    "time": "",
    "tags": [],
    "link": "entry849.html"
+  },
+  {
+   "date": "2026-12-01",
+   "genres": [
+    "雑貨"
+   ],
+   "shop": "バス・トイレ用品センコーのB.L・Style",
+   "time": "0:00",
+   "tags": [],
+   "link": "entry749.html"
   },
   {
    "date": "2026-12-01",
