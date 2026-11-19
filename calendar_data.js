@@ -1,6 +1,6 @@
 window.CAL_DATA = {
- "updated": "2026-11-19 13:01",
- "checked": "2026-11-19 14:11",
+ "updated": "2026-11-19 15:09",
+ "checked": "2026-11-19 15:09",
  "entries": [
   {
    "date": "2026-11-01",
@@ -3979,6 +3979,18 @@ window.CAL_DATA = {
    "time": "10:00",
    "tags": [],
    "link": "entry208.html"
+  },
+  {
+   "date": "2026-11-19",
+   "genres": [
+    "総合"
+   ],
+   "shop": "スーパーチェーンのBeisia",
+   "time": "20:00",
+   "tags": [
+    "速報"
+   ],
+   "link": "entry211.html"
   },
   {
    "date": "2026-11-19",
