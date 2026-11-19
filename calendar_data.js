@@ -1,6 +1,6 @@
 window.CAL_DATA = {
- "updated": "2026-11-20 00:00",
- "checked": "2026-11-20 00:00",
+ "updated": "2026-11-20 01:05",
+ "checked": "2026-11-20 01:05",
  "entries": [
   {
    "date": "2026-11-01",
@@ -4603,20 +4603,30 @@ window.CAL_DATA = {
    "genres": [
     "ファッション"
    ],
-   "shop": "ZOZOTOWN公式",
-   "time": "12:00",
+   "shop": "ジェラートピケ",
+   "time": "",
    "tags": [],
-   "link": "entry194.html"
+   "link": "entry27.html"
   },
   {
    "date": "2026-11-20",
    "genres": [
     "ファッション"
    ],
-   "shop": "三井ショッピングパーク",
+   "shop": "スナイデルHOME",
+   "time": "",
+   "tags": [],
+   "link": "entry942.html"
+  },
+  {
+   "date": "2026-11-20",
+   "genres": [
+    "ファッション"
+   ],
+   "shop": "ZOZOTOWN公式",
    "time": "12:00",
    "tags": [],
-   "link": "entry456.html"
+   "link": "entry194.html"
   },
   {
    "date": "2026-11-20",
@@ -4643,6 +4653,16 @@ window.CAL_DATA = {
    "genres": [
     "ファッション"
    ],
+   "shop": "三井ショッピングパーク",
+   "time": "12:00",
+   "tags": [],
+   "link": "entry456.html"
+  },
+  {
+   "date": "2026-11-20",
+   "genres": [
+    "ファッション"
+   ],
    "shop": "AZUL BY MOUSSY",
    "time": "12:00",
    "tags": [],
@@ -4657,6 +4677,26 @@ window.CAL_DATA = {
    "time": "12:00",
    "tags": [],
    "link": "entry528.html"
+  },
+  {
+   "date": "2026-11-20",
+   "genres": [
+    "ファッション"
+   ],
+   "shop": "ファッションウォーカー",
+   "time": "0:00",
+   "tags": [],
+   "link": "entry47.html"
+  },
+  {
+   "date": "2026-11-20",
+   "genres": [
+    "ファッション"
+   ],
+   "shop": "マガシーク",
+   "time": "0:00",
+   "tags": [],
+   "link": "entry49.html"
   },
   {
    "date": "2026-11-20",
