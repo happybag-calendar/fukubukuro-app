@@ -1,6 +1,6 @@
 window.CAL_DATA = {
- "updated": "2026-11-19 10:21",
- "checked": "2026-11-19 10:21",
+ "updated": "2026-11-19 11:57",
+ "checked": "2026-11-19 11:57",
  "entries": [
   {
    "date": "2026-11-01",
@@ -3985,6 +3985,18 @@ window.CAL_DATA = {
    "genres": [
     "食品"
    ],
+   "shop": "京王百貨店公式",
+   "time": "",
+   "tags": [
+    "速報"
+   ],
+   "link": "entry39.html"
+  },
+  {
+   "date": "2026-11-19",
+   "genres": [
+    "食品"
+   ],
    "shop": "パクとモグ公式",
    "time": "",
    "tags": [
@@ -4069,16 +4081,6 @@ window.CAL_DATA = {
   {
    "date": "2026-11-19",
    "genres": [
-    "玩具"
-   ],
-   "shop": "トイザらス・ベビーザらス",
-   "time": "12:00",
-   "tags": [],
-   "link": "entry173.html"
-  },
-  {
-   "date": "2026-11-19",
-   "genres": [
     "総合"
    ],
    "shop": "三越伊勢丹百貨店",
@@ -4105,6 +4107,16 @@ window.CAL_DATA = {
    "time": "",
    "tags": [],
    "link": "entry409.html"
+  },
+  {
+   "date": "2026-11-19",
+   "genres": [
+    "玩具"
+   ],
+   "shop": "トイザらス・ベビーザらス",
+   "time": "12:00",
+   "tags": [],
+   "link": "entry173.html"
   },
   {
    "date": "2026-11-19",
@@ -4437,6 +4449,18 @@ window.CAL_DATA = {
    "time": "",
    "tags": [],
    "link": "entry498.html"
+  },
+  {
+   "date": "2026-11-19",
+   "genres": [
+    "食品"
+   ],
+   "shop": "タイカレーでおなじみのヤマモリ公式",
+   "time": "18:00",
+   "tags": [
+    "速報"
+   ],
+   "link": "entry836.html"
   },
   {
    "date": "2026-11-19",
@@ -4812,6 +4836,16 @@ window.CAL_DATA = {
   {
    "date": "2026-11-25",
    "genres": [
+    "アプリ"
+   ],
+   "shop": "クリスピー・クリーム・ドーナツ",
+   "time": "",
+   "tags": [],
+   "link": "#4"
+  },
+  {
+   "date": "2026-11-25",
+   "genres": [
     "元金担保型",
     "店舗"
    ],
@@ -4859,6 +4893,16 @@ window.CAL_DATA = {
    "time": "17:00",
    "tags": [],
    "link": "entry715.html"
+  },
+  {
+   "date": "2026-11-26",
+   "genres": [
+    "ラーメン"
+   ],
+   "shop": "スガキヤ",
+   "time": "",
+   "tags": [],
+   "link": "entry608.html"
   },
   {
    "date": "2026-11-30",
@@ -4988,6 +5032,16 @@ window.CAL_DATA = {
     "カフェ"
    ],
    "shop": "ヴィ・ド・フランス（VIE DE FRANCE）",
+   "time": "",
+   "tags": [],
+   "link": "#4"
+  },
+  {
+   "date": "2026-12-01",
+   "genres": [
+    "寿司"
+   ],
+   "shop": "銚子丸公式",
    "time": "",
    "tags": [],
    "link": "#4"
