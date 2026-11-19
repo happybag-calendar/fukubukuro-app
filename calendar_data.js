@@ -1,6 +1,6 @@
 window.CAL_DATA = {
- "updated": "2026-11-19 11:57",
- "checked": "2026-11-19 11:57",
+ "updated": "2026-11-19 13:01",
+ "checked": "2026-11-19 13:01",
  "entries": [
   {
    "date": "2026-11-01",
@@ -4473,6 +4473,18 @@ window.CAL_DATA = {
    "link": "entry194.html"
   },
   {
+   "date": "2026-11-19",
+   "genres": [
+    "予告"
+   ],
+   "shop": "ロゴス公式",
+   "time": "",
+   "tags": [
+    "予告"
+   ],
+   "link": "entry741.html"
+  },
+  {
    "date": "2026-11-20",
    "genres": [
     "ファッション"
@@ -5108,6 +5120,16 @@ window.CAL_DATA = {
    "time": "",
    "tags": [],
    "link": "entry812.html"
+  },
+  {
+   "date": "2026-12-03",
+   "genres": [
+    "スポーツ"
+   ],
+   "shop": "ロゴス公式",
+   "time": "",
+   "tags": [],
+   "link": "entry741.html"
   },
   {
    "date": "2026-12-03",
