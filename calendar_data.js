@@ -1,6 +1,6 @@
 window.CAL_DATA = {
- "updated": "2026-11-19 15:09",
- "checked": "2026-11-19 15:09",
+ "updated": "2026-11-19 16:22",
+ "checked": "2026-11-19 16:22",
  "entries": [
   {
    "date": "2026-11-01",
@@ -3985,12 +3985,24 @@ window.CAL_DATA = {
    "genres": [
     "総合"
    ],
-   "shop": "スーパーチェーンのBeisia",
+   "shop": "スーパーBeisia",
    "time": "20:00",
    "tags": [
     "速報"
    ],
    "link": "entry211.html"
+  },
+  {
+   "date": "2026-11-19",
+   "genres": [
+    "食品"
+   ],
+   "shop": "大丸松坂屋公式",
+   "time": "",
+   "tags": [
+    "速報"
+   ],
+   "link": "entry134.html"
   },
   {
    "date": "2026-11-19",
@@ -4099,16 +4111,6 @@ window.CAL_DATA = {
    "time": "",
    "tags": [],
    "link": "entry619.html"
-  },
-  {
-   "date": "2026-11-19",
-   "genres": [
-    "総合"
-   ],
-   "shop": "大丸松坂屋公式",
-   "time": "",
-   "tags": [],
-   "link": "#4"
   },
   {
    "date": "2026-11-19",
@@ -4497,6 +4499,42 @@ window.CAL_DATA = {
    "link": "entry741.html"
   },
   {
+   "date": "2026-11-19",
+   "genres": [
+    "予告"
+   ],
+   "shop": "ゼッテリア（旧ロッテリア）",
+   "time": "",
+   "tags": [
+    "予告"
+   ],
+   "link": "entry595.html"
+  },
+  {
+   "date": "2026-11-19",
+   "genres": [
+    "予告"
+   ],
+   "shop": "石井食品公式",
+   "time": "",
+   "tags": [
+    "予告"
+   ],
+   "link": "entry873.html"
+  },
+  {
+   "date": "2026-11-19",
+   "genres": [
+    "予告"
+   ],
+   "shop": "八天堂公式",
+   "time": "",
+   "tags": [
+    "予告"
+   ],
+   "link": "entry710.html"
+  },
+  {
    "date": "2026-11-20",
    "genres": [
     "ファッション"
@@ -4781,6 +4819,17 @@ window.CAL_DATA = {
    "time": "0:00",
    "tags": [],
    "link": "entry1039.html"
+  },
+  {
+   "date": "2026-11-23",
+   "genres": [
+    "元金担保型",
+    "店舗"
+   ],
+   "shop": "ゼッテリア",
+   "time": "",
+   "tags": [],
+   "link": "entry595.html"
   },
   {
    "date": "2026-11-24",
