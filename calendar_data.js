@@ -1,6 +1,6 @@
 window.CAL_DATA = {
- "updated": "2026-11-19 20:08",
- "checked": "2026-11-19 20:08",
+ "updated": "2026-11-19 21:03",
+ "checked": "2026-11-19 21:03",
  "entries": [
   {
    "date": "2026-11-01",
@@ -4689,6 +4689,16 @@ window.CAL_DATA = {
    "time": "11:00",
    "tags": [],
    "link": "entry244.html"
+  },
+  {
+   "date": "2026-11-20",
+   "genres": [
+    "ファッション"
+   ],
+   "shop": "アーノルドパーマー公式",
+   "time": "12:00",
+   "tags": [],
+   "link": "entry131.html"
   },
   {
    "date": "2026-11-20",
