@@ -1,6 +1,6 @@
 window.CAL_DATA = {
- "updated": "2026-11-19 21:03",
- "checked": "2026-11-19 21:03",
+ "updated": "2026-11-19 22:22",
+ "checked": "2026-11-19 22:22",
  "entries": [
   {
    "date": "2026-11-01",
@@ -4579,6 +4579,28 @@ window.CAL_DATA = {
    "link": "entry244.html"
   },
   {
+   "date": "2026-11-19",
+   "genres": [
+    "予告"
+   ],
+   "shop": "サイボク 牧場産直 豚肉ハム専門店",
+   "time": "",
+   "tags": [
+    "予告"
+   ],
+   "link": "entry647.html"
+  },
+  {
+   "date": "2026-11-20",
+   "genres": [
+    "食品"
+   ],
+   "shop": "リンツチョコレート",
+   "time": "0:00",
+   "tags": [],
+   "link": "entry678.html"
+  },
+  {
    "date": "2026-11-20",
    "genres": [
     "ファッション"
@@ -4651,6 +4673,16 @@ window.CAL_DATA = {
   {
    "date": "2026-11-20",
    "genres": [
+    "百貨店"
+   ],
+   "shop": "松屋銀座百貨店",
+   "time": "11:00",
+   "tags": [],
+   "link": "entry695.html"
+  },
+  {
+   "date": "2026-11-20",
+   "genres": [
     "コスメ"
    ],
    "shop": "アットコスメ公式通販",
@@ -4661,12 +4693,22 @@ window.CAL_DATA = {
   {
    "date": "2026-11-20",
    "genres": [
-    "百貨店"
+    "食品"
    ],
-   "shop": "松屋銀座百貨店",
-   "time": "11:00",
+   "shop": "サイボク 牧場産直 豚肉ハム専門店",
+   "time": "10:00",
    "tags": [],
-   "link": "entry695.html"
+   "link": "entry647.html"
+  },
+  {
+   "date": "2026-11-20",
+   "genres": [
+    "食品"
+   ],
+   "shop": "シュクレイ公式",
+   "time": "8:00",
+   "tags": [],
+   "link": "entry886.html"
   },
   {
    "date": "2026-11-20",
@@ -4719,26 +4761,6 @@ window.CAL_DATA = {
    "time": "12:00",
    "tags": [],
    "link": "entry422.html"
-  },
-  {
-   "date": "2026-11-20",
-   "genres": [
-    "食品"
-   ],
-   "shop": "シュクレイ公式",
-   "time": "8:00",
-   "tags": [],
-   "link": "entry886.html"
-  },
-  {
-   "date": "2026-11-20",
-   "genres": [
-    "食品"
-   ],
-   "shop": "リンツチョコレート",
-   "time": "0:00",
-   "tags": [],
-   "link": "entry678.html"
   },
   {
    "date": "2026-11-20",
@@ -4904,6 +4926,16 @@ window.CAL_DATA = {
    "time": "",
    "tags": [],
    "link": "entry409.html"
+  },
+  {
+   "date": "2026-11-25",
+   "genres": [
+    "ファッション"
+   ],
+   "shop": "楽天 Lucky Bag Store",
+   "time": "10:00",
+   "tags": [],
+   "link": "entry62.html"
   },
   {
    "date": "2026-11-25",
