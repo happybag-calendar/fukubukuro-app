@@ -1,6 +1,6 @@
 window.CAL_DATA = {
- "updated": "2026-11-19 22:22",
- "checked": "2026-11-19 22:22",
+ "updated": "2026-11-20 00:00",
+ "checked": "2026-11-20 00:00",
  "entries": [
   {
    "date": "2026-11-01",
@@ -4495,18 +4495,6 @@ window.CAL_DATA = {
    "time": "",
    "tags": [],
    "link": "entry498.html"
-  },
-  {
-   "date": "2026-11-19",
-   "genres": [
-    "食品"
-   ],
-   "shop": "タイカレーでおなじみのヤマモリ公式",
-   "time": "18:00",
-   "tags": [
-    "速報"
-   ],
-   "link": "entry836.html"
   },
   {
    "date": "2026-11-19",
