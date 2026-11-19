@@ -1,6 +1,6 @@
 window.CAL_DATA = {
- "updated": "2026-11-19 17:52",
- "checked": "2026-11-19 18:10",
+ "updated": "2026-11-19 18:57",
+ "checked": "2026-11-19 18:57",
  "entries": [
   {
    "date": "2026-11-01",
@@ -3983,6 +3983,18 @@ window.CAL_DATA = {
   {
    "date": "2026-11-19",
    "genres": [
+    "雑貨"
+   ],
+   "shop": "KINGJIM公式通販",
+   "time": "18:00",
+   "tags": [
+    "速報"
+   ],
+   "link": "entry830.html"
+  },
+  {
+   "date": "2026-11-19",
+   "genres": [
     "総合"
    ],
    "shop": "スーパーBeisia",
@@ -4108,7 +4120,7 @@ window.CAL_DATA = {
     "総合"
    ],
    "shop": "三越伊勢丹百貨店",
-   "time": "",
+   "time": "10:00",
    "tags": [],
    "link": "entry619.html"
   },
@@ -4118,7 +4130,7 @@ window.CAL_DATA = {
     "百貨店"
    ],
    "shop": "東武百貨店公式",
-   "time": "",
+   "time": "10:00",
    "tags": [],
    "link": "entry409.html"
   },
