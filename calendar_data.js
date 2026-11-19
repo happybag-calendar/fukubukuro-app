@@ -1,6 +1,6 @@
 window.CAL_DATA = {
- "updated": "2026-11-19 16:22",
- "checked": "2026-11-19 16:22",
+ "updated": "2026-11-19 16:56",
+ "checked": "2026-11-19 16:56",
  "entries": [
   {
    "date": "2026-11-01",
@@ -4224,6 +4224,16 @@ window.CAL_DATA = {
    "genres": [
     "食品"
    ],
+   "shop": "松屋グループ",
+   "time": "20:00",
+   "tags": [],
+   "link": "entry31.html"
+  },
+  {
+   "date": "2026-11-19",
+   "genres": [
+    "食品"
+   ],
    "shop": "昆布の不二食品公式",
    "time": "18:00",
    "tags": [],
@@ -4328,6 +4338,16 @@ window.CAL_DATA = {
    "genres": [
     "日用品"
    ],
+   "shop": "歯科医院専売品のデンタルフィット",
+   "time": "20:00",
+   "tags": [],
+   "link": "entry911.html"
+  },
+  {
+   "date": "2026-11-19",
+   "genres": [
+    "日用品"
+   ],
    "shop": "隠れ工房GreenOcean",
    "time": "11:11",
    "tags": [],
@@ -4342,6 +4362,16 @@ window.CAL_DATA = {
    "time": "20:00",
    "tags": [],
    "link": "entry529.html"
+  },
+  {
+   "date": "2026-11-19",
+   "genres": [
+    "下着"
+   ],
+   "shop": "SHIROHATO",
+   "time": "20:00",
+   "tags": [],
+   "link": "entry300.html"
   },
   {
    "date": "2026-11-19",
