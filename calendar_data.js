@@ -1,6 +1,6 @@
 window.CAL_DATA = {
- "updated": "2026-11-20 01:05",
- "checked": "2026-11-20 05:58",
+ "updated": "2026-11-20 06:56",
+ "checked": "2026-11-20 06:56",
  "entries": [
   {
    "date": "2026-11-01",
@@ -4461,6 +4461,16 @@ window.CAL_DATA = {
    "genres": [
     "コスメ"
    ],
+   "shop": "スチームクリーム",
+   "time": "20:00",
+   "tags": [],
+   "link": "entry475.html"
+  },
+  {
+   "date": "2026-11-19",
+   "genres": [
+    "コスメ"
+   ],
    "shop": "VTコスメ公式",
    "time": "20:00",
    "tags": [],
@@ -4759,6 +4769,16 @@ window.CAL_DATA = {
    "time": "11:00",
    "tags": [],
    "link": "entry244.html"
+  },
+  {
+   "date": "2026-11-20",
+   "genres": [
+    "レディース"
+   ],
+   "shop": "ダークエンジェル",
+   "time": "",
+   "tags": [],
+   "link": "entry68.html"
   },
   {
    "date": "2026-11-20",
