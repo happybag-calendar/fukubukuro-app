@@ -1,6 +1,6 @@
 window.CAL_DATA = {
- "updated": "2026-11-19 10:17",
- "checked": "2026-11-19 10:17",
+ "updated": "2026-11-19 10:21",
+ "checked": "2026-11-19 10:21",
  "entries": [
   {
    "date": "2026-11-01",
@@ -3979,6 +3979,18 @@ window.CAL_DATA = {
    "time": "10:00",
    "tags": [],
    "link": "entry208.html"
+  },
+  {
+   "date": "2026-11-19",
+   "genres": [
+    "食品"
+   ],
+   "shop": "パクとモグ公式",
+   "time": "",
+   "tags": [
+    "速報"
+   ],
+   "link": "entry879.html"
   },
   {
    "date": "2026-11-19",
