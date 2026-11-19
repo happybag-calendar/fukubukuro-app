@@ -1,6 +1,6 @@
 window.CAL_DATA = {
- "updated": "2026-11-20 06:56",
- "checked": "2026-11-20 06:56",
+ "updated": "2026-11-20 07:54",
+ "checked": "2026-11-20 07:54",
  "entries": [
   {
    "date": "2026-11-01",
@@ -4591,12 +4591,22 @@ window.CAL_DATA = {
   {
    "date": "2026-11-20",
    "genres": [
-    "食品"
+    "ファッション"
    ],
-   "shop": "リンツチョコレート",
-   "time": "0:00",
+   "shop": "ジェラートピケ",
+   "time": "12:00",
    "tags": [],
-   "link": "entry678.html"
+   "link": "entry27.html"
+  },
+  {
+   "date": "2026-11-20",
+   "genres": [
+    "ファッション"
+   ],
+   "shop": "スナイデルHOME",
+   "time": "12:00",
+   "tags": [],
+   "link": "entry942.html"
   },
   {
    "date": "2026-11-20",
@@ -4613,20 +4623,10 @@ window.CAL_DATA = {
    "genres": [
     "ファッション"
    ],
-   "shop": "ジェラートピケ",
-   "time": "",
+   "shop": "ルミネ公式通販",
+   "time": "12:00",
    "tags": [],
-   "link": "entry27.html"
-  },
-  {
-   "date": "2026-11-20",
-   "genres": [
-    "ファッション"
-   ],
-   "shop": "スナイデルHOME",
-   "time": "",
-   "tags": [],
-   "link": "entry942.html"
+   "link": "entry18.html"
   },
   {
    "date": "2026-11-20",
@@ -4644,7 +4644,7 @@ window.CAL_DATA = {
     "総合"
    ],
    "shop": "大丸松坂屋百貨店",
-   "time": "",
+   "time": "10:00",
    "tags": [],
    "link": "entry134.html"
   },
@@ -4733,6 +4733,16 @@ window.CAL_DATA = {
    "genres": [
     "食品"
    ],
+   "shop": "久世福商店公式通販",
+   "time": "9:00",
+   "tags": [],
+   "link": "entry581.html"
+  },
+  {
+   "date": "2026-11-20",
+   "genres": [
+    "食品"
+   ],
    "shop": "サイボク 牧場産直 豚肉ハム専門店",
    "time": "10:00",
    "tags": [],
@@ -4747,6 +4757,16 @@ window.CAL_DATA = {
    "time": "8:00",
    "tags": [],
    "link": "entry886.html"
+  },
+  {
+   "date": "2026-11-20",
+   "genres": [
+    "食品"
+   ],
+   "shop": "リンツチョコレート",
+   "time": "0:00",
+   "tags": [],
+   "link": "entry678.html"
   },
   {
    "date": "2026-11-20",
@@ -4809,16 +4829,6 @@ window.CAL_DATA = {
    "time": "12:00",
    "tags": [],
    "link": "entry422.html"
-  },
-  {
-   "date": "2026-11-20",
-   "genres": [
-    "食品"
-   ],
-   "shop": "久世福商店公式通販",
-   "time": "9:00",
-   "tags": [],
-   "link": "entry581.html"
   },
   {
    "date": "2026-11-20",
@@ -5375,6 +5385,16 @@ window.CAL_DATA = {
    "time": "10:00",
    "tags": [],
    "link": "entry556.html"
+  },
+  {
+   "date": "2026-12-04",
+   "genres": [
+    "着物"
+   ],
+   "shop": "utatane公式通販",
+   "time": "20:00",
+   "tags": [],
+   "link": "entry539.html"
   },
   {
    "date": "2026-12-06",
