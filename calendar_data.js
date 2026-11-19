@@ -1,6 +1,6 @@
 window.CAL_DATA = {
- "updated": "2026-11-19 18:57",
- "checked": "2026-11-19 19:13",
+ "updated": "2026-11-19 20:08",
+ "checked": "2026-11-19 20:08",
  "entries": [
   {
    "date": "2026-11-01",
@@ -3969,16 +3969,6 @@ window.CAL_DATA = {
     "予告"
    ],
    "link": "entry422.html"
-  },
-  {
-   "date": "2026-11-19",
-   "genres": [
-    "旅"
-   ],
-   "shop": "楽天トラベル",
-   "time": "10:00",
-   "tags": [],
-   "link": "entry208.html"
   },
   {
    "date": "2026-11-19",
