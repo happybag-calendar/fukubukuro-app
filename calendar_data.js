@@ -1,6 +1,6 @@
 window.CAL_DATA = {
- "updated": "2026-11-19 08:55",
- "checked": "2026-11-19 08:55",
+ "updated": "2026-11-19 10:17",
+ "checked": "2026-11-19 10:17",
  "entries": [
   {
    "date": "2026-11-01",
@@ -3805,6 +3805,16 @@ window.CAL_DATA = {
   {
    "date": "2026-11-18",
    "genres": [
+    "レディース"
+   ],
+   "shop": "ダークエンジェル",
+   "time": "20:00",
+   "tags": [],
+   "link": "entry68.html"
+  },
+  {
+   "date": "2026-11-18",
+   "genres": [
     "ファッション"
    ],
    "shop": "アンドST公式",
@@ -4063,6 +4073,16 @@ window.CAL_DATA = {
    "time": "",
    "tags": [],
    "link": "entry619.html"
+  },
+  {
+   "date": "2026-11-19",
+   "genres": [
+    "総合"
+   ],
+   "shop": "大丸松坂屋公式",
+   "time": "",
+   "tags": [],
+   "link": "#4"
   },
   {
    "date": "2026-11-19",
