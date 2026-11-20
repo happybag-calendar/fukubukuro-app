@@ -1,6 +1,6 @@
 window.CAL_DATA = {
- "updated": "2026-11-21 05:05",
- "checked": "2026-11-21 05:05",
+ "updated": "2026-11-21 05:56",
+ "checked": "2026-11-21 05:56",
  "entries": [
   {
    "date": "2026-11-01",
@@ -1385,6 +1385,16 @@ window.CAL_DATA = {
    "time": "",
    "tags": [],
    "link": "entry134.html"
+  },
+  {
+   "date": "2026-11-06",
+   "genres": [
+    "レディース"
+   ],
+   "shop": "グレディブリリアン",
+   "time": "",
+   "tags": [],
+   "link": "entry910.html"
   },
   {
    "date": "2026-11-06",
@@ -5192,6 +5202,18 @@ window.CAL_DATA = {
   {
    "date": "2026-11-21",
    "genres": [
+    "スポーツ"
+   ],
+   "shop": "ATHLETA公式通販",
+   "time": "0:00",
+   "tags": [
+    "速報"
+   ],
+   "link": "entry269.html"
+  },
+  {
+   "date": "2026-11-21",
+   "genres": [
     "総合"
    ],
    "shop": "東急百貨店公式",
@@ -5228,6 +5250,16 @@ window.CAL_DATA = {
    "time": "12:00",
    "tags": [],
    "link": "entry798.html"
+  },
+  {
+   "date": "2026-11-21",
+   "genres": [
+    "故郷"
+   ],
+   "shop": "ふるさと納税で福袋",
+   "time": "",
+   "tags": [],
+   "link": "entry521.html"
   },
   {
    "date": "2026-11-21",
@@ -5335,6 +5367,16 @@ window.CAL_DATA = {
    "time": "10:00",
    "tags": [],
    "link": "#4"
+  },
+  {
+   "date": "2026-11-25",
+   "genres": [
+    "寝具"
+   ],
+   "shop": "布団のタナカじぶんまくら",
+   "time": "0:00",
+   "tags": [],
+   "link": "entry864.html"
   },
   {
    "date": "2026-11-25",
