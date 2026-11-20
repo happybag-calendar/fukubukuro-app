@@ -1,6 +1,6 @@
 window.CAL_DATA = {
- "updated": "2026-11-20 15:28",
- "checked": "2026-11-20 16:23",
+ "updated": "2026-11-20 18:09",
+ "checked": "2026-11-20 18:09",
  "entries": [
   {
    "date": "2026-11-01",
@@ -4591,6 +4591,16 @@ window.CAL_DATA = {
   {
    "date": "2026-11-20",
    "genres": [
+    "食品"
+   ],
+   "shop": "リンツチョコレート",
+   "time": "20:00",
+   "tags": [],
+   "link": "entry678.html"
+  },
+  {
+   "date": "2026-11-20",
+   "genres": [
     "レディース"
    ],
    "shop": "axes femme公式",
@@ -4859,16 +4869,6 @@ window.CAL_DATA = {
   {
    "date": "2026-11-20",
    "genres": [
-    "食品"
-   ],
-   "shop": "リンツチョコレート",
-   "time": "0:00",
-   "tags": [],
-   "link": "entry678.html"
-  },
-  {
-   "date": "2026-11-20",
-   "genres": [
     "雑貨"
    ],
    "shop": "付録付き本の宝島",
@@ -4927,6 +4927,16 @@ window.CAL_DATA = {
    "time": "12:00",
    "tags": [],
    "link": "entry422.html"
+  },
+  {
+   "date": "2026-11-20",
+   "genres": [
+    "飲料"
+   ],
+   "shop": "H&F BELX",
+   "time": "0:00",
+   "tags": [],
+   "link": "entry373.html"
   },
   {
    "date": "2026-11-20",
@@ -5070,6 +5080,30 @@ window.CAL_DATA = {
    "link": "entry885.html"
   },
   {
+   "date": "2026-11-20",
+   "genres": [
+    "予告"
+   ],
+   "shop": "ケーニヒス クローネ",
+   "time": "",
+   "tags": [
+    "予告"
+   ],
+   "link": "entry882.html"
+  },
+  {
+   "date": "2026-11-20",
+   "genres": [
+    "予告"
+   ],
+   "shop": "ヨドバシカメラ",
+   "time": "",
+   "tags": [
+    "予告"
+   ],
+   "link": "entry151.html"
+  },
+  {
    "date": "2026-11-21",
    "genres": [
     "ファッション"
@@ -5143,6 +5177,18 @@ window.CAL_DATA = {
    "time": "",
    "tags": [],
    "link": "entry595.html"
+  },
+  {
+   "date": "2026-11-24",
+   "genres": [
+    "その他"
+   ],
+   "shop": "ヨドバシカメラ",
+   "time": "11:00",
+   "tags": [
+    "抽選"
+   ],
+   "link": "entry151.html"
   },
   {
    "date": "2026-11-24",
@@ -5381,6 +5427,16 @@ window.CAL_DATA = {
    "time": "",
    "tags": [],
    "link": "entry849.html"
+  },
+  {
+   "date": "2026-12-01",
+   "genres": [
+    "食品"
+   ],
+   "shop": "ケーニヒス クローネ",
+   "time": "0:00",
+   "tags": [],
+   "link": "entry882.html"
   },
   {
    "date": "2026-12-01",
