@@ -1,6 +1,6 @@
 window.CAL_DATA = {
- "updated": "2026-11-20 13:53",
- "checked": "2026-11-20 14:05",
+ "updated": "2026-11-20 14:20",
+ "checked": "2026-11-20 14:20",
  "entries": [
   {
    "date": "2026-11-01",
@@ -4591,6 +4591,17 @@ window.CAL_DATA = {
   {
    "date": "2026-11-20",
    "genres": [
+    "ファッション",
+    "MEN’S SIZE"
+   ],
+   "shop": "ジェラートピケ",
+   "time": "14:00",
+   "tags": [],
+   "link": "entry27.html"
+  },
+  {
+   "date": "2026-11-20",
+   "genres": [
     "下着"
    ],
    "shop": "エメフィール公式通販",
@@ -4660,16 +4671,6 @@ window.CAL_DATA = {
     "速報"
    ],
    "link": "entry628.html"
-  },
-  {
-   "date": "2026-11-20",
-   "genres": [
-    "ファッション"
-   ],
-   "shop": "ジェラートピケ",
-   "time": "12:00",
-   "tags": [],
-   "link": "entry27.html"
   },
   {
    "date": "2026-11-20",
