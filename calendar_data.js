@@ -1,6 +1,6 @@
 window.CAL_DATA = {
- "updated": "2026-11-20 20:08",
- "checked": "2026-11-20 20:08",
+ "updated": "2026-11-20 21:02",
+ "checked": "2026-11-20 21:02",
  "entries": [
   {
    "date": "2026-11-01",
@@ -4614,18 +4614,6 @@ window.CAL_DATA = {
   {
    "date": "2026-11-20",
    "genres": [
-    "ファッション"
-   ],
-   "shop": "ジェラートピケ福袋一覧",
-   "time": "16:00",
-   "tags": [
-    "速報"
-   ],
-   "link": "entry27.html"
-  },
-  {
-   "date": "2026-11-20",
-   "genres": [
     "スポーツ"
    ],
    "shop": "GOLFのラウドマウス公式",
@@ -4707,6 +4695,16 @@ window.CAL_DATA = {
     "速報"
    ],
    "link": "entry628.html"
+  },
+  {
+   "date": "2026-11-20",
+   "genres": [
+    "ファッション"
+   ],
+   "shop": "ジェラートピケ福袋一覧",
+   "time": "12:00",
+   "tags": [],
+   "link": "entry27.html"
   },
   {
    "date": "2026-11-20",
@@ -4877,6 +4875,16 @@ window.CAL_DATA = {
    "time": "8:00",
    "tags": [],
    "link": "entry886.html"
+  },
+  {
+   "date": "2026-11-20",
+   "genres": [
+    "ファッション"
+   ],
+   "shop": "パルコオンライン",
+   "time": "10:00",
+   "tags": [],
+   "link": "entry179.html"
   },
   {
    "date": "2026-11-20",
@@ -5148,6 +5156,18 @@ window.CAL_DATA = {
    "link": "entry288.html"
   },
   {
+   "date": "2026-11-20",
+   "genres": [
+    "予告"
+   ],
+   "shop": "サンリオ公式",
+   "time": "",
+   "tags": [
+    "予告"
+   ],
+   "link": "entry107.html"
+  },
+  {
    "date": "2026-11-21",
    "genres": [
     "旅"
@@ -5156,6 +5176,16 @@ window.CAL_DATA = {
    "time": "11:00",
    "tags": [],
    "link": "entry208.html"
+  },
+  {
+   "date": "2026-11-21",
+   "genres": [
+    "総合"
+   ],
+   "shop": "東急百貨店公式",
+   "time": "0:00",
+   "tags": [],
+   "link": "entry15.html"
   },
   {
    "date": "2026-11-21",
@@ -5459,6 +5489,16 @@ window.CAL_DATA = {
    "time": "12:00",
    "tags": [],
    "link": "entry288.html"
+  },
+  {
+   "date": "2026-12-01",
+   "genres": [
+    "雑貨"
+   ],
+   "shop": "サンリオ公式",
+   "time": "10:00",
+   "tags": [],
+   "link": "entry107.html"
   },
   {
    "date": "2026-12-01",
