@@ -1,6 +1,6 @@
 window.CAL_DATA = {
- "updated": "2026-11-20 12:57",
- "checked": "2026-11-20 12:57",
+ "updated": "2026-11-20 13:18",
+ "checked": "2026-11-20 13:18",
  "entries": [
   {
    "date": "2026-11-01",
@@ -4591,6 +4591,18 @@ window.CAL_DATA = {
   {
    "date": "2026-11-20",
    "genres": [
+    "スポーツ"
+   ],
+   "shop": "浦和レッズ公式",
+   "time": "18:00",
+   "tags": [
+    "速報"
+   ],
+   "link": "entry241.html"
+  },
+  {
+   "date": "2026-11-20",
+   "genres": [
     "酒類"
    ],
    "shop": "ENOTECA公式",
@@ -5004,6 +5016,18 @@ window.CAL_DATA = {
     "予告"
    ],
    "link": "entry711.html"
+  },
+  {
+   "date": "2026-11-20",
+   "genres": [
+    "予告"
+   ],
+   "shop": "デニーズ公式",
+   "time": "",
+   "tags": [
+    "予告"
+   ],
+   "link": "entry885.html"
   },
   {
    "date": "2026-11-21",
@@ -5572,6 +5596,16 @@ window.CAL_DATA = {
    "time": "",
    "tags": [],
    "link": "entry87.html"
+  },
+  {
+   "date": "2026-12-14",
+   "genres": [
+    "店舗"
+   ],
+   "shop": "デニーズ公式",
+   "time": "",
+   "tags": [],
+   "link": "entry885.html"
   },
   {
    "date": "2026-12-15",
