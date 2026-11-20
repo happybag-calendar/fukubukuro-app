@@ -1,6 +1,6 @@
 window.CAL_DATA = {
- "updated": "2026-11-20 11:16",
- "checked": "2026-11-20 11:58",
+ "updated": "2026-11-20 12:57",
+ "checked": "2026-11-20 12:57",
  "entries": [
   {
    "date": "2026-11-01",
@@ -4591,6 +4591,18 @@ window.CAL_DATA = {
   {
    "date": "2026-11-20",
    "genres": [
+    "酒類"
+   ],
+   "shop": "ENOTECA公式",
+   "time": "",
+   "tags": [
+    "速報"
+   ],
+   "link": "entry188.html"
+  },
+  {
+   "date": "2026-11-20",
+   "genres": [
     "家電"
    ],
    "shop": "ジョーシン電機",
@@ -4599,6 +4611,19 @@ window.CAL_DATA = {
     "速報"
    ],
    "link": "entry151.html"
+  },
+  {
+   "date": "2026-11-20",
+   "genres": [
+    "その他"
+   ],
+   "shop": "コクヨ公式",
+   "time": "11:00",
+   "tags": [
+    "速報",
+    "抽選"
+   ],
+   "link": "#4"
   },
   {
    "date": "2026-11-20",
@@ -5352,6 +5377,16 @@ window.CAL_DATA = {
    "time": "",
    "tags": [],
    "link": "#4"
+  },
+  {
+   "date": "2026-12-01",
+   "genres": [
+    "店舗"
+   ],
+   "shop": "徳兵衛・海鮮アトム",
+   "time": "",
+   "tags": [],
+   "link": "entry875.html"
   },
   {
    "date": "2026-12-01",
