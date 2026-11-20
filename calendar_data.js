@@ -1,6 +1,6 @@
 window.CAL_DATA = {
- "updated": "2026-11-21 06:23",
- "checked": "2026-11-21 06:23",
+ "updated": "2026-11-21 06:53",
+ "checked": "2026-11-21 06:53",
  "entries": [
   {
    "date": "2026-11-01",
@@ -5019,6 +5019,26 @@ window.CAL_DATA = {
    "time": "0:00",
    "tags": [],
    "link": "entry864.html"
+  },
+  {
+   "date": "2026-11-20",
+   "genres": [
+    "飲料"
+   ],
+   "shop": "キャピタルコーヒー公式",
+   "time": "0:00",
+   "tags": [],
+   "link": "entry156.html"
+  },
+  {
+   "date": "2026-11-20",
+   "genres": [
+    "酒類"
+   ],
+   "shop": "黄桜公式通販",
+   "time": "10:00",
+   "tags": [],
+   "link": "entry682.html"
   },
   {
    "date": "2026-11-20",
