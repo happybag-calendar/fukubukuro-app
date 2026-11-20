@@ -1,6 +1,6 @@
 window.CAL_DATA = {
- "updated": "2026-11-21 05:56",
- "checked": "2026-11-21 05:56",
+ "updated": "2026-11-21 06:23",
+ "checked": "2026-11-21 06:23",
  "entries": [
   {
    "date": "2026-11-01",
@@ -5204,12 +5204,36 @@ window.CAL_DATA = {
    "genres": [
     "スポーツ"
    ],
+   "shop": "BANDEL公式通販",
+   "time": "0:00",
+   "tags": [
+    "速報"
+   ],
+   "link": "entry699.html"
+  },
+  {
+   "date": "2026-11-21",
+   "genres": [
+    "スポーツ"
+   ],
    "shop": "ATHLETA公式通販",
    "time": "0:00",
    "tags": [
     "速報"
    ],
    "link": "entry269.html"
+  },
+  {
+   "date": "2026-11-21",
+   "genres": [
+    "スポーツ"
+   ],
+   "shop": "スーパースポーツゼビオ",
+   "time": "0:00",
+   "tags": [
+    "速報"
+   ],
+   "link": "entry382.html"
   },
   {
    "date": "2026-11-21",
