@@ -1,6 +1,6 @@
 window.CAL_DATA = {
- "updated": "2026-11-21 07:17",
- "checked": "2026-11-21 07:53",
+ "updated": "2026-11-21 08:28",
+ "checked": "2026-11-21 08:28",
  "entries": [
   {
    "date": "2026-11-01",
@@ -5210,6 +5210,18 @@ window.CAL_DATA = {
    "link": "entry107.html"
   },
   {
+   "date": "2026-11-20",
+   "genres": [
+    "予告"
+   ],
+   "shop": "セゾンファクトリー公式",
+   "time": "",
+   "tags": [
+    "予告"
+   ],
+   "link": "entry523.html"
+  },
+  {
    "date": "2026-11-21",
    "genres": [
     "旅"
@@ -5559,6 +5571,36 @@ window.CAL_DATA = {
    "link": "entry608.html"
   },
   {
+   "date": "2026-11-27",
+   "genres": [
+    "食品"
+   ],
+   "shop": "セゾンファクトリー公式",
+   "time": "9:00",
+   "tags": [],
+   "link": "entry523.html"
+  },
+  {
+   "date": "2026-11-28",
+   "genres": [
+    "食品"
+   ],
+   "shop": "セゾンファクトリー公式",
+   "time": "9:00",
+   "tags": [],
+   "link": "entry523.html"
+  },
+  {
+   "date": "2026-11-29",
+   "genres": [
+    "食品"
+   ],
+   "shop": "セゾンファクトリー公式",
+   "time": "9:00",
+   "tags": [],
+   "link": "entry523.html"
+  },
+  {
    "date": "2026-11-30",
    "genres": [
     "食品"
@@ -5822,6 +5864,18 @@ window.CAL_DATA = {
    "time": "20:00",
    "tags": [],
    "link": "entry498.html"
+  },
+  {
+   "date": "2026-12-03",
+   "genres": [
+    "食品",
+    "12/3",
+    "12/3"
+   ],
+   "shop": "ご当地福袋一覧",
+   "time": "20:00",
+   "tags": [],
+   "link": "entry1029.html"
   },
   {
    "date": "2026-12-04",
