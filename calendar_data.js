@@ -1,6 +1,6 @@
 window.CAL_DATA = {
- "updated": "2026-11-20 21:02",
- "checked": "2026-11-21 03:01",
+ "updated": "2026-11-21 04:03",
+ "checked": "2026-11-21 04:03",
  "entries": [
   {
    "date": "2026-11-01",
@@ -5206,6 +5206,16 @@ window.CAL_DATA = {
    "time": "10:00",
    "tags": [],
    "link": "entry503.html"
+  },
+  {
+   "date": "2026-11-21",
+   "genres": [
+    "食品"
+   ],
+   "shop": "NISHIKIYA KITCHEN",
+   "time": "12:00",
+   "tags": [],
+   "link": "entry798.html"
   },
   {
    "date": "2026-11-21",
