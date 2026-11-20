@@ -1,6 +1,6 @@
 window.CAL_DATA = {
- "updated": "2026-11-20 18:09",
- "checked": "2026-11-20 18:09",
+ "updated": "2026-11-20 19:10",
+ "checked": "2026-11-20 19:10",
  "entries": [
   {
    "date": "2026-11-01",
@@ -4626,6 +4626,18 @@ window.CAL_DATA = {
   {
    "date": "2026-11-20",
    "genres": [
+    "スポーツ"
+   ],
+   "shop": "GOLFのラウドマウス公式",
+   "time": "18:00",
+   "tags": [
+    "速報"
+   ],
+   "link": "entry687.html"
+  },
+  {
+   "date": "2026-11-20",
+   "genres": [
     "下着"
    ],
    "shop": "エメフィール公式通販",
@@ -4931,6 +4943,16 @@ window.CAL_DATA = {
   {
    "date": "2026-11-20",
    "genres": [
+    "食品"
+   ],
+   "shop": "有明のハーバー公式",
+   "time": "10:00",
+   "tags": [],
+   "link": "entry662.html"
+  },
+  {
+   "date": "2026-11-20",
+   "genres": [
     "飲料"
    ],
    "shop": "H&F BELX",
@@ -5106,6 +5128,16 @@ window.CAL_DATA = {
   {
    "date": "2026-11-21",
    "genres": [
+    "旅"
+   ],
+   "shop": "HISのミステリーツアー",
+   "time": "11:00",
+   "tags": [],
+   "link": "entry208.html"
+  },
+  {
+   "date": "2026-11-21",
+   "genres": [
     "ファッション"
    ],
    "shop": "しまむらグループ",
@@ -5144,6 +5176,16 @@ window.CAL_DATA = {
     "人気"
    ],
    "link": "entry1050.html"
+  },
+  {
+   "date": "2026-11-22",
+   "genres": [
+    "子供"
+   ],
+   "shop": "子供服チェーンのピカデリーサーカス",
+   "time": "20:00",
+   "tags": [],
+   "link": "entry701.html"
   },
   {
    "date": "2026-11-23",
