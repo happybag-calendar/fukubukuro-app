@@ -1,6 +1,6 @@
 window.CAL_DATA = {
- "updated": "2026-11-21 06:53",
- "checked": "2026-11-21 06:53",
+ "updated": "2026-11-21 07:17",
+ "checked": "2026-11-21 07:17",
  "entries": [
   {
    "date": "2026-11-01",
@@ -5314,6 +5314,16 @@ window.CAL_DATA = {
    "time": "",
    "tags": [],
    "link": "entry121.html"
+  },
+  {
+   "date": "2026-11-22",
+   "genres": [
+    "TV"
+   ],
+   "shop": "フジTV「サンデーブレイク」出演予定※更新はTV出演のため昼過ぎになります",
+   "time": "",
+   "tags": [],
+   "link": "#4"
   },
   {
    "date": "2026-11-22",
