@@ -1,6 +1,6 @@
 window.CAL_DATA = {
- "updated": "2026-11-20 08:00",
- "checked": "2026-11-20 10:10",
+ "updated": "2026-11-20 11:16",
+ "checked": "2026-11-20 11:16",
  "entries": [
   {
    "date": "2026-11-01",
@@ -4591,6 +4591,30 @@ window.CAL_DATA = {
   {
    "date": "2026-11-20",
    "genres": [
+    "家電"
+   ],
+   "shop": "ジョーシン電機",
+   "time": "",
+   "tags": [
+    "速報"
+   ],
+   "link": "entry151.html"
+  },
+  {
+   "date": "2026-11-20",
+   "genres": [
+    "食品"
+   ],
+   "shop": "不二家洋菓子店",
+   "time": "11:00",
+   "tags": [
+    "速報"
+   ],
+   "link": "entry628.html"
+  },
+  {
+   "date": "2026-11-20",
+   "genres": [
     "ファッション"
    ],
    "shop": "ジェラートピケ",
@@ -4883,6 +4907,16 @@ window.CAL_DATA = {
   {
    "date": "2026-11-20",
    "genres": [
+    "食品"
+   ],
+   "shop": "サンマルクの鎌倉パスタ",
+   "time": "10:00",
+   "tags": [],
+   "link": "entry809.html"
+  },
+  {
+   "date": "2026-11-20",
+   "genres": [
     "店舗"
    ],
    "shop": "レストランCOCOS",
@@ -4909,6 +4943,42 @@ window.CAL_DATA = {
    "time": "",
    "tags": [],
    "link": "entry37.html"
+  },
+  {
+   "date": "2026-11-20",
+   "genres": [
+    "予告"
+   ],
+   "shop": "CoCo壱番屋",
+   "time": "",
+   "tags": [
+    "予告"
+   ],
+   "link": "entry1052.html"
+  },
+  {
+   "date": "2026-11-20",
+   "genres": [
+    "予告"
+   ],
+   "shop": "紀ノ国屋公式",
+   "time": "",
+   "tags": [
+    "予告"
+   ],
+   "link": "entry720.html"
+  },
+  {
+   "date": "2026-11-20",
+   "genres": [
+    "予告"
+   ],
+   "shop": "チョコレートのグランプラス",
+   "time": "",
+   "tags": [
+    "予告"
+   ],
+   "link": "entry711.html"
   },
   {
    "date": "2026-11-21",
@@ -5487,6 +5557,27 @@ window.CAL_DATA = {
    "time": "",
    "tags": [],
    "link": "entry183.html"
+  },
+  {
+   "date": "2026-12-23",
+   "genres": [
+    "元金担保型",
+    "店舗"
+   ],
+   "shop": "ゼッテリア",
+   "time": "",
+   "tags": [],
+   "link": "entry595.html"
+  },
+  {
+   "date": "2026-12-25",
+   "genres": [
+    "元金担保型"
+   ],
+   "shop": "CoCo壱番屋",
+   "time": "",
+   "tags": [],
+   "link": "entry1052.html"
   },
   {
    "date": "2026-12-28",
