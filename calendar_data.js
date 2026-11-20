@@ -1,6 +1,6 @@
 window.CAL_DATA = {
- "updated": "2026-11-21 04:03",
- "checked": "2026-11-21 04:03",
+ "updated": "2026-11-21 05:05",
+ "checked": "2026-11-21 05:05",
  "entries": [
   {
    "date": "2026-11-01",
@@ -4987,6 +4987,18 @@ window.CAL_DATA = {
    "time": "",
    "tags": [],
    "link": "entry1039.html"
+  },
+  {
+   "date": "2026-11-20",
+   "genres": [
+    "時計"
+   ],
+   "shop": "TicTac公式通販",
+   "time": "12:00",
+   "tags": [
+    "速報"
+   ],
+   "link": "entry669.html"
   },
   {
    "date": "2026-11-20",
