@@ -1,6 +1,6 @@
 window.CAL_DATA = {
- "updated": "2026-11-20 15:10",
- "checked": "2026-11-20 15:10",
+ "updated": "2026-11-20 15:28",
+ "checked": "2026-11-20 15:28",
  "entries": [
   {
    "date": "2026-11-01",
@@ -4587,6 +4587,19 @@ window.CAL_DATA = {
     "予告"
    ],
    "link": "entry647.html"
+  },
+  {
+   "date": "2026-11-20",
+   "genres": [
+    "レディース"
+   ],
+   "shop": "axes femme公式",
+   "time": "",
+   "tags": [
+    "速報",
+    "人気"
+   ],
+   "link": "entry680.html"
   },
   {
    "date": "2026-11-20",
