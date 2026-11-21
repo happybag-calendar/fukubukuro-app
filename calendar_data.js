@@ -1,6 +1,6 @@
 window.CAL_DATA = {
- "updated": "2026-11-21 11:17",
- "checked": "2026-11-21 12:57",
+ "updated": "2026-11-21 13:59",
+ "checked": "2026-11-21 13:59",
  "entries": [
   {
    "date": "2026-11-01",
@@ -5244,6 +5244,18 @@ window.CAL_DATA = {
   {
    "date": "2026-11-21",
    "genres": [
+    "食品"
+   ],
+   "shop": "全国農協JAタウン公式通販（一部更新）",
+   "time": "",
+   "tags": [
+    "速報"
+   ],
+   "link": "entry751.html"
+  },
+  {
+   "date": "2026-11-21",
+   "genres": [
     "旅"
    ],
    "shop": "HISのミステリーツアー",
@@ -5366,6 +5378,18 @@ window.CAL_DATA = {
    "time": "",
    "tags": [],
    "link": "entry121.html"
+  },
+  {
+   "date": "2026-11-21",
+   "genres": [
+    "予告"
+   ],
+   "shop": "藤井大丸百貨店",
+   "time": "",
+   "tags": [
+    "予告"
+   ],
+   "link": "entry16.html"
   },
   {
    "date": "2026-11-22",
@@ -5701,6 +5725,16 @@ window.CAL_DATA = {
    "time": "10:00",
    "tags": [],
    "link": "#4"
+  },
+  {
+   "date": "2026-12-01",
+   "genres": [
+    "ファッション"
+   ],
+   "shop": "藤井大丸百貨店",
+   "time": "13:00",
+   "tags": [],
+   "link": "entry16.html"
   },
   {
    "date": "2026-12-01",
