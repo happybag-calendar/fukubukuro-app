@@ -1,6 +1,6 @@
 window.CAL_DATA = {
- "updated": "2026-11-21 13:59",
- "checked": "2026-11-23 03:54",
+ "updated": "2026-11-23 04:54",
+ "checked": "2026-11-23 04:54",
  "entries": [
   {
    "date": "2026-11-01",
@@ -5456,17 +5456,6 @@ window.CAL_DATA = {
    "time": "0:00",
    "tags": [],
    "link": "entry1039.html"
-  },
-  {
-   "date": "2026-11-23",
-   "genres": [
-    "元金担保型",
-    "店舗"
-   ],
-   "shop": "ゼッテリア",
-   "time": "",
-   "tags": [],
-   "link": "entry595.html"
   },
   {
    "date": "2026-11-24",
