@@ -1,6 +1,6 @@
 window.CAL_DATA = {
- "updated": "2026-11-23 07:49",
- "checked": "2026-11-23 07:49",
+ "updated": "2026-11-23 08:48",
+ "checked": "2026-11-23 08:48",
  "entries": [
   {
    "date": "2026-11-01",
@@ -5424,6 +5424,26 @@ window.CAL_DATA = {
   {
    "date": "2026-11-22",
    "genres": [
+    "食品"
+   ],
+   "shop": "チョコレートのMinimal",
+   "time": "",
+   "tags": [],
+   "link": "entry742.html"
+  },
+  {
+   "date": "2026-11-22",
+   "genres": [
+    "健康"
+   ],
+   "shop": "ティーライフ公式",
+   "time": "",
+   "tags": [],
+   "link": "entry279.html"
+  },
+  {
+   "date": "2026-11-22",
+   "genres": [
     "下着"
    ],
    "shop": "ブランドメンズ下着Crazy Ferret",
@@ -5454,6 +5474,16 @@ window.CAL_DATA = {
     "予告"
    ],
    "link": "entry271.html"
+  },
+  {
+   "date": "2026-11-23",
+   "genres": [
+    "ファッション"
+   ],
+   "shop": "マルイ公式通販",
+   "time": "",
+   "tags": [],
+   "link": "entry83.html"
   },
   {
    "date": "2026-11-23",
