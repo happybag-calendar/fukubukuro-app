@@ -1,6 +1,6 @@
 window.CAL_DATA = {
- "updated": "2026-11-23 04:54",
- "checked": "2026-11-23 05:50",
+ "updated": "2026-11-23 06:50",
+ "checked": "2026-11-23 06:50",
  "entries": [
   {
    "date": "2026-11-01",
@@ -5404,6 +5404,16 @@ window.CAL_DATA = {
   {
    "date": "2026-11-22",
    "genres": [
+    "スポーツ"
+   ],
+   "shop": "卓球の福袋一覧",
+   "time": "0:00",
+   "tags": [],
+   "link": "entry1055.html"
+  },
+  {
+   "date": "2026-11-22",
+   "genres": [
     "下着"
    ],
    "shop": "ブランドメンズ下着Crazy Ferret",
@@ -5456,6 +5466,18 @@ window.CAL_DATA = {
    "time": "0:00",
    "tags": [],
    "link": "entry1039.html"
+  },
+  {
+   "date": "2026-11-23",
+   "genres": [
+    "予告"
+   ],
+   "shop": "珍味メーカー伍魚福",
+   "time": "",
+   "tags": [
+    "予告"
+   ],
+   "link": "entry1033.html"
   },
   {
    "date": "2026-11-24",
@@ -6093,6 +6115,18 @@ window.CAL_DATA = {
    "time": "",
    "tags": [],
    "link": "entry183.html"
+  },
+  {
+   "date": "2026-12-22",
+   "genres": [
+    "食品"
+   ],
+   "shop": "珍味メーカー伍魚福",
+   "time": "0:00",
+   "tags": [
+    "人気"
+   ],
+   "link": "entry1033.html"
   },
   {
    "date": "2026-12-23",
