@@ -1,6 +1,6 @@
 window.CAL_DATA = {
- "updated": "2026-11-23 06:50",
- "checked": "2026-11-23 06:50",
+ "updated": "2026-11-23 07:49",
+ "checked": "2026-11-23 07:49",
  "entries": [
   {
    "date": "2026-11-01",
@@ -4405,6 +4405,16 @@ window.CAL_DATA = {
    "time": "20:00",
    "tags": [],
    "link": "entry701.html"
+  },
+  {
+   "date": "2026-11-19",
+   "genres": [
+    "スポーツ"
+   ],
+   "shop": "ロゴス公式楽天市場店",
+   "time": "0:00",
+   "tags": [],
+   "link": "entry741.html"
   },
   {
    "date": "2026-11-19",
