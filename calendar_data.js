@@ -1,6 +1,6 @@
 window.CAL_DATA = {
- "updated": "2026-11-23 18:28",
- "checked": "2026-11-23 18:28",
+ "updated": "2026-11-23 20:12",
+ "checked": "2026-11-23 20:12",
  "entries": [
   {
    "date": "2026-11-01",
@@ -5562,6 +5562,16 @@ window.CAL_DATA = {
    "time": "",
    "tags": [],
    "link": "entry409.html"
+  },
+  {
+   "date": "2026-11-24",
+   "genres": [
+    "食品"
+   ],
+   "shop": "タカナシミルク公式",
+   "time": "0:00",
+   "tags": [],
+   "link": "entry949.html"
   },
   {
    "date": "2026-11-25",
