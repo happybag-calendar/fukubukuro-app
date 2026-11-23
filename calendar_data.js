@@ -1,6 +1,6 @@
 window.CAL_DATA = {
- "updated": "2026-11-23 20:12",
- "checked": "2026-11-23 20:12",
+ "updated": "2026-11-23 20:59",
+ "checked": "2026-11-23 20:59",
  "entries": [
   {
    "date": "2026-11-01",
@@ -5001,6 +5001,16 @@ window.CAL_DATA = {
   {
    "date": "2026-11-20",
    "genres": [
+    "ご当地"
+   ],
+   "shop": "ご当地福袋一覧",
+   "time": "10:00",
+   "tags": [],
+   "link": "entry1029.html"
+  },
+  {
+   "date": "2026-11-20",
+   "genres": [
     "食品"
    ],
    "shop": "有明のハーバー公式",
@@ -6107,6 +6117,16 @@ window.CAL_DATA = {
    "time": "10:00",
    "tags": [],
    "link": "entry556.html"
+  },
+  {
+   "date": "2026-12-04",
+   "genres": [
+    "ご当地"
+   ],
+   "shop": "ご当地福袋一覧",
+   "time": "20:00",
+   "tags": [],
+   "link": "entry1029.html"
   },
   {
    "date": "2026-12-04",
