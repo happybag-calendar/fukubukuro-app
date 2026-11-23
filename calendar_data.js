@@ -1,6 +1,6 @@
 window.CAL_DATA = {
- "updated": "2026-11-24 07:58",
- "checked": "2026-11-24 07:58",
+ "updated": "2026-11-24 08:55",
+ "checked": "2026-11-24 08:55",
  "entries": [
   {
    "date": "2026-11-01",
@@ -1061,6 +1061,16 @@ window.CAL_DATA = {
    "time": "12:00",
    "tags": [],
    "link": "entry501.html"
+  },
+  {
+   "date": "2026-11-04",
+   "genres": [
+    "食品"
+   ],
+   "shop": "すかいらーく楽天市場店",
+   "time": "",
+   "tags": [],
+   "link": "entry807.html"
   },
   {
    "date": "2026-11-04",
@@ -5572,6 +5582,18 @@ window.CAL_DATA = {
    "time": "",
    "tags": [],
    "link": "entry409.html"
+  },
+  {
+   "date": "2026-11-24",
+   "genres": [
+    "ファッション"
+   ],
+   "shop": "ペレボルサ公式",
+   "time": "12:00",
+   "tags": [
+    "速報"
+   ],
+   "link": "entry681.html"
   },
   {
    "date": "2026-11-24",
