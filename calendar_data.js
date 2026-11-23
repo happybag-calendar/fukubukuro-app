@@ -1,6 +1,6 @@
 window.CAL_DATA = {
- "updated": "2026-11-23 12:00",
- "checked": "2026-11-23 16:40",
+ "updated": "2026-11-23 18:28",
+ "checked": "2026-11-23 18:28",
  "entries": [
   {
    "date": "2026-11-01",
@@ -5512,6 +5512,16 @@ window.CAL_DATA = {
   {
    "date": "2026-11-23",
    "genres": [
+    "メンズ"
+   ],
+   "shop": "大きいサイズのビッグエムワン",
+   "time": "",
+   "tags": [],
+   "link": "entry641.html"
+  },
+  {
+   "date": "2026-11-23",
+   "genres": [
     "飲料"
    ],
    "shop": "コーヒー豆・粉・ドリップバッグ福袋一覧",
@@ -6047,6 +6057,16 @@ window.CAL_DATA = {
    "time": "20:00",
    "tags": [],
    "link": "entry1029.html"
+  },
+  {
+   "date": "2026-12-03",
+   "genres": [
+    "下着"
+   ],
+   "shop": "ブランドメンズ下着Crazy Ferret",
+   "time": "12:00",
+   "tags": [],
+   "link": "entry1050.html"
   },
   {
    "date": "2026-12-04",
