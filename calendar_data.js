@@ -1,6 +1,6 @@
 window.CAL_DATA = {
- "updated": "2026-11-24 18:13",
- "checked": "2026-11-24 18:13",
+ "updated": "2026-11-24 19:17",
+ "checked": "2026-11-24 19:17",
  "entries": [
   {
    "date": "2026-11-01",
@@ -5574,6 +5574,30 @@ window.CAL_DATA = {
   {
    "date": "2026-11-24",
    "genres": [
+    "飲料"
+   ],
+   "shop": "牛乳と飲むヨーグルトの伊都物語",
+   "time": "",
+   "tags": [
+    "速報"
+   ],
+   "link": "entry992.html"
+  },
+  {
+   "date": "2026-11-24",
+   "genres": [
+    "食品"
+   ],
+   "shop": "タイカレーでおなじみのヤマモリ公式",
+   "time": "18:00",
+   "tags": [
+    "速報"
+   ],
+   "link": "entry836.html"
+  },
+  {
+   "date": "2026-11-24",
+   "genres": [
     "元金担保型",
     "アプリ"
    ],
@@ -5707,6 +5731,18 @@ window.CAL_DATA = {
     "予告"
    ],
    "link": "entry105.html"
+  },
+  {
+   "date": "2026-11-24",
+   "genres": [
+    "予告"
+   ],
+   "shop": "エスプレッソ珈琲メーカーBIALETTI",
+   "time": "",
+   "tags": [
+    "予告"
+   ],
+   "link": "entry907.html"
   },
   {
    "date": "2026-11-25",
@@ -5927,6 +5963,16 @@ window.CAL_DATA = {
    "link": "entry523.html"
   },
   {
+   "date": "2026-11-28",
+   "genres": [
+    "食品"
+   ],
+   "shop": "牛乳・ヨーグルトの伊都物語",
+   "time": "20:00",
+   "tags": [],
+   "link": "entry992.html"
+  },
+  {
    "date": "2026-11-29",
    "genres": [
     "食品"
@@ -6035,6 +6081,16 @@ window.CAL_DATA = {
    "time": "10:00",
    "tags": [],
    "link": "entry107.html"
+  },
+  {
+   "date": "2026-12-01",
+   "genres": [
+    "雑貨"
+   ],
+   "shop": "エスプレッソ珈琲メーカーBIALETTI",
+   "time": "",
+   "tags": [],
+   "link": "entry907.html"
   },
   {
    "date": "2026-12-01",
