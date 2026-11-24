@@ -1,6 +1,6 @@
 window.CAL_DATA = {
- "updated": "2026-11-24 11:24",
- "checked": "2026-11-24 11:24",
+ "updated": "2026-11-24 13:04",
+ "checked": "2026-11-24 13:04",
  "entries": [
   {
    "date": "2026-11-01",
@@ -5674,6 +5674,18 @@ window.CAL_DATA = {
    "link": "entry877.html"
   },
   {
+   "date": "2026-11-24",
+   "genres": [
+    "予告"
+   ],
+   "shop": "CAN ONLINE",
+   "time": "",
+   "tags": [
+    "予告"
+   ],
+   "link": "entry105.html"
+  },
+  {
    "date": "2026-11-25",
    "genres": [
     "ファッション"
@@ -5768,6 +5780,16 @@ window.CAL_DATA = {
    "time": "",
    "tags": [],
    "link": "entry13.html"
+  },
+  {
+   "date": "2026-11-25",
+   "genres": [
+    "レディース"
+   ],
+   "shop": "CAN ONLINE",
+   "time": "12:00",
+   "tags": [],
+   "link": "entry105.html"
   },
   {
    "date": "2026-11-25",
