@@ -1,6 +1,6 @@
 window.CAL_DATA = {
- "updated": "2026-11-24 10:15",
- "checked": "2026-11-24 10:15",
+ "updated": "2026-11-24 11:24",
+ "checked": "2026-11-24 11:24",
  "entries": [
   {
    "date": "2026-11-01",
@@ -5608,6 +5608,16 @@ window.CAL_DATA = {
   {
    "date": "2026-11-24",
    "genres": [
+    "ファッション"
+   ],
+   "shop": "ニッセン公式通販",
+   "time": "10:00",
+   "tags": [],
+   "link": "entry174.html"
+  },
+  {
+   "date": "2026-11-24",
+   "genres": [
     "食品"
    ],
    "shop": "タカナシミルク公式",
@@ -5638,6 +5648,30 @@ window.CAL_DATA = {
     "予告"
    ],
    "link": "entry650.html"
+  },
+  {
+   "date": "2026-11-24",
+   "genres": [
+    "予告"
+   ],
+   "shop": "HARIO公式",
+   "time": "",
+   "tags": [
+    "予告"
+   ],
+   "link": "entry121.html"
+  },
+  {
+   "date": "2026-11-24",
+   "genres": [
+    "予告"
+   ],
+   "shop": "ユーラク製菓ブラックサンダー",
+   "time": "",
+   "tags": [
+    "予告"
+   ],
+   "link": "entry877.html"
   },
   {
    "date": "2026-11-25",
@@ -5922,6 +5956,16 @@ window.CAL_DATA = {
    "genres": [
     "キッチン"
    ],
+   "shop": "HARIO公式",
+   "time": "12:00",
+   "tags": [],
+   "link": "entry121.html"
+  },
+  {
+   "date": "2026-12-01",
+   "genres": [
+    "キッチン"
+   ],
    "shop": "BRUNO公式",
    "time": "12:00",
    "tags": [],
@@ -5946,6 +5990,16 @@ window.CAL_DATA = {
    "time": "11:00",
    "tags": [],
    "link": "entry604.html"
+  },
+  {
+   "date": "2026-12-01",
+   "genres": [
+    "食品"
+   ],
+   "shop": "ユーラク製菓ブラックサンダー",
+   "time": "",
+   "tags": [],
+   "link": "entry877.html"
   },
   {
    "date": "2026-12-01",
