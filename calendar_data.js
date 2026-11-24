@@ -1,6 +1,6 @@
 window.CAL_DATA = {
- "updated": "2026-11-24 08:55",
- "checked": "2026-11-24 08:55",
+ "updated": "2026-11-24 10:15",
+ "checked": "2026-11-24 10:15",
  "entries": [
   {
    "date": "2026-11-01",
@@ -4489,6 +4489,16 @@ window.CAL_DATA = {
   {
    "date": "2026-11-19",
    "genres": [
+    "雑貨"
+   ],
+   "shop": "能率手帳のNOLTY",
+   "time": "",
+   "tags": [],
+   "link": "entry1056.html"
+  },
+  {
+   "date": "2026-11-19",
+   "genres": [
     "コスメ"
    ],
    "shop": "スチームクリーム",
@@ -5606,6 +5616,30 @@ window.CAL_DATA = {
    "link": "entry949.html"
   },
   {
+   "date": "2026-11-24",
+   "genres": [
+    "予告"
+   ],
+   "shop": "能率手帳のNOLTY",
+   "time": "",
+   "tags": [
+    "予告"
+   ],
+   "link": "entry1056.html"
+  },
+  {
+   "date": "2026-11-24",
+   "genres": [
+    "予告"
+   ],
+   "shop": "しまむらグループ",
+   "time": "",
+   "tags": [
+    "予告"
+   ],
+   "link": "entry650.html"
+  },
+  {
    "date": "2026-11-25",
    "genres": [
     "ファッション"
@@ -5614,6 +5648,16 @@ window.CAL_DATA = {
    "time": "10:00",
    "tags": [],
    "link": "entry62.html"
+  },
+  {
+   "date": "2026-11-25",
+   "genres": [
+    "食品"
+   ],
+   "shop": "三越伊勢丹百貨店",
+   "time": "10:00",
+   "tags": [],
+   "link": "entry619.html"
   },
   {
    "date": "2026-11-25",
@@ -5822,6 +5866,16 @@ window.CAL_DATA = {
    "time": "12:00",
    "tags": [],
    "link": "entry1049.html"
+  },
+  {
+   "date": "2026-12-01",
+   "genres": [
+    "ファッション"
+   ],
+   "shop": "しまむらグループ",
+   "time": "9:00",
+   "tags": [],
+   "link": "entry650.html"
   },
   {
    "date": "2026-12-01",
@@ -6087,6 +6141,16 @@ window.CAL_DATA = {
    "time": "",
    "tags": [],
    "link": "entry812.html"
+  },
+  {
+   "date": "2026-12-03",
+   "genres": [
+    "雑貨"
+   ],
+   "shop": "能率手帳のNOLTY",
+   "time": "20:00",
+   "tags": [],
+   "link": "entry1056.html"
   },
   {
    "date": "2026-12-03",
