@@ -1,6 +1,6 @@
 window.CAL_DATA = {
- "updated": "2026-11-25 05:08",
- "checked": "2026-11-25 05:08",
+ "updated": "2026-11-25 05:59",
+ "checked": "2026-11-25 05:59",
  "entries": [
   {
    "date": "2026-11-01",
@@ -5856,16 +5856,6 @@ window.CAL_DATA = {
   {
    "date": "2026-11-25",
    "genres": [
-    "総合"
-   ],
-   "shop": "高島屋百貨店",
-   "time": "",
-   "tags": [],
-   "link": "entry13.html"
-  },
-  {
-   "date": "2026-11-25",
-   "genres": [
     "レディース"
    ],
    "shop": "CAN ONLINE",
@@ -5914,6 +5904,18 @@ window.CAL_DATA = {
    "time": "",
    "tags": [],
    "link": "#4"
+  },
+  {
+   "date": "2026-11-25",
+   "genres": [
+    "その他"
+   ],
+   "shop": "ビッグボーイ",
+   "time": "10:00",
+   "tags": [
+    "抽選"
+   ],
+   "link": "entry595.html"
   },
   {
    "date": "2026-11-26",
