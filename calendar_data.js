@@ -1,6 +1,6 @@
 window.CAL_DATA = {
- "updated": "2026-11-24 14:01",
- "checked": "2026-11-24 16:23",
+ "updated": "2026-11-24 18:13",
+ "checked": "2026-11-24 18:13",
  "entries": [
   {
    "date": "2026-11-01",
@@ -5631,6 +5631,16 @@ window.CAL_DATA = {
   {
    "date": "2026-11-24",
    "genres": [
+    "子供"
+   ],
+   "shop": "子供服チェーンのピカデリーサーカス",
+   "time": "20:00",
+   "tags": [],
+   "link": "entry701.html"
+  },
+  {
+   "date": "2026-11-24",
+   "genres": [
     "食品"
    ],
    "shop": "タカナシミルク公式",
@@ -5925,6 +5935,16 @@ window.CAL_DATA = {
    "time": "9:00",
    "tags": [],
    "link": "entry523.html"
+  },
+  {
+   "date": "2026-11-30",
+   "genres": [
+    "食品"
+   ],
+   "shop": "ヤマザキパン公式楽天市場店",
+   "time": "14:00",
+   "tags": [],
+   "link": "entry928.html"
   },
   {
    "date": "2026-11-30",
