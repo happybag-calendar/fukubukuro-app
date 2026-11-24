@@ -1,6 +1,6 @@
 window.CAL_DATA = {
- "updated": "2026-11-25 04:04",
- "checked": "2026-11-25 04:04",
+ "updated": "2026-11-25 05:08",
+ "checked": "2026-11-25 05:08",
  "entries": [
   {
    "date": "2026-11-01",
@@ -5790,6 +5790,16 @@ window.CAL_DATA = {
   {
    "date": "2026-11-25",
    "genres": [
+    "総合"
+   ],
+   "shop": "高島屋公式",
+   "time": "10:00",
+   "tags": [],
+   "link": "entry13.html"
+  },
+  {
+   "date": "2026-11-25",
+   "genres": [
     "レディース"
    ],
    "shop": "レディースファッションflower公式",
@@ -5984,6 +5994,16 @@ window.CAL_DATA = {
    "time": "20:00",
    "tags": [],
    "link": "entry992.html"
+  },
+  {
+   "date": "2026-11-28",
+   "genres": [
+    "食品"
+   ],
+   "shop": "大阪王将公式",
+   "time": "10:00",
+   "tags": [],
+   "link": "entry543.html"
   },
   {
    "date": "2026-11-29",
@@ -6365,6 +6385,16 @@ window.CAL_DATA = {
    "genres": [
     "食品"
    ],
+   "shop": "大阪王将公式",
+   "time": "20:00",
+   "tags": [],
+   "link": "entry543.html"
+  },
+  {
+   "date": "2026-12-03",
+   "genres": [
+    "食品"
+   ],
    "shop": "松屋グループ",
    "time": "20:00",
    "tags": [
@@ -6381,6 +6411,16 @@ window.CAL_DATA = {
    "time": "20:00",
    "tags": [],
    "link": "entry1029.html"
+  },
+  {
+   "date": "2026-12-03",
+   "genres": [
+    "子供服"
+   ],
+   "shop": "babuuu公式",
+   "time": "20:00",
+   "tags": [],
+   "link": "entry1012.html"
   },
   {
    "date": "2026-12-03",
