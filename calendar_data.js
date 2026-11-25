@@ -1,6 +1,6 @@
 window.CAL_DATA = {
- "updated": "2026-11-25 13:11",
- "checked": "2026-11-25 16:27",
+ "updated": "2026-11-25 18:16",
+ "checked": "2026-11-25 18:16",
  "entries": [
   {
    "date": "2026-11-01",
@@ -5862,6 +5862,16 @@ window.CAL_DATA = {
    "time": "0:00",
    "tags": [],
    "link": "entry864.html"
+  },
+  {
+   "date": "2026-11-25",
+   "genres": [
+    "元金担保型"
+   ],
+   "shop": "熟成醤油ラーメン きゃべとん公式",
+   "time": "",
+   "tags": [],
+   "link": "entry1035.html"
   },
   {
    "date": "2026-11-25",
