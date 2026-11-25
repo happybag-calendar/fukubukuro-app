@@ -1,6 +1,6 @@
 window.CAL_DATA = {
- "updated": "2026-11-26 07:01",
- "checked": "2026-11-26 07:01",
+ "updated": "2026-11-26 07:59",
+ "checked": "2026-11-26 07:59",
  "entries": [
   {
    "date": "2026-11-01",
@@ -5988,6 +5988,18 @@ window.CAL_DATA = {
   {
    "date": "2026-11-25",
    "genres": [
+    "体験"
+   ],
+   "shop": "レーヴ・デ・リュミエール×ワンダリア横浜",
+   "time": "2:00",
+   "tags": [
+    "抽選"
+   ],
+   "link": "#4"
+  },
+  {
+   "date": "2026-11-25",
+   "genres": [
     "元金担保型",
     "店舗"
    ],
@@ -6036,7 +6048,7 @@ window.CAL_DATA = {
     "食品"
    ],
    "shop": "Afternoon Tea",
-   "time": "",
+   "time": "12:00",
    "tags": [],
    "link": "entry164.html"
   },
@@ -6555,6 +6567,16 @@ window.CAL_DATA = {
    "time": "20:00",
    "tags": [],
    "link": "entry498.html"
+  },
+  {
+   "date": "2026-12-03",
+   "genres": [
+    "食品"
+   ],
+   "shop": "モスバーガー楽天市場店",
+   "time": "20:00",
+   "tags": [],
+   "link": "entry673.html"
   },
   {
    "date": "2026-12-03",
