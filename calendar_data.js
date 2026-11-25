@@ -1,6 +1,6 @@
 window.CAL_DATA = {
- "updated": "2026-11-26 07:59",
- "checked": "2026-11-26 07:59",
+ "updated": "2026-11-26 08:55",
+ "checked": "2026-11-26 08:55",
  "entries": [
   {
    "date": "2026-11-01",
@@ -6541,6 +6541,16 @@ window.CAL_DATA = {
   {
    "date": "2026-12-03",
    "genres": [
+    "日用品"
+   ],
+   "shop": "入浴剤用品の華密恋",
+   "time": "",
+   "tags": [],
+   "link": "entry1025.html"
+  },
+  {
+   "date": "2026-12-03",
+   "genres": [
     "雑貨"
    ],
    "shop": "能率手帳のNOLTY",
@@ -6567,6 +6577,16 @@ window.CAL_DATA = {
    "time": "20:00",
    "tags": [],
    "link": "entry498.html"
+  },
+  {
+   "date": "2026-12-03",
+   "genres": [
+    "食品"
+   ],
+   "shop": "スーパーbeisia公式楽天市場店",
+   "time": "20:00",
+   "tags": [],
+   "link": "entry211.html"
   },
   {
    "date": "2026-12-03",
