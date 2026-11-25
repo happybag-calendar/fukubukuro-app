@@ -1,6 +1,6 @@
 window.CAL_DATA = {
- "updated": "2026-11-25 18:16",
- "checked": "2026-11-25 18:16",
+ "updated": "2026-11-25 19:22",
+ "checked": "2026-11-25 19:22",
  "entries": [
   {
    "date": "2026-11-01",
@@ -5922,6 +5922,18 @@ window.CAL_DATA = {
   {
    "date": "2026-11-25",
    "genres": [
+    "手芸"
+   ],
+   "shop": "ギンガム公式",
+   "time": "15:50",
+   "tags": [
+    "人気"
+   ],
+   "link": "entry939.html"
+  },
+  {
+   "date": "2026-11-25",
+   "genres": [
     "カフェ"
    ],
    "shop": "フレッシュネスバーガー",
@@ -6602,6 +6614,18 @@ window.CAL_DATA = {
    "time": "20:00",
    "tags": [],
    "link": "entry1057.html"
+  },
+  {
+   "date": "2026-12-04",
+   "genres": [
+    "食品"
+   ],
+   "shop": "おやつカルパスのヤガイ",
+   "time": "20:00",
+   "tags": [
+    "人気"
+   ],
+   "link": "entry901.html"
   },
   {
    "date": "2026-12-04",
