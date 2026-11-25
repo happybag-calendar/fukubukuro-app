@@ -1,6 +1,6 @@
 window.CAL_DATA = {
- "updated": "2026-11-25 10:21",
- "checked": "2026-11-25 10:21",
+ "updated": "2026-11-25 10:37",
+ "checked": "2026-11-25 10:37",
  "entries": [
   {
    "date": "2026-11-01",
@@ -5760,11 +5760,25 @@ window.CAL_DATA = {
   {
    "date": "2026-11-25",
    "genres": [
+    "産直"
+   ],
+   "shop": "食べチョク公式通販",
+   "time": "10:00",
+   "tags": [
+    "速報"
+   ],
+   "link": "entry653.html"
+  },
+  {
+   "date": "2026-11-25",
+   "genres": [
     "PC"
    ],
    "shop": "サンワダイレクト公式",
    "time": "10:00",
-   "tags": [],
+   "tags": [
+    "速報"
+   ],
    "link": "entry245.html"
   },
   {
