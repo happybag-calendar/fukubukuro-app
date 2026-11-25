@@ -1,6 +1,6 @@
 window.CAL_DATA = {
- "updated": "2026-11-25 10:37",
- "checked": "2026-11-25 10:37",
+ "updated": "2026-11-25 12:01",
+ "checked": "2026-11-25 12:01",
  "entries": [
   {
    "date": "2026-11-01",
@@ -5784,6 +5784,18 @@ window.CAL_DATA = {
   {
    "date": "2026-11-25",
    "genres": [
+    "食品"
+   ],
+   "shop": "世界のオーダーチーズ公式",
+   "time": "",
+   "tags": [
+    "速報"
+   ],
+   "link": "entry205.html"
+  },
+  {
+   "date": "2026-11-25",
+   "genres": [
     "ファッション"
    ],
    "shop": "楽天 Lucky Bag Store",
@@ -5830,6 +5842,16 @@ window.CAL_DATA = {
    "time": "12:00",
    "tags": [],
    "link": "entry271.html"
+  },
+  {
+   "date": "2026-11-25",
+   "genres": [
+    "ファッション"
+   ],
+   "shop": "Shoplist公式",
+   "time": "10:00",
+   "tags": [],
+   "link": "entry295.html"
   },
   {
    "date": "2026-11-25",
@@ -5994,6 +6016,16 @@ window.CAL_DATA = {
   {
    "date": "2026-11-27",
    "genres": [
+    "ファッション"
+   ],
+   "shop": "楽天 Lucky Bag Store",
+   "time": "12:00",
+   "tags": [],
+   "link": "entry62.html"
+  },
+  {
+   "date": "2026-11-27",
+   "genres": [
     "食品"
    ],
    "shop": "セゾンファクトリー公式",
@@ -6070,6 +6102,16 @@ window.CAL_DATA = {
    "time": "9:00",
    "tags": [],
    "link": "entry650.html"
+  },
+  {
+   "date": "2026-11-01",
+   "genres": [
+    "食品"
+   ],
+   "shop": "三越伊勢丹百貨店",
+   "time": "10:00",
+   "tags": [],
+   "link": "entry619.html"
   },
   {
    "date": "2026-11-01",
@@ -6293,6 +6335,27 @@ window.CAL_DATA = {
    "time": "",
    "tags": [],
    "link": "#4"
+  },
+  {
+   "date": "2026-11-01",
+   "genres": [
+    "元金担保型",
+    "店舗"
+   ],
+   "shop": "焼肉冷麺やまなか家",
+   "time": "",
+   "tags": [],
+   "link": "entry860.html"
+  },
+  {
+   "date": "2026-11-02",
+   "genres": [
+    "食品"
+   ],
+   "shop": "三越伊勢丹百貨店",
+   "time": "10:00",
+   "tags": [],
+   "link": "entry619.html"
   },
   {
    "date": "2026-11-02",
