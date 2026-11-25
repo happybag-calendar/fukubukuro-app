@@ -1,6 +1,6 @@
 window.CAL_DATA = {
- "updated": "2026-11-25 19:31",
- "checked": "2026-11-25 19:31",
+ "updated": "2026-11-25 21:08",
+ "checked": "2026-11-25 21:08",
  "entries": [
   {
    "date": "2026-11-01",
@@ -5583,6 +5583,16 @@ window.CAL_DATA = {
     "抽選"
    ],
    "link": "#4"
+  },
+  {
+   "date": "2026-11-24",
+   "genres": [
+    "スポーツ"
+   ],
+   "shop": "BOARDRIDERS公式",
+   "time": "",
+   "tags": [],
+   "link": "entry1054.html"
   },
   {
    "date": "2026-11-24",
