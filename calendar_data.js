@@ -1,6 +1,6 @@
 window.CAL_DATA = {
- "updated": "2026-11-26 08:55",
- "checked": "2026-11-26 08:55",
+ "updated": "2026-11-26 10:22",
+ "checked": "2026-11-26 10:22",
  "entries": [
   {
    "date": "2026-11-01",
@@ -6783,6 +6783,16 @@ window.CAL_DATA = {
    "time": "",
    "tags": [],
    "link": "entry13.html"
+  },
+  {
+   "date": "2026-12-10",
+   "genres": [
+    "店舗"
+   ],
+   "shop": "リンガーハット公式",
+   "time": "",
+   "tags": [],
+   "link": "entry946.html"
   },
   {
    "date": "2026-12-11",
