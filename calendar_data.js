@@ -1,6 +1,6 @@
 window.CAL_DATA = {
- "updated": "2026-11-26 10:22",
- "checked": "2026-11-26 10:22",
+ "updated": "2026-11-26 10:45",
+ "checked": "2026-11-26 10:45",
  "entries": [
   {
    "date": "2026-11-01",
@@ -6035,6 +6035,18 @@ window.CAL_DATA = {
   {
    "date": "2026-11-26",
    "genres": [
+    "PC"
+   ],
+   "shop": "関西電力PCNEXT",
+   "time": "",
+   "tags": [
+    "速報"
+   ],
+   "link": "entry151.html"
+  },
+  {
+   "date": "2026-11-26",
+   "genres": [
     "百貨店"
    ],
    "shop": "東武百貨店公式",
@@ -6497,6 +6509,16 @@ window.CAL_DATA = {
    "time": "12:00",
    "tags": [],
    "link": "entry578.html"
+  },
+  {
+   "date": "2026-12-02",
+   "genres": [
+    "雑貨"
+   ],
+   "shop": "もふもふマーケット",
+   "time": "18:00",
+   "tags": [],
+   "link": "entry1017.html"
   },
   {
    "date": "2026-12-02",
