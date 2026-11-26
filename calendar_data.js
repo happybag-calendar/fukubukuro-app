@@ -1,6 +1,6 @@
 window.CAL_DATA = {
- "updated": "2026-11-26 10:45",
- "checked": "2026-11-26 10:45",
+ "updated": "2026-11-26 11:59",
+ "checked": "2026-11-26 11:59",
  "entries": [
   {
    "date": "2026-11-01",
@@ -6079,6 +6079,18 @@ window.CAL_DATA = {
    "genres": [
     "酒類"
    ],
+   "shop": "サッポロビール公式シュパーク",
+   "time": "",
+   "tags": [
+    "速報"
+   ],
+   "link": "entry863.html"
+  },
+  {
+   "date": "2026-11-26",
+   "genres": [
+    "酒類"
+   ],
    "shop": "酒くじ一覧",
    "time": "17:00",
    "tags": [],
@@ -6619,6 +6631,16 @@ window.CAL_DATA = {
    "time": "20:00",
    "tags": [],
    "link": "entry673.html"
+  },
+  {
+   "date": "2026-12-03",
+   "genres": [
+    "食品"
+   ],
+   "shop": "名古屋調味料のイチビキ公式楽天市場店",
+   "time": "20:00",
+   "tags": [],
+   "link": "entry996.html"
   },
   {
    "date": "2026-12-03",
