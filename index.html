@@ -79,6 +79,19 @@ ul.list{list-style:none;margin:0;padding:0;display:flex;flex-direction:column;ga
 .news .nd{flex:none;font-size:13px;color:var(--mute);font-variant-numeric:tabular-nums}
 .news a{color:var(--fg);text-underline-offset:3px;font-weight:500}
 .news a:focus-visible{outline:3px solid var(--fg);outline-offset:2px}
+.momo{position:relative;border:2px solid var(--red);border-radius:14px;padding:14px 16px;background:var(--card);display:flex;flex-direction:column;gap:10px}
+.momo .mh{display:flex;gap:10px;align-items:center}
+.momo img{flex:none;width:44px;height:44px;border-radius:10px}
+.momo h2{font-size:clamp(14px,4.1vw,16px);color:var(--red);margin:0;line-height:1.4}
+.momo h2 .q{display:inline-block}
+.momo .md{font-size:13px;color:var(--mute)}
+.momo .md:empty{display:none}
+.momo p{margin:0;white-space:pre-line;overflow-wrap:anywhere}
+.momo p a{color:var(--red);font-weight:700;text-underline-offset:3px}
+.momo p a:focus-visible{outline:3px solid var(--fg);outline-offset:2px}
+.momo .mlink{align-self:flex-start;font-size:15px;font-weight:700;color:var(--red-fg);background:var(--red);border-radius:999px;padding:7px 16px;text-decoration:none;min-height:40px;display:inline-flex;align-items:center}
+.momo .mx{position:absolute;top:6px;right:6px;width:40px;height:40px;border:0;background:transparent;color:var(--mute);font-size:22px;cursor:pointer;border-radius:8px}
+.momo .mx:focus-visible,.momo .mlink:focus-visible{outline:3px solid var(--fg);outline-offset:2px}
 .genres{background:var(--card);border:1px solid var(--line);border-radius:12px;padding:16px;display:flex;flex-direction:column;gap:14px}
 .genres{padding:0;overflow:hidden}
 .genres>div,.genres>.note{margin-inline:16px}
@@ -97,6 +110,19 @@ ul.list{list-style:none;margin:0;padding:0;display:flex;flex-direction:column;ga
 <body>
 <main>
 <header><h1>福袋カレンダー</h1><a class="toplink" href="https://happy-bag.biz/#4" target="_blank" rel="noopener">WEB版カレンダーを見る ↗</a><span class="upd" id="upd"></span></header>
+
+<section class="momo" id="momoBox" aria-labelledby="momoTitle" hidden>
+  <div class="mh">
+    <img src="icons/icon-192.png" alt="">
+    <div>
+      <h2 id="momoTitle">モモGの<span class="q">「ちょっとちょっと得してチョ♪」</span></h2>
+      <span class="md" id="momoDate"></span>
+    </div>
+  </div>
+  <p id="momoText"></p>
+  <a class="mlink" id="momoLink" target="_blank" rel="noopener" hidden>くわしく見る ↗</a>
+  <button class="mx" id="momoClose" type="button" aria-label="このお知らせを閉じる">×</button>
+</section>
 
 <section class="news" id="newsBox" aria-label="お知らせ" hidden>
   <h2>お知らせ</h2>
@@ -128,6 +154,7 @@ ul.list{list-style:none;margin:0;padding:0;display:flex;flex-direction:column;ga
 </main>
 <script src="calendar_data.js"></script>
 <script src="news.js"></script>
+<script src="momo.js"></script>
 <script src="genres_data.js"></script>
 <script>
 var BASE="https://happy-bag.biz/";
@@ -264,7 +291,32 @@ function renderGenres(){
 renderGenres();
 $("prev").onclick=function(){shift(-1)}; $("next").onclick=function(){shift(1)};
 if(window.CAL_DATA&&window.CAL_DATA.updated){var D=window.CAL_DATA,ck=D.checked||D.updated,ch=D.updated;var t="最終確認 "+ck.slice(5);if(ch!==ck){t+="(日程の変更 "+(ch.slice(0,10)===ck.slice(0,10)?ch.slice(11):ch.slice(5))+")";}$("upd").textContent=t;}
-renderNews(); renderFilters(); renderDay(); renderGrid();
+function renderMomo(){
+  // モモＧからのお知らせ(momo.js)。「×」で閉じた人には、同じ文章は二度出さない。文章を変えると、また出る。
+  var m=window.MOMO; if(!m||!m.text)return;
+  var sig=(m.date||"")+"|"+m.text, KEY="momoClosed";
+  try{if(localStorage.getItem(KEY)===sig)return;}catch(e){}
+  if(m.title){var t=$("momoTitle"),i=m.title.indexOf("「");t.textContent=i>0?m.title.slice(0,i):m.title;
+    if(i>0){var q=document.createElement("span");q.className="q";q.textContent=m.title.slice(i);t.appendChild(q);}}
+  $("momoDate").textContent=m.date||"";
+  $("momoText").textContent="";
+  // links に書いた言葉が文章の中にあれば、その言葉をリンクにする(長い言葉から先に探す)
+  var L=m.links||{}, words=Object.keys(L).filter(function(w){return w&&L[w]}).sort(function(a,b){return b.length-a.length});
+  var rest=m.text;
+  while(rest){
+    var at=-1,hit="";
+    words.forEach(function(w){var i=rest.indexOf(w);if(i>=0&&(at<0||i<at)){at=i;hit=w;}});
+    if(at<0){$("momoText").appendChild(document.createTextNode(rest));break;}
+    if(at>0)$("momoText").appendChild(document.createTextNode(rest.slice(0,at)));
+    var a=document.createElement("a");a.textContent=hit;a.href=/^https?:/.test(L[hit])?L[hit]:BASE+L[hit];a.target="_blank";a.rel="noopener";
+    $("momoText").appendChild(a);
+    rest=rest.slice(at+hit.length);
+  }
+  if(m.link){var l=$("momoLink");l.href=/^https?:/.test(m.link)?m.link:BASE+m.link;l.hidden=false;}
+  $("momoClose").onclick=function(){$("momoBox").hidden=true;try{localStorage.setItem(KEY,sig);}catch(e){}};
+  $("momoBox").hidden=false;
+}
+renderMomo(); renderNews(); renderFilters(); renderDay(); renderGrid();
 if("serviceWorker" in navigator){window.addEventListener("load",function(){navigator.serviceWorker.register("sw.js").catch(function(){});});}
 </script>
 </body>

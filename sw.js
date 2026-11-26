@@ -1,5 +1,5 @@
 /* 画面の部品は保存して素早く開き、データ(calendar_data.js, news.js)は、つながるときは常に最新を取る */
-var CACHE = "fukubukuro-v8";
+var CACHE = "fukubukuro-v9";
 var SHELL = ["./", "index.html", "manifest.webmanifest", "icons/icon-192.png", "icons/icon-512.png"];
 self.addEventListener("install", function (e) {
   e.waitUntil(caches.open(CACHE).then(function (c) { return c.addAll(SHELL); }));
@@ -14,7 +14,7 @@ self.addEventListener("activate", function (e) {
 self.addEventListener("fetch", function (e) {
   var req = e.request;
   if (req.method !== "GET" || new URL(req.url).origin !== location.origin) return;
-  var isData = /calendar_data\.js|news\.js|genres_data\.js/.test(req.url);
+  var isData = /calendar_data\.js|news\.js|momo\.js|genres_data\.js/.test(req.url);
   if (isData || req.mode === "navigate") {   // 最新を優先。つながらないときだけ、保存したものを出す
     // データは、ブラウザが覚えている古いものを使わず、毎回、サーバーから取り直す
     var go = isData ? fetch(req.url, { cache: "no-store" }) : fetch(req);
