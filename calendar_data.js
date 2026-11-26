@@ -1,6 +1,6 @@
 window.CAL_DATA = {
- "updated": "2026-11-26 18:14",
- "checked": "2026-11-26 18:14",
+ "updated": "2026-11-26 18:46",
+ "checked": "2026-11-26 18:46",
  "entries": [
   {
    "date": "2026-11-01",
@@ -6047,6 +6047,18 @@ window.CAL_DATA = {
   {
    "date": "2026-11-26",
    "genres": [
+    "ファッション"
+   ],
+   "shop": "クロコダイル公式",
+   "time": "18:00",
+   "tags": [
+    "速報"
+   ],
+   "link": "entry284.html"
+  },
+  {
+   "date": "2026-11-26",
+   "genres": [
     "百貨店"
    ],
    "shop": "東武百貨店公式",
@@ -6161,6 +6173,16 @@ window.CAL_DATA = {
   {
    "date": "2026-11-28",
    "genres": [
+    "ファッション"
+   ],
+   "shop": "楽天 Lucky Bag Store",
+   "time": "10:00",
+   "tags": [],
+   "link": "entry62.html"
+  },
+  {
+   "date": "2026-11-28",
+   "genres": [
     "食品"
    ],
    "shop": "セゾンファクトリー公式",
@@ -6209,6 +6231,16 @@ window.CAL_DATA = {
     "人気"
    ],
    "link": "entry553.html"
+  },
+  {
+   "date": "2026-11-30",
+   "genres": [
+    "ファッション"
+   ],
+   "shop": "楽天 Lucky Bag Store",
+   "time": "10:00",
+   "tags": [],
+   "link": "entry62.html"
   },
   {
    "date": "2026-11-30",
@@ -6797,6 +6829,16 @@ window.CAL_DATA = {
    "time": "10:00",
    "tags": [],
    "link": "entry17.html"
+  },
+  {
+   "date": "2026-12-04",
+   "genres": [
+    "日用品"
+   ],
+   "shop": "姫路流通センター",
+   "time": "19:00",
+   "tags": [],
+   "link": "entry1021.html"
   },
   {
    "date": "2026-12-04",
