@@ -1,6 +1,6 @@
 window.CAL_DATA = {
- "updated": "2026-11-26 11:59",
- "checked": "2026-11-26 14:17",
+ "updated": "2026-11-26 16:26",
+ "checked": "2026-11-26 16:26",
  "entries": [
   {
    "date": "2026-11-01",
@@ -6117,6 +6117,18 @@ window.CAL_DATA = {
    "link": "entry521.html"
   },
   {
+   "date": "2026-11-26",
+   "genres": [
+    "予告"
+   ],
+   "shop": "KIOSK東京お土産HANAGATAYA",
+   "time": "",
+   "tags": [
+    "予告"
+   ],
+   "link": "entry215.html"
+  },
+  {
    "date": "2026-11-27",
    "genres": [
     "ファッション"
@@ -6135,6 +6147,16 @@ window.CAL_DATA = {
    "time": "9:00",
    "tags": [],
    "link": "entry523.html"
+  },
+  {
+   "date": "2026-11-27",
+   "genres": [
+    "日用品"
+   ],
+   "shop": "トイザらス・ベビーザらス",
+   "time": "",
+   "tags": [],
+   "link": "entry173.html"
   },
   {
    "date": "2026-11-28",
@@ -6777,6 +6799,16 @@ window.CAL_DATA = {
    "link": "entry539.html"
   },
   {
+   "date": "2026-12-05",
+   "genres": [
+    "食品"
+   ],
+   "shop": "KIOSK東京お土産HANAGATAYA",
+   "time": "9:00",
+   "tags": [],
+   "link": "entry215.html"
+  },
+  {
    "date": "2026-12-06",
    "genres": [
     "食品"
@@ -6920,6 +6952,17 @@ window.CAL_DATA = {
    "time": "",
    "tags": [],
    "link": "entry1052.html"
+  },
+  {
+   "date": "2026-12-25",
+   "genres": [
+    "元金担保型",
+    "店舗"
+   ],
+   "shop": "上高地あずさ珈琲",
+   "time": "",
+   "tags": [],
+   "link": "#4"
   },
   {
    "date": "2026-12-28",
