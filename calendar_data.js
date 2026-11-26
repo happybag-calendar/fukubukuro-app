@@ -1,6 +1,6 @@
 window.CAL_DATA = {
- "updated": "2026-11-26 21:07",
- "checked": "2026-11-26 21:07",
+ "updated": "2026-11-26 22:26",
+ "checked": "2026-11-26 22:26",
  "entries": [
   {
    "date": "2026-11-01",
@@ -6491,6 +6491,16 @@ window.CAL_DATA = {
   {
    "date": "2026-12-01",
    "genres": [
+    "日用品"
+   ],
+   "shop": "今治タオルの伊織",
+   "time": "12:00",
+   "tags": [],
+   "link": "entry856.html"
+  },
+  {
+   "date": "2026-12-01",
+   "genres": [
     "雑貨"
    ],
    "shop": "バス・トイレ用品センコーのB.L・Style",
@@ -6631,6 +6641,16 @@ window.CAL_DATA = {
    "time": "18:00",
    "tags": [],
    "link": "entry1017.html"
+  },
+  {
+   "date": "2026-12-02",
+   "genres": [
+    "雑貨"
+   ],
+   "shop": "しろたんタウン",
+   "time": "12:00",
+   "tags": [],
+   "link": "entry1060.html"
   },
   {
    "date": "2026-12-02",
