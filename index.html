@@ -123,12 +123,6 @@ ul.list{list-style:none;margin:0;padding:0;display:flex;flex-direction:column;ga
   <a class="mlink" id="momoLink" target="_blank" rel="noopener" hidden>くわしく見る ↗</a>
   <button class="mx" id="momoClose" type="button" aria-label="このお知らせを閉じる">×</button>
 </section>
-
-<section class="news" id="newsBox" aria-label="お知らせ" hidden>
-  <h2>お知らせ</h2>
-  <ul id="news"></ul>
-</section>
-
 <section class="panel" aria-live="polite">
   <div class="dayhead"><h2 id="dayTitle">本日の日程</h2><span class="sub" id="daySub"></span></div>
   <div class="filters" id="filters" role="group" aria-label="ジャンルで絞る"></div>
@@ -153,14 +147,12 @@ ul.list{list-style:none;margin:0;padding:0;display:flex;flex-direction:column;ga
 <p class="note">福袋カレンダー(happy-bag.biz)の日程表をもとにしています。日程は変わることがあります。</p>
 </main>
 <script src="calendar_data.js"></script>
-<script src="news.js"></script>
 <script src="momo.js"></script>
 <script src="genres_data.js"></script>
 <script>
 var BASE="https://happy-bag.biz/";
 var PAL=["--g1","--g2","--g3","--g4","--g5","--g6"];
 var ENTRIES=(window.CAL_DATA&&window.CAL_DATA.entries)||[];
-var NEWS=window.NEWS||[];
 var $=function(id){return document.getElementById(id)};
 // ジャンル: 件数の多い順に6つまで色を付け、それ以外は「その他」にまとめる
 var counts={}; ENTRIES.forEach(function(r){r.genres.forEach(function(g){if(g!=="予告")counts[g]=(counts[g]||0)+1;});});
@@ -223,38 +215,6 @@ function renderGrid(){
   })(d);}
 }
 function shift(n){view.m+=n;if(view.m<1){view.m=12;view.y--;}if(view.m>12){view.m=1;view.y++;}renderGrid();}
-function autoNews(){
-  // 次の印がある、今日と明日の福袋を、自動でお知らせにする(ジャンルの「元金担保型」も印として見る)
-  var MARK=["速報","抽選","元金担保型","人気","更新"];
-  var tomorrow=new Date(today.getFullYear(),today.getMonth(),today.getDate()+1);
-  var tk=key(tomorrow.getFullYear(),tomorrow.getMonth()+1,tomorrow.getDate());
-  var out=[];
-  ENTRIES.forEach(function(r){
-    if(r.date!==todayKey&&r.date!==tk)return;
-    var all=r.tags.concat(r.genres);
-    var m=MARK.filter(function(t){return all.indexOf(t)>=0});
-    if(!m.length)return;
-    var p=r.date.split("-");
-    out.push({rank:MARK.indexOf(m[0]),row:[r.date===todayKey?"本日":"明日",m.join("・")+"! "+r.shop+(r.time?"("+r.time+")":""),r.link]});
-  });
-  out.sort(function(a,b){return a.rank-b.rank});
-  var rows=out.slice(0,8).map(function(o){return o.row});
-  var n=byDay(todayKey).length;
-  if(n)rows.push(["本日","福袋は"+n+"件です。下の「本日の日程」で見られます","#"]);
-  return rows;
-}
-function renderNews(){
-  var ul=$("news"); ul.innerHTML="";
-  var list=NEWS.concat(autoNews());
-  if(!list.length){$("newsBox").hidden=true;return;}
-  $("newsBox").hidden=false;
-  list.forEach(function(n){
-    var li=document.createElement("li"), d=document.createElement("span"), a=document.createElement("a");
-    d.className="nd"; d.textContent=n[0]; a.textContent=n[1];
-    if(n[2]==="#"){a.href="#dayTitle";}else{a.href=BASE+n[2]; a.target="_blank"; a.rel="noopener";}
-    li.appendChild(d); li.appendChild(a); ul.appendChild(li);
-  });
-}
 var GROUPS=[
 ["ファッション",["メンズ","レディース","キッズ・ベビー","バッグ・小物","靴・シューズ","時計・腕時計","インナー・靴下"]],
 ["食品・飲み物",["食品","スイーツ・お菓子","水・お茶・紅茶","ワイン・ビール・洋酒","日本酒・焼酎"]],
@@ -316,7 +276,7 @@ function renderMomo(){
   $("momoClose").onclick=function(){$("momoBox").hidden=true;try{localStorage.setItem(KEY,sig);}catch(e){}};
   $("momoBox").hidden=false;
 }
-renderMomo(); renderNews(); renderFilters(); renderDay(); renderGrid();
+renderMomo(); renderFilters(); renderDay(); renderGrid();
 if("serviceWorker" in navigator){window.addEventListener("load",function(){navigator.serviceWorker.register("sw.js").catch(function(){});});}
 </script>
 </body>
