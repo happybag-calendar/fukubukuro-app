@@ -1,6 +1,6 @@
 window.CAL_DATA = {
- "updated": "2026-11-27 01:46",
- "checked": "2026-11-27 06:59",
+ "updated": "2026-11-27 08:03",
+ "checked": "2026-11-27 08:03",
  "entries": [
   {
    "date": "2026-11-16",
@@ -2921,7 +2921,9 @@ window.CAL_DATA = {
    ],
    "shop": "セゾンファクトリー公式",
    "time": "9:00",
-   "tags": [],
+   "tags": [
+    "人気"
+   ],
    "link": "entry523.html"
   },
   {
@@ -2933,6 +2935,16 @@ window.CAL_DATA = {
    "time": "",
    "tags": [],
    "link": "entry173.html"
+  },
+  {
+   "date": "2026-11-27",
+   "genres": [
+    "故郷"
+   ],
+   "shop": "ふるさと納税で福袋",
+   "time": "",
+   "tags": [],
+   "link": "entry521.html"
   },
   {
    "date": "2026-11-27",
