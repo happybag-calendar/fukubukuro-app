@@ -1,6 +1,6 @@
 window.CAL_DATA = {
- "updated": "2026-11-26 16:26",
- "checked": "2026-11-26 16:26",
+ "updated": "2026-11-26 18:14",
+ "checked": "2026-11-26 18:14",
  "entries": [
   {
    "date": "2026-11-01",
@@ -6199,6 +6199,18 @@ window.CAL_DATA = {
    "link": "entry523.html"
   },
   {
+   "date": "2026-11-29",
+   "genres": [
+    "レディース"
+   ],
+   "shop": "オシャレウォーカー",
+   "time": "10:00",
+   "tags": [
+    "人気"
+   ],
+   "link": "entry553.html"
+  },
+  {
    "date": "2026-11-30",
    "genres": [
     "食品"
@@ -6607,6 +6619,16 @@ window.CAL_DATA = {
   {
    "date": "2026-12-03",
    "genres": [
+    "日用品"
+   ],
+   "shop": "歯科医院専売品のデンタルフィット",
+   "time": "20:00",
+   "tags": [],
+   "link": "entry911.html"
+  },
+  {
+   "date": "2026-12-03",
+   "genres": [
     "雑貨"
    ],
    "shop": "能率手帳のNOLTY",
@@ -6691,10 +6713,50 @@ window.CAL_DATA = {
    "genres": [
     "食品"
    ],
+   "shop": "大浜スイーツアカデミー",
+   "time": "20:00",
+   "tags": [],
+   "link": "entry1018.html"
+  },
+  {
+   "date": "2026-12-03",
+   "genres": [
+    "食品"
+   ],
+   "shop": "牧場ギフト 飛騨の牛乳屋・牧成舎",
+   "time": "20:00",
+   "tags": [],
+   "link": "entry726.html"
+  },
+  {
+   "date": "2026-12-03",
+   "genres": [
+    "食品"
+   ],
+   "shop": "水郷の鳥屋さん",
+   "time": "20:00",
+   "tags": [],
+   "link": "entry917.html"
+  },
+  {
+   "date": "2026-12-03",
+   "genres": [
+    "食品"
+   ],
    "shop": "ご当地福袋一覧",
    "time": "20:00",
    "tags": [],
    "link": "entry1029.html"
+  },
+  {
+   "date": "2026-12-03",
+   "genres": [
+    "スーツ"
+   ],
+   "shop": "アトリエ365",
+   "time": "20:00",
+   "tags": [],
+   "link": "entry78.html"
   },
   {
    "date": "2026-12-03",
@@ -6849,6 +6911,18 @@ window.CAL_DATA = {
    "time": "12:00",
    "tags": [],
    "link": "entry578.html"
+  },
+  {
+   "date": "2026-12-08",
+   "genres": [
+    "食品"
+   ],
+   "shop": "イベリコ屋",
+   "time": "9:00",
+   "tags": [
+    "人気"
+   ],
+   "link": "entry736.html"
   },
   {
    "date": "2026-12-09",
