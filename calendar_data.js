@@ -1,6 +1,6 @@
 window.CAL_DATA = {
- "updated": "2026-11-26 18:46",
- "checked": "2026-11-26 19:20",
+ "updated": "2026-11-26 21:07",
+ "checked": "2026-11-26 21:07",
  "entries": [
   {
    "date": "2026-11-01",
@@ -6141,6 +6141,30 @@ window.CAL_DATA = {
    "link": "entry215.html"
   },
   {
+   "date": "2026-11-26",
+   "genres": [
+    "予告"
+   ],
+   "shop": "チャイハネ公式",
+   "time": "",
+   "tags": [
+    "予告"
+   ],
+   "link": "entry334.html"
+  },
+  {
+   "date": "2026-11-26",
+   "genres": [
+    "予告"
+   ],
+   "shop": "GOLFウエアのキスオンザグリーン",
+   "time": "",
+   "tags": [
+    "予告"
+   ],
+   "link": "entry441.html"
+  },
+  {
    "date": "2026-11-27",
    "genres": [
     "ファッション"
@@ -6443,6 +6467,16 @@ window.CAL_DATA = {
    "time": "12:00",
    "tags": [],
    "link": "entry607.html"
+  },
+  {
+   "date": "2026-12-01",
+   "genres": [
+    "ファッション"
+   ],
+   "shop": "チャイハネ公式",
+   "time": "18:00",
+   "tags": [],
+   "link": "entry334.html"
   },
   {
    "date": "2026-12-01",
@@ -6803,12 +6837,44 @@ window.CAL_DATA = {
   {
    "date": "2026-12-03",
    "genres": [
+    "子供服"
+   ],
+   "shop": "キャサリンコテージ",
+   "time": "20:00",
+   "tags": [],
+   "link": "entry775.html"
+  },
+  {
+   "date": "2026-12-03",
+   "genres": [
+    "小売店"
+   ],
+   "shop": "THE NORTH FACE",
+   "time": "20:00",
+   "tags": [],
+   "link": "entry535.html"
+  },
+  {
+   "date": "2026-12-03",
+   "genres": [
     "下着"
    ],
    "shop": "ブランドメンズ下着Crazy Ferret",
    "time": "12:00",
    "tags": [],
    "link": "entry1050.html"
+  },
+  {
+   "date": "2026-12-03",
+   "genres": [
+    "コスメ",
+    "4点セット",
+    "8点セット"
+   ],
+   "shop": "コスメドリーム",
+   "time": "20:00",
+   "tags": [],
+   "link": "entry412.html"
   },
   {
    "date": "2026-12-04",
@@ -6829,6 +6895,16 @@ window.CAL_DATA = {
    "time": "10:00",
    "tags": [],
    "link": "entry17.html"
+  },
+  {
+   "date": "2026-12-04",
+   "genres": [
+    "スポーツ"
+   ],
+   "shop": "GOLFウエアのキスオンザグリーン",
+   "time": "20:00",
+   "tags": [],
+   "link": "entry441.html"
   },
   {
    "date": "2026-12-04",
@@ -6875,6 +6951,16 @@ window.CAL_DATA = {
   {
    "date": "2026-12-04",
    "genres": [
+    "飲料"
+   ],
+   "shop": "マルコメ味噌公式",
+   "time": "20:00",
+   "tags": [],
+   "link": "entry754.html"
+  },
+  {
+   "date": "2026-12-04",
+   "genres": [
     "食品"
    ],
    "shop": "マクドナルドパティー製造のスターゼン",
@@ -6901,6 +6987,28 @@ window.CAL_DATA = {
    "time": "20:00",
    "tags": [],
    "link": "entry539.html"
+  },
+  {
+   "date": "2026-12-04",
+   "genres": [
+    "下着"
+   ],
+   "shop": "ブラデリスニューヨーク",
+   "time": "20:00",
+   "tags": [
+    "人気"
+   ],
+   "link": "entry529.html"
+  },
+  {
+   "date": "2026-12-04",
+   "genres": [
+    "健康"
+   ],
+   "shop": "ティーライフ公式",
+   "time": "20:00",
+   "tags": [],
+   "link": "entry279.html"
   },
   {
    "date": "2026-12-05",
@@ -6975,6 +7083,16 @@ window.CAL_DATA = {
    "time": "",
    "tags": [],
    "link": "entry13.html"
+  },
+  {
+   "date": "2026-12-10",
+   "genres": [
+    "食品"
+   ],
+   "shop": "名古屋調味料のイチビキ公式楽天市場店",
+   "time": "20:00",
+   "tags": [],
+   "link": "entry996.html"
   },
   {
    "date": "2026-12-10",
