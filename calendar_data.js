@@ -1,6 +1,6 @@
 window.CAL_DATA = {
- "updated": "2026-11-27 00:09",
- "checked": "2026-11-27 01:12",
+ "updated": "2026-11-27 01:46",
+ "checked": "2026-11-27 01:46",
  "entries": [
   {
    "date": "2026-11-16",
@@ -2935,6 +2935,18 @@ window.CAL_DATA = {
    "link": "entry173.html"
   },
   {
+   "date": "2026-11-27",
+   "genres": [
+    "予告"
+   ],
+   "shop": "シャチハタ公式",
+   "time": "",
+   "tags": [
+    "予告"
+   ],
+   "link": "entry895.html"
+  },
+  {
    "date": "2026-11-28",
    "genres": [
     "ファッション"
@@ -3085,6 +3097,16 @@ window.CAL_DATA = {
    "time": "13:00",
    "tags": [],
    "link": "entry16.html"
+  },
+  {
+   "date": "2026-12-01",
+   "genres": [
+    "雑貨"
+   ],
+   "shop": "シャチハタ公式",
+   "time": "11:00",
+   "tags": [],
+   "link": "entry895.html"
   },
   {
    "date": "2026-12-01",
