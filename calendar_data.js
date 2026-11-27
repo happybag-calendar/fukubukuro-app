@@ -1,6 +1,6 @@
 window.CAL_DATA = {
- "updated": "2026-11-28 08:02",
- "checked": "2026-11-28 08:02",
+ "updated": "2026-11-28 08:56",
+ "checked": "2026-11-28 08:56",
  "entries": [
   {
    "date": "2026-11-16",
@@ -3191,6 +3191,16 @@ window.CAL_DATA = {
   {
    "date": "2026-11-28",
    "genres": [
+    "故郷"
+   ],
+   "shop": "ふるさと納税で福袋",
+   "time": "",
+   "tags": [],
+   "link": "entry521.html"
+  },
+  {
+   "date": "2026-11-28",
+   "genres": [
     "予告"
    ],
    "shop": "プロキッチン",
@@ -3273,6 +3283,16 @@ window.CAL_DATA = {
     "人気"
    ],
    "link": "entry901.html"
+  },
+  {
+   "date": "2026-11-30",
+   "genres": [
+    "食品"
+   ],
+   "shop": "おつまみメーカーの神戸伍魚福",
+   "time": "0:00",
+   "tags": [],
+   "link": "entry1033.html"
   },
   {
    "date": "2026-11-30",
