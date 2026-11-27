@@ -1,6 +1,6 @@
 window.CAL_DATA = {
- "updated": "2026-11-27 13:10",
- "checked": "2026-11-27 13:10",
+ "updated": "2026-11-27 14:16",
+ "checked": "2026-11-27 14:16",
  "entries": [
   {
    "date": "2026-11-16",
@@ -2903,6 +2903,18 @@ window.CAL_DATA = {
     "予告"
    ],
    "link": "entry441.html"
+  },
+  {
+   "date": "2026-11-27",
+   "genres": [
+    "眼鏡"
+   ],
+   "shop": "眼鏡市場公式通販",
+   "time": "10:00",
+   "tags": [
+    "速報"
+   ],
+   "link": "entry289.html"
   },
   {
    "date": "2026-11-27",
