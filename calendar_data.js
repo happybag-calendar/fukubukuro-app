@@ -1,6 +1,6 @@
 window.CAL_DATA = {
- "updated": "2026-11-28 07:00",
- "checked": "2026-11-28 07:02",
+ "updated": "2026-11-28 08:02",
+ "checked": "2026-11-28 08:02",
  "entries": [
   {
    "date": "2026-11-16",
@@ -3189,6 +3189,18 @@ window.CAL_DATA = {
    "link": "entry543.html"
   },
   {
+   "date": "2026-11-28",
+   "genres": [
+    "予告"
+   ],
+   "shop": "プロキッチン",
+   "time": "",
+   "tags": [
+    "予告"
+   ],
+   "link": "entry977.html"
+  },
+  {
    "date": "2026-11-29",
    "genres": [
     "食品"
@@ -4043,6 +4055,16 @@ window.CAL_DATA = {
    "time": "20:00",
    "tags": [],
    "link": "entry851.html"
+  },
+  {
+   "date": "2026-12-04",
+   "genres": [
+    "キッチン"
+   ],
+   "shop": "プロキッチン",
+   "time": "12:30",
+   "tags": [],
+   "link": "entry977.html"
   },
   {
    "date": "2026-12-04",
