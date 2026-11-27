@@ -1,6 +1,6 @@
 window.CAL_DATA = {
- "updated": "2026-11-27 10:25",
- "checked": "2026-11-27 10:37",
+ "updated": "2026-11-27 12:01",
+ "checked": "2026-11-27 12:01",
  "entries": [
   {
    "date": "2026-11-16",
@@ -2993,6 +2993,18 @@ window.CAL_DATA = {
    "link": "entry946.html"
   },
   {
+   "date": "2026-11-27",
+   "genres": [
+    "予告"
+   ],
+   "shop": "貝印公式KAIストア",
+   "time": "",
+   "tags": [
+    "予告"
+   ],
+   "link": "entry633.html"
+  },
+  {
    "date": "2026-11-28",
    "genres": [
     "ファッション"
@@ -3149,6 +3161,26 @@ window.CAL_DATA = {
   {
    "date": "2026-12-01",
    "genres": [
+    "ファッション"
+   ],
+   "shop": "チャイハネ公式",
+   "time": "18:00",
+   "tags": [],
+   "link": "entry334.html"
+  },
+  {
+   "date": "2026-12-01",
+   "genres": [
+    "キッチン"
+   ],
+   "shop": "貝印公式KAIストア",
+   "time": "10:00",
+   "tags": [],
+   "link": "entry633.html"
+  },
+  {
+   "date": "2026-12-01",
+   "genres": [
     "雑貨"
    ],
    "shop": "シャチハタ公式",
@@ -3181,6 +3213,36 @@ window.CAL_DATA = {
    "genres": [
     "雑貨"
    ],
+   "shop": "エスプレッソ珈琲メーカーBIALETTI",
+   "time": "",
+   "tags": [],
+   "link": "entry907.html"
+  },
+  {
+   "date": "2026-12-01",
+   "genres": [
+    "日用品"
+   ],
+   "shop": "今治タオルの伊織",
+   "time": "12:00",
+   "tags": [],
+   "link": "entry856.html"
+  },
+  {
+   "date": "2026-12-01",
+   "genres": [
+    "雑貨"
+   ],
+   "shop": "バス・トイレ用品センコーのB.L・Style",
+   "time": "0:00",
+   "tags": [],
+   "link": "entry749.html"
+  },
+  {
+   "date": "2026-12-01",
+   "genres": [
+    "雑貨"
+   ],
    "shop": "ミニオンズモール",
    "time": "12:00",
    "tags": [],
@@ -3201,10 +3263,10 @@ window.CAL_DATA = {
    "genres": [
     "雑貨"
    ],
-   "shop": "エスプレッソ珈琲メーカーBIALETTI",
+   "shop": "将棋連盟公式通販",
    "time": "",
    "tags": [],
-   "link": "entry907.html"
+   "link": "entry128.html"
   },
   {
    "date": "2026-12-01",
@@ -3239,12 +3301,22 @@ window.CAL_DATA = {
   {
    "date": "2026-12-01",
    "genres": [
-    "ご当地"
+    "食品"
    ],
-   "shop": "ご当地福袋一覧",
+   "shop": "ちこり村公式",
    "time": "",
    "tags": [],
-   "link": "entry1029.html"
+   "link": "entry849.html"
+  },
+  {
+   "date": "2026-12-01",
+   "genres": [
+    "食品"
+   ],
+   "shop": "ケーニヒス クローネ",
+   "time": "0:00",
+   "tags": [],
+   "link": "entry882.html"
   },
   {
    "date": "2026-12-01",
@@ -3261,12 +3333,12 @@ window.CAL_DATA = {
   {
    "date": "2026-12-01",
    "genres": [
-    "食品"
+    "飲料"
    ],
-   "shop": "ちこり村公式",
-   "time": "",
+   "shop": "UCC公式楽天市場店",
+   "time": "10:00",
    "tags": [],
-   "link": "entry849.html"
+   "link": "entry498.html"
   },
   {
    "date": "2026-12-01",
@@ -3281,62 +3353,12 @@ window.CAL_DATA = {
   {
    "date": "2026-12-01",
    "genres": [
-    "ファッション"
+    "ご当地"
    ],
-   "shop": "チャイハネ公式",
-   "time": "18:00",
-   "tags": [],
-   "link": "entry334.html"
-  },
-  {
-   "date": "2026-12-01",
-   "genres": [
-    "食品"
-   ],
-   "shop": "ケーニヒス クローネ",
-   "time": "0:00",
-   "tags": [],
-   "link": "entry882.html"
-  },
-  {
-   "date": "2026-12-01",
-   "genres": [
-    "日用品"
-   ],
-   "shop": "今治タオルの伊織",
-   "time": "12:00",
-   "tags": [],
-   "link": "entry856.html"
-  },
-  {
-   "date": "2026-12-01",
-   "genres": [
-    "雑貨"
-   ],
-   "shop": "バス・トイレ用品センコーのB.L・Style",
-   "time": "0:00",
-   "tags": [],
-   "link": "entry749.html"
-  },
-  {
-   "date": "2026-12-01",
-   "genres": [
-    "雑貨"
-   ],
-   "shop": "将棋連盟公式通販",
+   "shop": "ご当地福袋一覧",
    "time": "",
    "tags": [],
-   "link": "entry128.html"
-  },
-  {
-   "date": "2026-12-01",
-   "genres": [
-    "飲料"
-   ],
-   "shop": "UCC公式楽天市場店",
-   "time": "10:00",
-   "tags": [],
-   "link": "entry498.html"
+   "link": "entry1029.html"
   },
   {
    "date": "2026-12-01",
