@@ -1,6 +1,6 @@
 window.CAL_DATA = {
- "updated": "2026-11-27 08:03",
- "checked": "2026-11-27 08:03",
+ "updated": "2026-11-27 09:01",
+ "checked": "2026-11-27 09:01",
  "entries": [
   {
    "date": "2026-11-16",
@@ -2965,7 +2965,9 @@ window.CAL_DATA = {
    ],
    "shop": "楽天 Lucky Bag Store",
    "time": "10:00",
-   "tags": [],
+   "tags": [
+    "人気"
+   ],
    "link": "entry62.html"
   },
   {
