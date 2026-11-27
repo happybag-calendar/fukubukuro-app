@@ -1,6 +1,6 @@
 window.CAL_DATA = {
- "updated": "2026-11-27 09:01",
- "checked": "2026-11-27 09:01",
+ "updated": "2026-11-27 10:25",
+ "checked": "2026-11-27 10:25",
  "entries": [
   {
    "date": "2026-11-16",
@@ -2949,6 +2949,16 @@ window.CAL_DATA = {
   {
    "date": "2026-11-27",
    "genres": [
+    "店舗"
+   ],
+   "shop": "マクドナルド",
+   "time": "",
+   "tags": [],
+   "link": "entry674.html"
+  },
+  {
+   "date": "2026-11-27",
+   "genres": [
     "予告"
    ],
    "shop": "シャチハタ公式",
@@ -2957,6 +2967,30 @@ window.CAL_DATA = {
     "予告"
    ],
    "link": "entry895.html"
+  },
+  {
+   "date": "2026-11-27",
+   "genres": [
+    "予告"
+   ],
+   "shop": "ナチュラルファッションのecoloco",
+   "time": "",
+   "tags": [
+    "予告"
+   ],
+   "link": "entry851.html"
+  },
+  {
+   "date": "2026-11-27",
+   "genres": [
+    "予告"
+   ],
+   "shop": "とんかつ濵かつ",
+   "time": "",
+   "tags": [
+    "予告"
+   ],
+   "link": "entry946.html"
   },
   {
    "date": "2026-11-28",
@@ -3389,13 +3423,11 @@ window.CAL_DATA = {
   {
    "date": "2026-12-02",
    "genres": [
-    "予告"
+    "食品"
    ],
    "shop": "一蘭ラーメン",
    "time": "11:00",
-   "tags": [
-    "予告"
-   ],
+   "tags": [],
    "link": "entry608.html"
   },
   {
@@ -3487,6 +3519,16 @@ window.CAL_DATA = {
    "time": "20:00",
    "tags": [],
    "link": "entry911.html"
+  },
+  {
+   "date": "2026-12-03",
+   "genres": [
+    "キッチン"
+   ],
+   "shop": "貝印KAIストア楽天市場店",
+   "time": "20:00",
+   "tags": [],
+   "link": "entry633.html"
   },
   {
    "date": "2026-12-03",
@@ -3705,6 +3747,16 @@ window.CAL_DATA = {
   {
    "date": "2026-12-04",
    "genres": [
+    "レディース"
+   ],
+   "shop": "ナチュラルファッションのecoloco",
+   "time": "20:00",
+   "tags": [],
+   "link": "entry851.html"
+  },
+  {
+   "date": "2026-12-04",
+   "genres": [
     "日用品"
    ],
    "shop": "姫路流通センター",
@@ -3889,6 +3941,16 @@ window.CAL_DATA = {
    "time": "20:00",
    "tags": [],
    "link": "entry996.html"
+  },
+  {
+   "date": "2026-12-10",
+   "genres": [
+    "元金担保型"
+   ],
+   "shop": "とんかつ濵かつ",
+   "time": "",
+   "tags": [],
+   "link": "entry946.html"
   },
   {
    "date": "2026-12-10",
