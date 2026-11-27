@@ -1,6 +1,6 @@
 window.CAL_DATA = {
- "updated": "2026-11-27 15:16",
- "checked": "2026-11-27 15:16",
+ "updated": "2026-11-27 16:37",
+ "checked": "2026-11-27 16:37",
  "entries": [
   {
    "date": "2026-11-16",
@@ -3029,6 +3029,30 @@ window.CAL_DATA = {
    "link": "entry633.html"
   },
   {
+   "date": "2026-11-27",
+   "genres": [
+    "予告"
+   ],
+   "shop": "伊藤久右衛門",
+   "time": "",
+   "tags": [
+    "予告"
+   ],
+   "link": "entry522.html"
+  },
+  {
+   "date": "2026-11-27",
+   "genres": [
+    "予告"
+   ],
+   "shop": "Eggs ’n Things",
+   "time": "",
+   "tags": [
+    "予告"
+   ],
+   "link": "entry498.html"
+  },
+  {
    "date": "2026-11-28",
    "genres": [
     "ファッション"
@@ -3123,6 +3147,18 @@ window.CAL_DATA = {
    "link": "entry1049.html"
   },
   {
+   "date": "2026-11-30",
+   "genres": [
+    "食品"
+   ],
+   "shop": "新潟米の加藤製菓",
+   "time": "8:00",
+   "tags": [
+    "人気"
+   ],
+   "link": "entry558.html"
+  },
+  {
    "date": "2026-12-01",
    "genres": [
     "ファッション"
@@ -3201,6 +3237,26 @@ window.CAL_DATA = {
    "time": "18:00",
    "tags": [],
    "link": "entry334.html"
+  },
+  {
+   "date": "2026-12-01",
+   "genres": [
+    "メンズ"
+   ],
+   "shop": "シルバーバレット公式",
+   "time": "0:00",
+   "tags": [],
+   "link": "entry158.html"
+  },
+  {
+   "date": "2026-12-01",
+   "genres": [
+    "子供服"
+   ],
+   "shop": "にんじゃがキッズ",
+   "time": "10:00",
+   "tags": [],
+   "link": "entry515.html"
   },
   {
    "date": "2026-12-01",
@@ -3547,6 +3603,16 @@ window.CAL_DATA = {
    "link": "entry1029.html"
   },
   {
+   "date": "2026-12-02",
+   "genres": [
+    "元金担保型"
+   ],
+   "shop": "Eggs ’n Things",
+   "time": "12:00",
+   "tags": [],
+   "link": "entry498.html"
+  },
+  {
    "date": "2026-12-03",
    "genres": [
     "百貨店"
@@ -3625,6 +3691,16 @@ window.CAL_DATA = {
    "time": "20:00",
    "tags": [],
    "link": "entry498.html"
+  },
+  {
+   "date": "2026-12-03",
+   "genres": [
+    "食品"
+   ],
+   "shop": "伊藤久右衛門",
+   "time": "6:00",
+   "tags": [],
+   "link": "entry522.html"
   },
   {
    "date": "2026-12-03",
@@ -3923,6 +3999,16 @@ window.CAL_DATA = {
    "time": "20:00",
    "tags": [],
    "link": "entry279.html"
+  },
+  {
+   "date": "2026-12-04",
+   "genres": [
+    "コスメ"
+   ],
+   "shop": "TIRTIR（ティルティル）",
+   "time": "20:00",
+   "tags": [],
+   "link": "entry683.html"
   },
   {
    "date": "2026-12-05",
