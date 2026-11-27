@@ -1,6 +1,6 @@
 window.CAL_DATA = {
- "updated": "2026-11-27 17:23",
- "checked": "2026-11-27 17:27",
+ "updated": "2026-11-27 18:11",
+ "checked": "2026-11-27 18:11",
  "entries": [
   {
    "date": "2026-11-16",
@@ -2907,6 +2907,18 @@ window.CAL_DATA = {
   {
    "date": "2026-11-27",
    "genres": [
+    "食品"
+   ],
+   "shop": "タイカレーのヤマモリ",
+   "time": "18:00",
+   "tags": [
+    "速報"
+   ],
+   "link": "entry836.html"
+  },
+  {
+   "date": "2026-11-27",
+   "genres": [
     "スポーツ"
    ],
    "shop": "KELME公式",
@@ -2969,9 +2981,7 @@ window.CAL_DATA = {
    ],
    "shop": "セゾンファクトリー公式",
    "time": "9:00",
-   "tags": [
-    "人気"
-   ],
+   "tags": [],
    "link": "entry523.html"
   },
   {
@@ -3081,6 +3091,18 @@ window.CAL_DATA = {
    "genres": [
     "予告"
    ],
+   "shop": "近沢レース",
+   "time": "",
+   "tags": [
+    "予告"
+   ],
+   "link": "entry564.html"
+  },
+  {
+   "date": "2026-11-27",
+   "genres": [
+    "予告"
+   ],
    "shop": "Eggs ’n Things",
    "time": "",
    "tags": [
@@ -3107,7 +3129,9 @@ window.CAL_DATA = {
    ],
    "shop": "セゾンファクトリー公式",
    "time": "9:00",
-   "tags": [],
+   "tags": [
+    "人気"
+   ],
    "link": "entry523.html"
   },
   {
@@ -3315,6 +3339,16 @@ window.CAL_DATA = {
    "time": "10:00",
    "tags": [],
    "link": "entry515.html"
+  },
+  {
+   "date": "2026-12-01",
+   "genres": [
+    "ファッション"
+   ],
+   "shop": "近沢レース",
+   "time": "10:00",
+   "tags": [],
+   "link": "entry564.html"
   },
   {
    "date": "2026-12-01",
