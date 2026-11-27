@@ -1,6 +1,6 @@
 window.CAL_DATA = {
- "updated": "2026-11-27 18:11",
- "checked": "2026-11-27 18:15",
+ "updated": "2026-11-27 19:18",
+ "checked": "2026-11-27 19:18",
  "entries": [
   {
    "date": "2026-11-16",
@@ -2512,6 +2512,18 @@ window.CAL_DATA = {
    "genres": [
     "その他"
    ],
+   "shop": "エディオン公式",
+   "time": "",
+   "tags": [
+    "抽選"
+   ],
+   "link": "entry151.html"
+  },
+  {
+   "date": "2026-11-25",
+   "genres": [
+    "その他"
+   ],
    "shop": "ポケモンセンター公式",
    "time": "",
    "tags": [
@@ -3097,6 +3109,18 @@ window.CAL_DATA = {
     "予告"
    ],
    "link": "entry564.html"
+  },
+  {
+   "date": "2026-11-27",
+   "genres": [
+    "予告"
+   ],
+   "shop": "ACTUS公式通販",
+   "time": "",
+   "tags": [
+    "予告"
+   ],
+   "link": "entry210.html"
   },
   {
    "date": "2026-11-27",
@@ -4217,6 +4241,16 @@ window.CAL_DATA = {
    "time": "",
    "tags": [],
    "link": "entry946.html"
+  },
+  {
+   "date": "2026-12-11",
+   "genres": [
+    "日用品"
+   ],
+   "shop": "ACTUS公式通販",
+   "time": "10:00",
+   "tags": [],
+   "link": "entry210.html"
   },
   {
    "date": "2026-12-11",
