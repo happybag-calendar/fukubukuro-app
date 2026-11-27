@@ -1,6 +1,6 @@
 window.CAL_DATA = {
- "updated": "2026-11-27 16:37",
- "checked": "2026-11-27 16:37",
+ "updated": "2026-11-27 17:23",
+ "checked": "2026-11-27 17:23",
  "entries": [
   {
    "date": "2026-11-16",
@@ -2907,6 +2907,30 @@ window.CAL_DATA = {
   {
    "date": "2026-11-27",
    "genres": [
+    "スポーツ"
+   ],
+   "shop": "KELME公式",
+   "time": "17:00",
+   "tags": [
+    "速報"
+   ],
+   "link": "entry1062.html"
+  },
+  {
+   "date": "2026-11-27",
+   "genres": [
+    "ファッション"
+   ],
+   "shop": "EDWIN公式通販",
+   "time": "",
+   "tags": [
+    "速報"
+   ],
+   "link": "entry220.html"
+  },
+  {
+   "date": "2026-11-27",
+   "genres": [
     "眼鏡"
    ],
    "shop": "眼鏡市場公式通販",
@@ -3045,6 +3069,18 @@ window.CAL_DATA = {
    "genres": [
     "予告"
    ],
+   "shop": "MIZOGUCHISPORTS",
+   "time": "",
+   "tags": [
+    "予告"
+   ],
+   "link": "entry1040.html"
+  },
+  {
+   "date": "2026-11-27",
+   "genres": [
+    "予告"
+   ],
    "shop": "Eggs ’n Things",
    "time": "",
    "tags": [
@@ -3107,6 +3143,16 @@ window.CAL_DATA = {
   {
    "date": "2026-11-29",
    "genres": [
+    "酒類"
+   ],
+   "shop": "ENOTECA公式",
+   "time": "8:00",
+   "tags": [],
+   "link": "entry188.html"
+  },
+  {
+   "date": "2026-11-29",
+   "genres": [
     "レディース"
    ],
    "shop": "オシャレウォーカー",
@@ -3145,6 +3191,18 @@ window.CAL_DATA = {
    "time": "12:00",
    "tags": [],
    "link": "entry1049.html"
+  },
+  {
+   "date": "2026-11-30",
+   "genres": [
+    "食品"
+   ],
+   "shop": "おやつカルパスのヤガイ",
+   "time": "0:00",
+   "tags": [
+    "人気"
+   ],
+   "link": "entry901.html"
   },
   {
    "date": "2026-11-30",
@@ -3685,6 +3743,18 @@ window.CAL_DATA = {
   {
    "date": "2026-12-03",
    "genres": [
+    "食品"
+   ],
+   "shop": "おやつカルパスのヤガイ",
+   "time": "20:00",
+   "tags": [
+    "人気"
+   ],
+   "link": "entry901.html"
+  },
+  {
+   "date": "2026-12-03",
+   "genres": [
     "カフェ"
    ],
    "shop": "カフェ・ベローチェ",
@@ -3919,12 +3989,12 @@ window.CAL_DATA = {
   {
    "date": "2026-12-04",
    "genres": [
-    "酒類"
+    "スポーツ"
    ],
-   "shop": "酒造メーカー直営月桂冠",
+   "shop": "MIZOGUCHISPORTS",
    "time": "20:00",
    "tags": [],
-   "link": "entry1057.html"
+   "link": "entry1040.html"
   },
   {
    "date": "2026-12-04",
