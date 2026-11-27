@@ -8,9 +8,10 @@
 window.MOMO = {
   title: "モモGの「ちょっとちょっと得してチョ♪」",
   date: "11月27日",
-  text: "本日から3日間、セゾンファクトリーの福袋が朝9時から開催されます!\n毎年、大人気ですので要チェックですね^^",
+  text: "EDWINとKELMEを新着で更新しています",
   links: {
-    "セゾンファクトリー": "entry523.html",
+    "EDWIN": "entry220.html",
+    "KELME": "entry1062.html",
   },
   link: ""
 };
