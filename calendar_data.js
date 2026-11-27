@@ -1,6 +1,6 @@
 window.CAL_DATA = {
- "updated": "2026-11-27 19:18",
- "checked": "2026-11-27 19:18",
+ "updated": "2026-11-27 21:02",
+ "checked": "2026-11-27 21:02",
  "entries": [
   {
    "date": "2026-11-16",
@@ -2999,6 +2999,16 @@ window.CAL_DATA = {
   {
    "date": "2026-11-27",
    "genres": [
+    "食品"
+   ],
+   "shop": "世界のオーダーチーズ公式",
+   "time": "16:00",
+   "tags": [],
+   "link": "entry205.html"
+  },
+  {
+   "date": "2026-11-27",
+   "genres": [
     "日用品"
    ],
    "shop": "トイザらス・ベビーザらス",
@@ -3121,6 +3131,18 @@ window.CAL_DATA = {
     "予告"
    ],
    "link": "entry210.html"
+  },
+  {
+   "date": "2026-11-27",
+   "genres": [
+    "予告"
+   ],
+   "shop": "ホワイトタイガーとブラックタイガー",
+   "time": "",
+   "tags": [
+    "予告"
+   ],
+   "link": "entry1017.html"
   },
   {
    "date": "2026-11-27",
@@ -3674,6 +3696,16 @@ window.CAL_DATA = {
     "雑貨"
    ],
    "shop": "もふもふマーケット",
+   "time": "18:00",
+   "tags": [],
+   "link": "entry1017.html"
+  },
+  {
+   "date": "2026-12-02",
+   "genres": [
+    "雑貨"
+   ],
+   "shop": "ホワイトタイガーとブラックタイガー",
    "time": "18:00",
    "tags": [],
    "link": "entry1017.html"
