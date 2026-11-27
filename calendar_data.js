@@ -1,6 +1,6 @@
 window.CAL_DATA = {
- "updated": "2026-11-27 12:01",
- "checked": "2026-11-27 12:01",
+ "updated": "2026-11-27 13:10",
+ "checked": "2026-11-27 13:10",
  "entries": [
   {
    "date": "2026-11-16",
@@ -2917,6 +2917,18 @@ window.CAL_DATA = {
   {
    "date": "2026-11-27",
    "genres": [
+    "メンズ"
+   ],
+   "shop": "大きいサイズのサカゼン公式通販",
+   "time": "",
+   "tags": [
+    "速報"
+   ],
+   "link": "entry157.html"
+  },
+  {
+   "date": "2026-11-27",
+   "genres": [
     "食品"
    ],
    "shop": "セゾンファクトリー公式",
@@ -3097,6 +3109,16 @@ window.CAL_DATA = {
    "time": "12:00",
    "tags": [],
    "link": "entry1049.html"
+  },
+  {
+   "date": "2026-12-01",
+   "genres": [
+    "ファッション"
+   ],
+   "shop": "楽天 Lucky Bag Store",
+   "time": "10:00",
+   "tags": [],
+   "link": "entry62.html"
   },
   {
    "date": "2026-12-01",
@@ -3481,6 +3503,16 @@ window.CAL_DATA = {
    "time": "12:00",
    "tags": [],
    "link": "entry1060.html"
+  },
+  {
+   "date": "2026-12-02",
+   "genres": [
+    "雑貨"
+   ],
+   "shop": "ペットパラダイス",
+   "time": "12:00",
+   "tags": [],
+   "link": "entry588.html"
   },
   {
    "date": "2026-12-02",
