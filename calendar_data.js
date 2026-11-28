@@ -1,16 +1,16 @@
 window.CAL_DATA = {
- "updated": "2026-11-28 14:06",
- "checked": "2026-11-28 14:06",
+ "updated": "2026-11-28 15:05",
+ "checked": "2026-11-28 15:05",
  "entries": [
   {
    "date": "2026-11-16",
    "genres": [
-    "趣味"
+    "その他"
    ],
    "shop": "宝塚歌劇の公式ショップ",
    "time": "",
    "tags": [],
-   "link": "#4"
+   "link": "entry1011.html"
   },
   {
    "date": "2026-11-16",
@@ -2332,7 +2332,7 @@ window.CAL_DATA = {
     "速報",
     "抽選"
    ],
-   "link": "#4"
+   "link": "entry1011.html"
   },
   {
    "date": "2026-11-24",
@@ -3239,6 +3239,16 @@ window.CAL_DATA = {
    "time": "9:00",
    "tags": [],
    "link": "entry523.html"
+  },
+  {
+   "date": "2026-11-29",
+   "genres": [
+    "その他"
+   ],
+   "shop": "天龍プロジェクト",
+   "time": "10:00",
+   "tags": [],
+   "link": "entry1011.html"
   },
   {
    "date": "2026-11-29",
