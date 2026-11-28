@@ -1,6 +1,6 @@
 window.CAL_DATA = {
- "updated": "2026-11-28 19:55",
- "checked": "2026-11-28 19:55",
+ "updated": "2026-11-28 20:53",
+ "checked": "2026-11-28 20:53",
  "entries": [
   {
    "date": "2026-11-16",
@@ -3275,6 +3275,16 @@ window.CAL_DATA = {
   {
    "date": "2026-11-29",
    "genres": [
+    "食品"
+   ],
+   "shop": "おいも屋公式楽天市場店",
+   "time": "10:00",
+   "tags": [],
+   "link": "entry794.html"
+  },
+  {
+   "date": "2026-11-29",
+   "genres": [
     "レディース"
    ],
    "shop": "オシャレウォーカー",
@@ -3325,6 +3335,18 @@ window.CAL_DATA = {
     "人気"
    ],
    "link": "entry901.html"
+  },
+  {
+   "date": "2026-11-30",
+   "genres": [
+    "食品"
+   ],
+   "shop": "1973年創業浜松ハム",
+   "time": "0:00",
+   "tags": [
+    "人気"
+   ],
+   "link": "entry1066.html"
   },
   {
    "date": "2026-11-30",
@@ -3975,6 +3997,18 @@ window.CAL_DATA = {
     "人気"
    ],
    "link": "entry901.html"
+  },
+  {
+   "date": "2026-12-03",
+   "genres": [
+    "食品"
+   ],
+   "shop": "丸味食品あてめあて",
+   "time": "20:00",
+   "tags": [
+    "人気"
+   ],
+   "link": "entry1065.html"
   },
   {
    "date": "2026-12-03",
