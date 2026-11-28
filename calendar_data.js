@@ -1,6 +1,6 @@
 window.CAL_DATA = {
- "updated": "2026-11-28 18:57",
- "checked": "2026-11-28 18:57",
+ "updated": "2026-11-28 19:55",
+ "checked": "2026-11-28 19:55",
  "entries": [
   {
    "date": "2026-11-16",
@@ -3646,7 +3646,7 @@ window.CAL_DATA = {
     "食品"
    ],
    "shop": "イベリコ屋",
-   "time": "0:00",
+   "time": "",
    "tags": [],
    "link": "entry736.html"
   },
@@ -4073,6 +4073,18 @@ window.CAL_DATA = {
    "genres": [
     "食品"
    ],
+   "shop": "横浜大飯店",
+   "time": "20:00",
+   "tags": [
+    "人気"
+   ],
+   "link": "entry1064.html"
+  },
+  {
+   "date": "2026-12-03",
+   "genres": [
+    "食品"
+   ],
    "shop": "北海道マルシェ",
    "time": "20:00",
    "tags": [],
@@ -4271,6 +4283,16 @@ window.CAL_DATA = {
    "time": "20:00",
    "tags": [],
    "link": "entry874.html"
+  },
+  {
+   "date": "2026-12-04",
+   "genres": [
+    "食品"
+   ],
+   "shop": "老舗の匠 製麺処 桔梗庵",
+   "time": "20:00",
+   "tags": [],
+   "link": "entry608.html"
   },
   {
    "date": "2026-12-04",
