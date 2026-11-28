@@ -1,6 +1,6 @@
 window.CAL_DATA = {
- "updated": "2026-11-28 20:53",
- "checked": "2026-11-28 20:53",
+ "updated": "2026-11-28 21:54",
+ "checked": "2026-11-28 21:54",
  "entries": [
   {
    "date": "2026-11-16",
@@ -3243,6 +3243,18 @@ window.CAL_DATA = {
    "link": "entry977.html"
   },
   {
+   "date": "2026-11-28",
+   "genres": [
+    "予告"
+   ],
+   "shop": "手芸用品のユザワヤ",
+   "time": "",
+   "tags": [
+    "予告"
+   ],
+   "link": "entry974.html"
+  },
+  {
    "date": "2026-11-29",
    "genres": [
     "食品"
@@ -3549,6 +3561,16 @@ window.CAL_DATA = {
    "time": "12:00",
    "tags": [],
    "link": "entry856.html"
+  },
+  {
+   "date": "2026-12-01",
+   "genres": [
+    "手芸"
+   ],
+   "shop": "手芸用品のユザワヤ",
+   "time": "12:00",
+   "tags": [],
+   "link": "entry974.html"
   },
   {
    "date": "2026-12-01",
@@ -3989,6 +4011,16 @@ window.CAL_DATA = {
   {
    "date": "2026-12-03",
    "genres": [
+    "飲料"
+   ],
+   "shop": "澤井コーヒー",
+   "time": "20:00",
+   "tags": [],
+   "link": "entry984.html"
+  },
+  {
+   "date": "2026-12-03",
+   "genres": [
     "食品"
    ],
    "shop": "おやつカルパスのヤガイ",
@@ -4317,6 +4349,16 @@ window.CAL_DATA = {
    "time": "20:00",
    "tags": [],
    "link": "entry874.html"
+  },
+  {
+   "date": "2026-12-04",
+   "genres": [
+    "飲料"
+   ],
+   "shop": "長峰製茶",
+   "time": "20:00",
+   "tags": [],
+   "link": "entry1067.html"
   },
   {
    "date": "2026-12-04",
