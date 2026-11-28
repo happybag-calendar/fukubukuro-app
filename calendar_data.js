@@ -1,6 +1,6 @@
 window.CAL_DATA = {
- "updated": "2026-11-28 11:58",
- "checked": "2026-11-28 11:58",
+ "updated": "2026-11-28 13:00",
+ "checked": "2026-11-28 13:00",
  "entries": [
   {
    "date": "2026-11-16",
@@ -3191,6 +3191,16 @@ window.CAL_DATA = {
   {
    "date": "2026-11-28",
    "genres": [
+    "食品"
+   ],
+   "shop": "御当地福袋一覧",
+   "time": "16:00",
+   "tags": [],
+   "link": "entry1029.html"
+  },
+  {
+   "date": "2026-11-28",
+   "genres": [
     "故郷"
    ],
    "shop": "ふるさと納税で福袋",
@@ -3699,6 +3709,16 @@ window.CAL_DATA = {
    "time": "",
    "tags": [],
    "link": "#4"
+  },
+  {
+   "date": "2026-12-02",
+   "genres": [
+    "ファッション"
+   ],
+   "shop": "calif公式通販",
+   "time": "12:00",
+   "tags": [],
+   "link": "entry252.html"
   },
   {
    "date": "2026-12-02",
