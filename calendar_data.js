@@ -1,6 +1,6 @@
 window.CAL_DATA = {
- "updated": "2026-11-28 17:57",
- "checked": "2026-11-28 17:57",
+ "updated": "2026-11-28 18:57",
+ "checked": "2026-11-28 18:57",
  "entries": [
   {
    "date": "2026-11-16",
@@ -3623,6 +3623,48 @@ window.CAL_DATA = {
    "genres": [
     "食品"
    ],
+   "shop": "アマノフーズの福袋一覧",
+   "time": "0:00",
+   "tags": [
+    "人気"
+   ],
+   "link": "entry593.html"
+  },
+  {
+   "date": "2026-12-01",
+   "genres": [
+    "食品"
+   ],
+   "shop": "ミートガイ公式",
+   "time": "0:00",
+   "tags": [],
+   "link": "entry816.html"
+  },
+  {
+   "date": "2026-12-01",
+   "genres": [
+    "食品"
+   ],
+   "shop": "イベリコ屋",
+   "time": "0:00",
+   "tags": [],
+   "link": "entry736.html"
+  },
+  {
+   "date": "2026-12-01",
+   "genres": [
+    "食品"
+   ],
+   "shop": "おいも屋公式楽天市場店",
+   "time": "",
+   "tags": [],
+   "link": "entry794.html"
+  },
+  {
+   "date": "2026-12-01",
+   "genres": [
+    "食品"
+   ],
    "shop": "ちこり村公式",
    "time": "",
    "tags": [],
@@ -4031,6 +4073,16 @@ window.CAL_DATA = {
    "genres": [
     "食品"
    ],
+   "shop": "北海道マルシェ",
+   "time": "20:00",
+   "tags": [],
+   "link": "entry1001.html"
+  },
+  {
+   "date": "2026-12-03",
+   "genres": [
+    "食品"
+   ],
    "shop": "水郷の鳥屋さん",
    "time": "20:00",
    "tags": [],
@@ -4281,6 +4333,18 @@ window.CAL_DATA = {
    "time": "9:00",
    "tags": [],
    "link": "entry215.html"
+  },
+  {
+   "date": "2026-12-05",
+   "genres": [
+    "食品"
+   ],
+   "shop": "宮崎県都城市公式通販",
+   "time": "0:00",
+   "tags": [
+    "人気"
+   ],
+   "link": "entry1003.html"
   },
   {
    "date": "2026-12-06",
