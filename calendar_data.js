@@ -1,6 +1,6 @@
 window.CAL_DATA = {
- "updated": "2026-11-28 15:05",
- "checked": "2026-11-28 15:05",
+ "updated": "2026-11-28 16:20",
+ "checked": "2026-11-28 16:20",
  "entries": [
   {
    "date": "2026-11-16",
@@ -3647,6 +3647,16 @@ window.CAL_DATA = {
    "time": "",
    "tags": [],
    "link": "entry1029.html"
+  },
+  {
+   "date": "2026-12-01",
+   "genres": [
+    "アプリ"
+   ],
+   "shop": "やよい軒公式",
+   "time": "",
+   "tags": [],
+   "link": "#4"
   },
   {
    "date": "2026-12-01",
