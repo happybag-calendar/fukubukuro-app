@@ -1,6 +1,6 @@
 window.CAL_DATA = {
- "updated": "2026-11-28 16:20",
- "checked": "2026-11-28 16:20",
+ "updated": "2026-11-28 17:57",
+ "checked": "2026-11-28 17:57",
  "entries": [
   {
    "date": "2026-11-16",
@@ -3153,6 +3153,18 @@ window.CAL_DATA = {
     "予告"
    ],
    "link": "entry498.html"
+  },
+  {
+   "date": "2026-11-28",
+   "genres": [
+    "食品"
+   ],
+   "shop": "あられお煎餅のもち吉",
+   "time": "21:00",
+   "tags": [
+    "人気"
+   ],
+   "link": "entry603.html"
   },
   {
    "date": "2026-11-28",
